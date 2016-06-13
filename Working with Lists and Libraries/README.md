@@ -9,3 +9,19 @@ http://stackoverflow.com/questions/183254/what-is-a-postback
 ##Page.IsPostBack Property
 
 https://msdn.microsoft.com/en-us/library/system.web.ui.page.ispostback(v=vs.110).aspx
+
+##Query Schema
+
+https://msdn.microsoft.com/en-us/library/office/ms467521.aspx
+
+##Using LINQ to SharePoint
+
+https://msdn.microsoft.com/en-us/library/office/ee535491(v=office.14).aspx
+
+##How to: Manually Generate LINQ to SharePoint Entity Classes by Using SPMetal
+
+https://msdn.microsoft.com/en-us/library/ff798329.aspx
+
+##Overriding SPMetal Defaults by Using a Parameters XML File
+
+https://msdn.microsoft.com/en-us/library/office/ee535056(v=office.14).aspx
