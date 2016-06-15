@@ -25,3 +25,11 @@ https://msdn.microsoft.com/en-us/library/ff798329.aspx
 ##Overriding SPMetal Defaults by Using a Parameters XML File
 
 https://msdn.microsoft.com/en-us/library/office/ee535056(v=office.14).aspx
+
+##Designing large lists and maximizing list performance (SharePoint Server 2010)
+
+https://technet.microsoft.com/en-us/library/cc262813(v=office.14).aspx
+
+##ContentIterator class
+
+https://msdn.microsoft.com/en-us/library/microsoft.office.server.utilities.contentiterator.aspx
