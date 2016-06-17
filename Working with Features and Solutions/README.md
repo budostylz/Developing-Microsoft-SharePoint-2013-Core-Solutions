@@ -21,3 +21,7 @@ https://technet.microsoft.com/en-us/library/ee721992(v=office.14).aspx
 ##SPSolutionValidator Class
 
 https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.usercode.spsolutionvalidator(office.14).aspx
+
+##What is difference between Feature.xml, Manifest.xml, Elements.xml & Onet.xml in SharePoint?
+
+https://social.msdn.microsoft.com/Forums/office/en-US/f89232a0-0066-418b-9050-c9f6c329c50c/what-is-difference-between-featurexml-manifestxml-elementsxml-onetxml-in-sharepoint?forum=sharepointdevelopment
