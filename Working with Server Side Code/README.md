@@ -17,3 +17,16 @@ https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.administration.spj
 ##SPWorkItemJobDefinition members
 
 https://msdn.microsoft.com/en-us/library/office/microsoft.sharepoint.administration.spworkitemjobdefinition.aspx
+
+##SPPropertyBag class
+
+https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.utilities.sppropertybag.aspx
+
+##SPWebConfigModification class
+
+https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.administration.spwebconfigmodification.aspx
+
+##SPPersistedObject class
+
+https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.administration.sppersistedobject.aspx
+
