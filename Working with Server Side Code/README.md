@@ -5,3 +5,15 @@ https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.webpartpages.webpa
 ##Page.PreRenderComplete Event
 
 https://msdn.microsoft.com/en-us/library/system.web.ui.page.prerendercomplete(v=vs.110).aspx
+
+##SPEventReceiverBase class
+
+https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.speventreceiverbase.aspx
+
+##SPJobDefinition class
+
+https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.administration.spjobdefinition(v=office.15).aspx
+
+##SPWorkItemJobDefinition members
+
+https://msdn.microsoft.com/en-us/library/office/microsoft.sharepoint.administration.spworkitemjobdefinition.aspx
