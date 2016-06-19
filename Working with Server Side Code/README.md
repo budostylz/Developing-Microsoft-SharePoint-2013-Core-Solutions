@@ -30,3 +30,7 @@ https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.administration.spw
 
 https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.administration.sppersistedobject.aspx
 
+##SPEventPropertiesBase members
+
+https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.speventpropertiesbase_members.aspx
+
