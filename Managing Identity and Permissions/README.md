@@ -30,5 +30,11 @@ https://technet.microsoft.com/en-us/magazine/2006.01.howitworksntfs.aspx
 
 https://msdn.microsoft.com/en-us/library/bb742516.aspx
 
+##SAML Tokens and Claims
+
+https://msdn.microsoft.com/en-us/library/ms733083(v=vs.110).aspx
+
+
+
 
 
