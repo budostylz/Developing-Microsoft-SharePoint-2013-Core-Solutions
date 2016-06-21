@@ -50,6 +50,14 @@ https://msdn.microsoft.com/en-us/library/b5ysx397(v=vs.71).aspx
 
 https://msdn.microsoft.com/en-us/library/ms164660(v=vs.85).aspx
 
+##SPClaimProvider class
+
+https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.administration.claims.spclaimprovider.aspx
+
+##SPClaimProviderFeatureReceiver class
+
+https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.administration.claims.spclaimproviderfeaturereceiver.aspx
+
 
 
 
