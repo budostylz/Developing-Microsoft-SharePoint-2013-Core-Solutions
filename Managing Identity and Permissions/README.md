@@ -34,6 +34,22 @@ https://msdn.microsoft.com/en-us/library/bb742516.aspx
 
 https://msdn.microsoft.com/en-us/library/ms733083(v=vs.110).aspx
 
+##MembershipProvider Class
+
+https://msdn.microsoft.com/en-us/library/system.web.security.membershipprovider(v=vs.110).aspx
+
+##RoleProvider Class
+
+https://msdn.microsoft.com/en-us/library/system.web.security.roleprovider(v=vs.110).aspx
+
+##ASP.NET Settings Schema
+
+https://msdn.microsoft.com/en-us/library/b5ysx397(v=vs.71).aspx
+
+##roleManager Element (ASP.NET Settings Schema) 
+
+https://msdn.microsoft.com/en-us/library/ms164660(v=vs.85).aspx
+
 
 
 

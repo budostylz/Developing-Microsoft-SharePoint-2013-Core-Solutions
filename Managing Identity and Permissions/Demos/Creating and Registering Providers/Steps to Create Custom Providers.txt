@@ -1,0 +1,11 @@
+1. Create provider classes inheriting from MembershipProvider and RoleProvider classes
+2. Deploy classes to GAC
+3. Get strong name of deployed assemblies
+4. Register Providers at web.config files:
+   a. Central Administration web.config //inetpub/wwwroot/wss/VirtualDirectories
+   b. Web Application web.config /inetpub/wwwroot/wss/VirtualDirectories
+   c. SecurityTokenServiceApplication web.config (IIS ---> SharePoint Web Services ---> SecurityTokenServiceApplication ---> Right-Click ---> Explore)
+
+5. Go to Authentication Providers for Web Application in Central Admin
+6. Zone = Default
+7. Enable Forms Based Authentication(FBA) Base on the names in web.config files
