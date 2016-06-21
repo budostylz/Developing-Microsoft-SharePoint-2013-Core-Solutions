@@ -18,6 +18,10 @@ https://msdn.microsoft.com/en-us/library/7t6b43z4.aspx
 
 https://msdn.microsoft.com/en-us/library/bb897402.aspx
 
+##Claims provider in SharePoint 2013
+
+https://msdn.microsoft.com/en-us/library/office/ee535894.aspx
+
 ##How to: Create a claims provider in SharePoint 2013
 
 https://msdn.microsoft.com/en-us/library/office/ee537299.aspx
