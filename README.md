@@ -10,6 +10,10 @@ https://www.microsoft.com/en-us/learning/exam-70-488.aspx
 
 https://technet.microsoft.com/en-us/library/cc263199.aspx
 
+##Technical diagrams (SharePoint Foundation 2010)
+
+https://technet.microsoft.com/en-us/library/ee806874(v=office.14).aspx
+
 
 
 
