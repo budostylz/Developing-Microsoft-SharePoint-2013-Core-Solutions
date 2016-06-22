@@ -1,0 +1,2 @@
+1. Create Claims Provider Class Inheriting from SPClaimsProvider
+2. Create Feature Event Receiver Inheriting from SPClaimProviderFeatureReceiver
