@@ -14,6 +14,10 @@ https://technet.microsoft.com/en-us/library/cc263199.aspx
 
 https://technet.microsoft.com/en-us/library/ee806874(v=office.14).aspx
 
+##Choose the right API set in SharePoint 2013
+
+https://msdn.microsoft.com/en-us/library/office/jj164060(v=office.15).aspx#Factors
+
 
 
 
