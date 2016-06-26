@@ -1,0 +1,9 @@
+1. Create and Register a Certificate
+2. Create a token issuer based on the certificate.
+3. Create an app principal
+4. Register app principal and client id in remote application (AppManifest.xml)
+5. Register ClientId, IssuerId, Certificate(ClientSigningCertificatePath and ClientSigningCertificatePassword) in remote web (web.config)
+
+1. Created and registered an X.509 certificate
+2. Registered a trusted security token issuer
+3. Registered an app principal
