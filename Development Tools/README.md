@@ -10,6 +10,10 @@ https://www.visualstudio.com/en-us/features/office-tools-vs.aspx
 
 https://store.office.com/en-001/app.aspx?assetid=WA102963791&ui=en-US&rs=en-001&ad=US&appredirect=false
 
+##Fiddler
+
+http://www.telerik.com/fiddler
+
 
 
 
