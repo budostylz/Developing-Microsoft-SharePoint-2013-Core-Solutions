@@ -20,6 +20,14 @@ https://store.office.com/en-us/appshome.aspx?ui=en-US&rs=en-US&ad=US
 
 https://msdn.microsoft.com/en-us/library/office/jj583365.aspx
 
+##Configure an environment for apps for SharePoint (SharePoint 2013)
+
+https://technet.microsoft.com/en-us/library/fp161236.aspx
+
+##Manage the App Catalog in SharePoint 2013
+
+https://technet.microsoft.com/en-us/library/fp161234.aspx
+
 
 
 
