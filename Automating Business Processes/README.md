@@ -18,6 +18,10 @@ http://www.codeproject.com/Tips/620173/Step-by-Step-Approach-to-Create-a-Visual-
 
 https://msdn.microsoft.com/en-us/library/cc189036(v=vs.95)
 
+##Workflow actions and activities reference for SharePoint 2013
+
+https://msdn.microsoft.com/en-us/library/office/jj163867.aspx
+
 
 
 
