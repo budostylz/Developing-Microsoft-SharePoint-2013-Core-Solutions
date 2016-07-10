@@ -14,6 +14,10 @@ https://msdn.microsoft.com/en-us/library/office/bb897931.aspx
 
 http://www.codeproject.com/Tips/620173/Step-by-Step-Approach-to-Create-a-Visual-Studio-Sh
 
+##XAML Overview
+
+https://msdn.microsoft.com/en-us/library/cc189036(v=vs.95)
+
 
 
 
