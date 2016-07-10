@@ -10,6 +10,10 @@ https://blogs.office.com/2012/11/12/sharepoint-2013-workflows-in-visio/
 
 https://msdn.microsoft.com/en-us/library/office/bb897931.aspx
 
+##Step by Step Approach to Create a Visual Studio SharePoint Workflow (Sequential)
+
+http://www.codeproject.com/Tips/620173/Step-by-Step-Approach-to-Create-a-Visual-Studio-Sh
+
 
 
 
