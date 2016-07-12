@@ -22,6 +22,10 @@ https://msdn.microsoft.com/en-us/library/office/ms474369(v=office.14).aspx
 
 https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spwebprovisioningprovider.aspx
 
+---------------------------------
+
+###When creating site templates, grab a copy of ONET.xml and modify.
+
 
 
 
