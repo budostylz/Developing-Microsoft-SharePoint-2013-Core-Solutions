@@ -18,6 +18,10 @@ https://technet.microsoft.com/en-us/library/ee806874(v=office.14).aspx
 
 https://msdn.microsoft.com/en-us/library/office/jj164060(v=office.15).aspx#Factors
 
+##Caml Builder and some dev tools
+
+http://www.u2u.be/Software
+
 
 
 
