@@ -26,6 +26,8 @@ https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spwebprovisioningp
 
 https://msdn.microsoft.com/en-us/library/office/aa544552.aspx
 
+--------------------------------
+
 ##Object Model Entry Points
 
 ###SPFarm
@@ -48,9 +50,11 @@ https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.administration.spw
 
 https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spsite.allwebs
 
+---------------------------------
 
+##Host-named site collection architecture and deployment (SharePoint 2013)
 
-
+https://technet.microsoft.com/en-us/library/cc424952.aspx
 
 ---------------------------------
 
