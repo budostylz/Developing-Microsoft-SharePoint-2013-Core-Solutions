@@ -26,6 +26,32 @@ https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spwebprovisioningp
 
 https://msdn.microsoft.com/en-us/library/office/aa544552.aspx
 
+##Object Model Entry Points
+
+###SPFarm
+
+https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.administration.spfarm.aspx
+
+###SPFarm.Services
+
+https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.administration.spfarm.services.aspx
+
+###SPWebService.WebApplications
+
+https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.administration.spwebservice.webapplications.aspx
+
+###SPWebApplication.Sites
+
+https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.administration.spwebapplication.sites.aspx
+
+##SPSite.AllWebs
+
+https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spsite.allwebs
+
+
+
+
+
 ---------------------------------
 
 ###When creating site templates, grab a copy of ONET.xml and modify.
