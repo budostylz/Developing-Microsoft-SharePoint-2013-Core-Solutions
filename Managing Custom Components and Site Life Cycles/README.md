@@ -64,6 +64,10 @@ https://msdn.microsoft.com/en-us/library/office/ms434726.aspx
 
 https://msdn.microsoft.com/en-us/library/office/ms438080.aspx
 
+##Receivers Element (Event)
+
+https://msdn.microsoft.com/en-us/library/office/ms431081.aspx
+
 ---------------------------------
 
 ###When creating site templates, grab a copy of ONET.xml and modify.
