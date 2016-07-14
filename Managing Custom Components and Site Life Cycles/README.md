@@ -72,6 +72,10 @@ https://msdn.microsoft.com/en-us/library/office/ms431081.aspx
 
 https://msdn.microsoft.com/en-us/library/office/gg603694(v=office.14).aspx
 
+##SharePoint 2013 Site Template ID List for PowerShell
+
+https://absolute-sharepoint.com/2013/06/sharepoint-2013-site-template-id-list-for-powershell.html
+
 ---------------------------------
 
 ###When creating site templates, grab a copy of ONET.xml and modify.
