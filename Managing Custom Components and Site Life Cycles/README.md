@@ -56,6 +56,14 @@ https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spsite.allwebs
 
 https://technet.microsoft.com/en-us/library/cc424952.aspx
 
+##Templates Element (Site)
+
+https://msdn.microsoft.com/en-us/library/office/ms434726.aspx
+
+##Project Element (Site)
+
+https://msdn.microsoft.com/en-us/library/office/ms438080.aspx
+
 ---------------------------------
 
 ###When creating site templates, grab a copy of ONET.xml and modify.
