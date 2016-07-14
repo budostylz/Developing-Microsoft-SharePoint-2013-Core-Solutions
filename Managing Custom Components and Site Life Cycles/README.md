@@ -68,6 +68,10 @@ https://msdn.microsoft.com/en-us/library/office/ms438080.aspx
 
 https://msdn.microsoft.com/en-us/library/office/ms431081.aspx
 
+##How to: Create Localized Versions of Custom Site Definitions
+
+https://msdn.microsoft.com/en-us/library/office/gg603694(v=office.14).aspx
+
 ---------------------------------
 
 ###When creating site templates, grab a copy of ONET.xml and modify.
