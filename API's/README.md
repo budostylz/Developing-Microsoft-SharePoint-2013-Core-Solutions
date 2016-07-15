@@ -2,6 +2,10 @@
 
 http://social.technet.microsoft.com/wiki/contents/articles/12822.sharepoint-2013-apis.aspx
 
+##SharePoint Namespaces
+
+http://definitelytyped.org/docs/sharepoint--SharePoint/
+
 ##SP namespace (sp.js)
 
 https://msdn.microsoft.com/en-us/library/office/jj246996.aspx
