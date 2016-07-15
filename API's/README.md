@@ -2,7 +2,7 @@
 
 http://social.technet.microsoft.com/wiki/contents/articles/12822.sharepoint-2013-apis.aspx
 
-##SharePoint Namespaces
+##SharePoint Client Namespaces
 
 http://definitelytyped.org/docs/sharepoint--SharePoint/
 
