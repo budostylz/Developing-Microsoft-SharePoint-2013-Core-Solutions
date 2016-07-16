@@ -18,5 +18,11 @@ http://definitelytyped.org/docs/sharepoint--SharePoint/modules/spanimationutilit
 
 https://msdn.microsoft.com/en-us/library/office/ms438338.aspx
 
+##Form Element (List)
+
+https://msdn.microsoft.com/en-us/library/office/ms478121(v=office.15).aspx
+
+
+
 
 
