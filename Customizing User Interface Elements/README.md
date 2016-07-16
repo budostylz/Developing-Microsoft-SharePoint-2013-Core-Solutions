@@ -14,5 +14,9 @@ https://msdn.microsoft.com/en-us/library/office/ee552096(v=office.14).aspx
 
 http://definitelytyped.org/docs/sharepoint--SharePoint/modules/spanimationutility.html
 
+##View Element (List)
+
+https://msdn.microsoft.com/en-us/library/office/ms438338.aspx
+
 
 
