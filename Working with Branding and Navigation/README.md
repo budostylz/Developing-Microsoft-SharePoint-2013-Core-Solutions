@@ -1,6 +1,5 @@
 ##Branding
 
------------------------------------------
 
 ##Themes overview for SharePoint 2013
 
@@ -32,7 +31,6 @@ https://msdn.microsoft.com/en-us/library/office/jj720398.aspx#Prerequisites
 
 ##Navigation
 
--------------------------------------------------------------
 
 ##Overview of site navigation in SharePoint 2013
 
