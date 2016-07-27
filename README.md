@@ -22,6 +22,10 @@ https://msdn.microsoft.com/en-us/library/office/jj164060(v=office.15).aspx#Facto
 
 http://www.u2u.be/Software
 
+##Understanding multi-tenancy in SharePoint Server 2013
+
+https://technet.microsoft.com/en-us/library/dn659286.aspx
+
 
 
 
