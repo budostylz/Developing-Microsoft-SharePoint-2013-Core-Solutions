@@ -38,6 +38,16 @@ https://msdn.microsoft.com/library/office/jj220046(v=office.15)
 
 https://msdn.microsoft.com/en-us/library/office/mt210456.aspx
 
+##LayoutsPageBase members(Application Pages)
+
+https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.webcontrols.layoutspagebase_members.aspx
+
+##SPSecurityTrimmedControl class
+
+https://msdn.microsoft.com/en-us/library/office/ms438085.aspx
+
+
+
 
 
 

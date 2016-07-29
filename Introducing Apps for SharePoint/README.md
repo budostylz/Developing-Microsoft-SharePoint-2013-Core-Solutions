@@ -24,6 +24,12 @@ https://msdn.microsoft.com/en-us/library/office/dn735924.aspx
 
 https://msdn.microsoft.com/en-us/library/office/jj163257.aspx
 
+##Deploy and install a SharePoint-hosted SharePoint Add-in
+
+https://msdn.microsoft.com/en-us/library/office/mt148586.aspx
+
+
+
 
 
 
