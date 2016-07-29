@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <!-- Parent ContentType: Contact (0x0106) -->
+  <ContentType ID="0x01060062FDDC4473D7430AA5AE1A547B89212C" Name="SalesLead" Group="Custom Content Types" Description="My Content Type" Inherits="TRUE" Version="0">
+    <FieldRefs>
+      <FieldRef ID="{6b3d0313-fc00-4793-ac59-cb25f959b78b}" DisplayName="Referring Company" Required="FALSE" Name="ReferringCompany" />
+    </FieldRefs>
+  </ContentType>
+</Elements>

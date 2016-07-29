@@ -26,3 +26,19 @@ https://msdn.microsoft.com/en-us/library/office/jj862340.aspx
 
 https://msdn.microsoft.com/en-us/library/office/jj720398.aspx#Prerequisites
 
+##Module Element (Module)
+
+https://msdn.microsoft.com/en-us/library/office/ms434127.aspx
+
+##SharePoint Add-ins UX design guidelines
+
+https://msdn.microsoft.com/library/office/jj220046(v=office.15)
+
+##Add custom client-side rendering to a SharePoint-hosted SharePoint Add-in
+
+https://msdn.microsoft.com/en-us/library/office/mt210456.aspx
+
+
+
+
+

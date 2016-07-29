@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="23bc9849-882e-4b7b-bd89-10862b7921ea" solutionId="23bc9849-882e-4b7b-bd89-10862b7921ea" resetWebServer="false" sharePointProductVersion="15.0" name="AddressFieldType" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="961356c2-eed8-49f4-a716-15b3c6a01a11" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="91adbeb0-6459-496a-b1cc-1bf9ef74b123" />
+    <projectItemReference itemId="afa40b33-5e64-4eb6-8e4e-475df620806c" />
+  </projectItems>
+</package>

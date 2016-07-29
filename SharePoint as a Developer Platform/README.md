@@ -12,3 +12,9 @@ https://blogs.msdn.microsoft.com/michael_yeager/2007/11/03/sharepoint-terms-ghos
 1. Ghosted === Un-Customized Site Definition
 2. Unghosted === Customized Site Definition
 3. Reghosted === Reset to Site Definition
+
+
+
+##ClientWebPart element (ElementDefinitionCollection complexType) (AppHostWebFeatures)
+
+https://msdn.microsoft.com/en-us/library/office/jj997132.aspx

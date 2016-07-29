@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+
+  <CustomActionGroup
+    Id="WingtipSiteConfiguration"
+    Location="Microsoft.SharePoint.SiteSettings"
+    Title="Wingtip Site Configuration"
+    Sequence="1"
+    Description="Wingtip application pages"
+    ImageUrl="/_layouts/15/images/WingtipApplicationPages/WingtipIcon.gif" />
+
+  <CustomAction
+     Id="WingtipSiteSettingsConfig1"
+     GroupId="WingtipSiteConfiguration"
+     Location="Microsoft.SharePoint.SiteSettings"
+     Rights="ManageWeb"
+     Sequence="1"
+     Title="Site Config 1"
+     Description="Use this page to configure the current site" >
+    <UrlAction Url="~site/_layouts/WingtipApplicationPages/SiteConfig1.aspx" />
+  </CustomAction>
+
+  <CustomAction
+   Id="WingtipSiteSettingsConfig2"
+   GroupId="WingtipSiteConfiguration"
+   Location="Microsoft.SharePoint.SiteSettings"
+   Rights="ManageWeb"
+   Sequence="2"
+   Title="Site Config 2"
+   Description="Use this page to configure the current site" >
+    <UrlAction Url="~site/_layouts/WingtipApplicationPages/SiteConfig2.aspx" />
+  </CustomAction>
+
+  <CustomAction
+    Id="WingtipSiteActionsConfig1"
+		GroupId="SiteActions"
+		Location="Microsoft.SharePoint.StandardMenu"
+    Rights="ManageWeb"
+    Sequence="1"
+    Title="Site Config 1"
+    Description="Use this page to configure the current site" >
+    <UrlAction Url="~site/_layouts/WingtipApplicationPages/SiteConfig1.aspx" />
+  </CustomAction>
+
+  <CustomAction
+    Id="WingtipSiteActionsConfig2"
+		GroupId="SiteActions"
+		Location="Microsoft.SharePoint.StandardMenu"
+    Rights="ManageWeb"
+    Sequence="2"
+    Title="Site Config 2"
+    Description="Use this fancier page to configure the current site" >
+    <UrlAction Url="~site/_layouts/WingtipApplicationPages/SiteConfig2.aspx" />
+  </CustomAction>
+
+</Elements>

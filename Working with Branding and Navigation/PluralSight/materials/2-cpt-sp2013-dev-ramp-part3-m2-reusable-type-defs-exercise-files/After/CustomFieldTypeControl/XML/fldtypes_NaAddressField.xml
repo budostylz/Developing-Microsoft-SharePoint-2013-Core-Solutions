@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FieldTypes>
+  <FieldType>
+    <Field Name="TypeName">NaAddressField</Field>
+    <Field Name="ParentType">MultiColumn</Field>
+    <Field Name="TypeDisplayName">North American Mailing Address</Field>
+    <Field Name="TypeShortDescription">NA Address</Field>
+    <Field Name="UserCreatable">TRUE</Field>
+    <Field Name="Sortable">TRUE</Field>
+    <Field Name="Filterable">TRUE</Field>
+    <Field Name="FieldTypeClass">AddressFieldType.NaAddressField, $SharePoint.Project.AssemblyFullName$</Field>
+    <RenderPattern Name="DisplayPattern">
+      <Switch>
+        <Expr>
+          <Column/>
+        </Expr>
+        <Case Value=""></Case>
+        <Default>
+          <Column SubColumnNumber="0" HTMLEncode="TRUE" />
+          <HTML><![CDATA[<br />]]></HTML>
+          <Column SubColumnNumber="1" HTMLEncode="TRUE" />
+          <HTML><![CDATA[<br />]]></HTML>
+          <Column SubColumnNumber="2" HTMLEncode="TRUE" />
+          <HTML><![CDATA[,&nbsp;]]></HTML>
+          <Column SubColumnNumber="3" HTMLEncode="TRUE" />
+          <HTML><![CDATA[&nbsp;]]></HTML>
+          <Column SubColumnNumber="4" HTMLEncode="TRUE" />
+        </Default>
+      </Switch>
+    </RenderPattern>
+  </FieldType>
+</FieldTypes>

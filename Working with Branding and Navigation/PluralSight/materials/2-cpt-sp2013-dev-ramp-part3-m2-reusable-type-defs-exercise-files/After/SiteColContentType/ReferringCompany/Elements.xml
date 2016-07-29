@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">  
+  <Field
+       ID="{6b3d0313-fc00-4793-ac59-cb25f959b78b}"
+       Name="ReferringCompany"
+       DisplayName="Referring Company"
+       Type="Text"
+       Required="FALSE"
+       Group="Wingtip Site Columns">
+  </Field>
+</Elements>

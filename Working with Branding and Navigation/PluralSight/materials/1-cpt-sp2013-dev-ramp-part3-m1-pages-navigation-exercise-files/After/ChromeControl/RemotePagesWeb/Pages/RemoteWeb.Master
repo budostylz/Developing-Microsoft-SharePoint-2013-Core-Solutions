@@ -1,0 +1,67 @@
+﻿<%@ Master Language="C#" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+    <title>Remote App Pages</title>
+    <link href="/Contents/app.css" type="text/css" rel="Stylesheet" />
+    <script src="../Scripts/jquery-1.7.1.min.js"></script>
+    <script type="text/javascript">
+        var hostWebUrl;
+        var hostLayoutsUrl;
+
+        // Load the SharePoint resources.
+        $(document).ready(function () {
+
+            // Get the URI decoded app web URL.
+            hostWebUrl = decodeURIComponent(getQueryStringParameter("SPHostUrl"));
+            hostLayoutsUrl = hostWebUrl + "/_layouts/15/";
+
+            // Load the js file and continue to the success handler.
+            $.getScript(hostLayoutsUrl + "SP.UI.Controls.js", renderChromeControl)
+        });
+
+
+        function getQueryStringParameter(paramToRetrieve) {
+            var params = document.URL.split("?")[1].split("&");
+            var strParams = "";
+            for (var i = 0; i < params.length; i = i + 1) {
+                var singleParam = params[i].split("=");
+                if (singleParam[0] == paramToRetrieve)
+                    return singleParam[1];
+            }
+        }
+
+        function renderChromeControl() {
+            var options = {
+                siteUrl: hostWebUrl,
+                siteTitle: "Host Web",
+                appHelpPageUrl: "help.aspx?SPHostUrl=" + hostWebUrl,
+                appIconUrl: "/Contents/AppIcon.png",
+                appTitle: "Wingtip App",
+                settingsLinks: [
+                  { linkUrl: "start.aspx?SPHostUrl=" + hostWebUrl, displayName: "Home" },
+                  { linkUrl: "about.aspx?SPHostUrl=" + hostWebUrl, displayName: "About" },
+                  { linkUrl: "contact.aspx?SPHostUrl=" + hostWebUrl, displayName: "Contact" }
+                ]
+            };
+
+            var nav = new SP.UI.Controls.Navigation("chrome_ctrl_container", options);
+            nav.setVisible(true);
+        }
+
+    </script>
+    <asp:ContentPlaceHolder ID="PlaceholderAdditionalPageHead" runat="server" />
+</head>
+
+<body>
+    <form id="form1" runat="server">
+        <div id="pageWidth">
+            <div id="chrome_ctrl_container"></div>
+            <div id="contentBody">
+                <asp:ContentPlaceHolder ID="PlaceholderMain" runat="server" />
+            </div>
+        </div>
+    </form>
+</body>
+</html>
