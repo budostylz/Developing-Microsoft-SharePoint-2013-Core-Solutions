@@ -28,6 +28,14 @@ https://msdn.microsoft.com/en-us/library/office/jj163257.aspx
 
 https://msdn.microsoft.com/en-us/library/office/mt148586.aspx
 
+##URL strings and tokens in SharePoint Add-ins
+
+https://msdn.microsoft.com/en-us/library/office/jj163816.aspx
+
+##App element (SharePoint Add-in Manifest)
+
+https://msdn.microsoft.com/en-us/library/office/jj583365.aspx
+
 
 
 
