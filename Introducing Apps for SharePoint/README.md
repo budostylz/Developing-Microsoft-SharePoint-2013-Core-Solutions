@@ -36,6 +36,10 @@ https://msdn.microsoft.com/en-us/library/office/jj163816.aspx
 
 https://msdn.microsoft.com/en-us/library/office/jj583365.aspx
 
+##Office Add-ins platform overview
+
+https://dev.office.com/docs/add-ins/overview/office-add-ins
+
 
 
 

@@ -62,6 +62,9 @@ https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.administration.cla
 
 https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.administration.claims.spclaimproviderfeaturereceiver.aspx
 
+##Windows Identity Foundation
+
+https://msdn.microsoft.com/en-us/library/hh377151.aspx
 
 
 
