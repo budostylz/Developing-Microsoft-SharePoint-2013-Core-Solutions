@@ -40,6 +40,30 @@ https://msdn.microsoft.com/en-us/library/office/jj583365.aspx
 
 https://dev.office.com/docs/add-ins/overview/office-add-ins
 
+##Explore the app manifest structure and the package of a SharePoint Add-in
+
+https://msdn.microsoft.com/en-us/library/office/fp179918.aspx
+
+##Add license checks to Office and SharePoint Add-ins
+
+https://msdn.microsoft.com/en-us/library/office/jj164035.aspx
+
+##Search add-ins in SharePoint 2013
+
+https://msdn.microsoft.com/en-us/library/office/dn554260.aspx
+
+##PowerShell Commands
+
+---------------------------------------------------------------
+
+##Install-SPApp
+
+https://technet.microsoft.com/en-us/library/jj219537.aspx
+
+##Uninstall-SPAppInstance
+
+https://technet.microsoft.com/en-us/library/jj219643.aspx
+
 
 
 
