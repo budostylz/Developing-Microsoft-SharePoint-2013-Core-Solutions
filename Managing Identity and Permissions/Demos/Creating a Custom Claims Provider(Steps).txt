@@ -6,4 +6,6 @@
 	c. using Microsoft.SharePoint.Administration.Claims
 	d. using using Microsoft.SharePoint.WebControls
 	e. Class Inherits from SPClaimProvider
-4.Register ClaimsProvider to Feature Receiver -> Scope : Farm
+
+4. Create Farm Scoped Feature
+5. Register ClaimsProvider to Feature Receiver
