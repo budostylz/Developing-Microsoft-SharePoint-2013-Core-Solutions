@@ -4,6 +4,10 @@
 
 https://msdn.microsoft.com/en-us/library/office/fp179930.aspx
 
+##Overview of apps for SharePoint 2013
+
+https://technet.microsoft.com/en-us/library/fp161230.aspx
+
 ##Use the client chrome control in SharePoint Add-ins
 
 https://msdn.microsoft.com/en-us/library/office/fp179916.aspx
@@ -51,6 +55,14 @@ https://msdn.microsoft.com/en-us/library/office/jj164035.aspx
 ##Search add-ins in SharePoint 2013
 
 https://msdn.microsoft.com/en-us/library/office/dn554260.aspx
+
+##Plan app permissions management in SharePoint 2013
+
+https://technet.microsoft.com/en-us/library/jj219576(office.15).aspx
+
+##SPClaimsAuthMembershipProvider.GetUser method (Object, Boolean)
+
+https://msdn.microsoft.com/en-us/library/office/ee553850.aspx
 
 ##PowerShell Commands
 
