@@ -1,0 +1,9 @@
+Assembly binding can map an older version of a solution to a target dll file.
+
+1. Go to solutions properties (AssemblyInfo.cs) 
+2. Update AssemblyVersion and AssemblyFileVersion
+4. Modify Package.Template.xml
+5.Publish
+
+
+
