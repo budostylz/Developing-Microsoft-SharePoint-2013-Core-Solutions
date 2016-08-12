@@ -33,3 +33,12 @@ https://technet.microsoft.com/en-us/library/cc262813(v=office.14).aspx
 ##ContentIterator class
 
 https://msdn.microsoft.com/en-us/library/microsoft.office.server.utilities.contentiterator.aspx
+
+##SPQuery class
+
+https://msdn.microsoft.com/library/microsoft.sharepoint.spquery
+
+##SPSiteDataQuery class
+
+https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spsitedataquery.aspx
+

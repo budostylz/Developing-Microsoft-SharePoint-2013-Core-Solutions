@@ -18,6 +18,21 @@ http://www.telerik.com/fiddler
 
 https://www.spcaf.com
 
+##SharePoint Manager 2013
+
+https://spm.codeplex.com
+
+##U2U Caml Query Builder for SharePoint 2013 (Standalone Edition)
+
+http://www.u2u.be/Software
+
+##SharePoint CAML Query Helper for 2007, 2010, 2013, Office 365 SharePoint Online
+
+https://spcamlqueryhelper.codeplex.com
+
+
+
+
 
 
 
