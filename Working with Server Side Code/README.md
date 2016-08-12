@@ -34,3 +34,7 @@ https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.administration.spp
 
 https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.speventpropertiesbase_members.aspx
 
+##Walkthrough: Creating and Implementing a Custom WCF Service in SharePoint Foundation
+
+https://msdn.microsoft.com/en-us/library/office/ff521584(v=office.14).aspx
+
