@@ -33,3 +33,11 @@ http://dev.office.com/reference/add-ins/javascript-api-for-office
 ##Common Programming Tasks in the JavaScript Object Model
 
 https://msdn.microsoft.com/en-us/library/office/hh185015%28v=office.14%29.aspx
+
+##OData
+
+http://www.odata.org/
+
+##URI Conventions (OData Version 2.0)
+
+http://www.odata.org/documentation/odata-version-2-0/uri-conventions/
