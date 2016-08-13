@@ -30,6 +30,10 @@ http://www.u2u.be/Software
 
 https://spcamlqueryhelper.codeplex.com
 
+##SharePoint Color Palette Tool
+
+https://www.microsoft.com/en-us/download/details.aspx?id=38182
+
 
 
 

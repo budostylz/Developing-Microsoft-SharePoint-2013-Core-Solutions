@@ -42,3 +42,11 @@ https://msdn.microsoft.com/library/microsoft.sharepoint.spquery
 
 https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spsitedataquery.aspx
 
+##SPWebConfigModification class(Write/Modify Configuration Files)
+
+https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.administration.spwebconfigmodification.aspx
+
+##ConfigurationManager Class
+
+https://msdn.microsoft.com/en-us/library/system.configuration.configurationmanager(v=vs.110).aspx
+

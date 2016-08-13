@@ -46,6 +46,46 @@ https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.webcontrols.layout
 
 https://msdn.microsoft.com/en-us/library/office/ms438085.aspx
 
+------------------------Create Custom Themes and Composed Looks-----------------------------------------------------
+
+1. Download SharePoint Color Palette Tool
+
+https://www.microsoft.com/en-us/download/details.aspx?id=38182
+
+2. Create a theme and upload to Themes Gallery
+
+3. Create a Compose Look based on Theme and Color Palette
+
+4. Reference a Master Page to use
+
+
+
+-----------------------Create Custom Master Page------------------------------------------------------------------
+
+1. Create HTML File
+
+2. Upload HTML file to Master Page Gallery
+
+3. Open Design Manager
+
+4. Click Edit Master Page
+
+5. Click Convert HTML file to MasterPage
+
+6. Choose created HTML files
+
+
+
+---------------------Create and Associate Device Channels------------------------------------------------------------
+
+1. Create Device Channel in Device Manager
+
+2. Disable Mobile Browser View Feature(Web) to use Device Channel in Master Page Settings
+
+3. Go to Site Settings -> Look and Feel -> Master Page to associate device channel to master page
+
+
+
 
 
 
