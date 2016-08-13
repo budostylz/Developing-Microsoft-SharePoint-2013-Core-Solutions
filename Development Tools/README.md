@@ -34,6 +34,10 @@ https://spcamlqueryhelper.codeplex.com
 
 https://www.microsoft.com/en-us/download/details.aspx?id=38182
 
+##Ildasm.exe (IL Disassembler)
+
+https://msdn.microsoft.com/en-us/library/f7dy01k1(v=vs.110).aspx
+
 
 
 
