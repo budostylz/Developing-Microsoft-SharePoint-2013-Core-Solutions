@@ -34,6 +34,10 @@ https://msdn.microsoft.com/en-us/library/office/ms438338.aspx
 
 https://msdn.microsoft.com/en-us/library/office/ms478121(v=office.15).aspx
 
+##Server Ribbon Architecture in SharePoint 2010
+
+https://blogs.msdn.microsoft.com/sharepointdev/2012/01/23/server-ribbon-architecture-in-sharepoint-2010/#comment-7015
+
 --------AddIns Compare to Solutions(CustomActions)----------------------
 
 1. Create AddIn and Add New Items(Ribbon Custom Action and Menu Item Custom Action)

@@ -46,6 +46,7 @@ https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.webcontrols.layout
 
 https://msdn.microsoft.com/en-us/library/office/ms438085.aspx
 
+
 ------------------------Create Custom Themes and Composed Looks-----------------------------------------------------
 
 1. Download SharePoint Color Palette Tool
