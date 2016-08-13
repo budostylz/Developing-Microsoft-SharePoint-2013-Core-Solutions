@@ -86,6 +86,16 @@ https://www.microsoft.com/en-us/download/details.aspx?id=38182
 
 
 
+-------------------Package Custom Themes, Composed Looks and Master Pages--------------------------------------------
+
+1. Click Create Design Package in Design Manager
+
+2. Save wsp
+
+3. Upload to Solution Gallery
+
+
+
 
 
 
