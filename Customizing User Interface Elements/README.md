@@ -34,6 +34,14 @@ https://msdn.microsoft.com/en-us/library/office/ms438338.aspx
 
 https://msdn.microsoft.com/en-us/library/office/ms478121(v=office.15).aspx
 
+--------AddIns Compare to Solutions(CustomActions)----------------------
+
+1. Create AddIn and Add New Items(Ribbon Custom Action and Menu Item Custom Action)
+
+2. Copy xml of both controls
+
+3. Create modules in eith farm or sandbox solutions and add copied xml to implement custom actions into solutions.
+
 
 
 
