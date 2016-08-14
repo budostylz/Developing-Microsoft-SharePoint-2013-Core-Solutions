@@ -45,13 +45,13 @@ https://msdn.microsoft.com/en-us/library/office/jj163911.aspx
 
 ###--------------------Upgrade Workflows--------------------------------------
 
-SharePoint Designer
+####SharePoint Designer
 
 a. Save workflow as template
 
 b. Modify version attribute in Feature.xml file 
 
-Visual Studio
+####Visual Studio
 
 a. Create solution 
 
