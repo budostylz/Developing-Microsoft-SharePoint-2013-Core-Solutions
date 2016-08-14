@@ -48,17 +48,25 @@ https://msdn.microsoft.com/en-us/library/office/jj163911.aspx
 SharePoint Designer
 
 a. Save workflow as template
+
 b. Modify version attribute in Feature.xml file 
 
 Visual Studio
 
 a. Create solution 
+
 b. Add workflow item
+
 c. Modify feature version
+
 d. Go to Workflow Settings(list/site)
+
 e. Select Remove, Block, or Restore Workflow
+
 f. Select 'No New Instances First' to prevent new instances of workflow to run
+
 g. Deploy workflow
+
 h. Remove old workflow instance
 
 
