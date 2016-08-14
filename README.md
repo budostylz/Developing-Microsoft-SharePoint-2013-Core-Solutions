@@ -30,13 +30,7 @@ https://technet.microsoft.com/en-us/library/dn659286.aspx
 
 https://msdn.microsoft.com/en-us/library/ee231517.aspx
 
-##Action Element (WorkflowInfo)
 
-https://msdn.microsoft.com/en-us/library/office/bb897931.aspx
-
-##Workflow actions in SharePoint Designer 2010: A quick reference guide
-
-https://support.office.com/en-us/article/Workflow-actions-in-SharePoint-Designer-2010-A-quick-reference-guide-5a7ad276-0ed7-49b0-b652-e56a77dd96c6
 
 
 
