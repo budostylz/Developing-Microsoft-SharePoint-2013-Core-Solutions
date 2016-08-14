@@ -22,6 +22,12 @@ https://msdn.microsoft.com/en-us/library/cc189036(v=vs.95)
 
 https://msdn.microsoft.com/en-us/library/office/jj163867.aspx
 
+###--------------WalkThroughs--------------------------------------------
+
+##Walkthrough: Creating a Workflow with Association and Initiation Forms
+
+https://msdn.microsoft.com/en-us/library/ee231590.aspx
+
 
 
 
