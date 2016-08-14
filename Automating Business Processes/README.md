@@ -22,11 +22,19 @@ https://msdn.microsoft.com/en-us/library/cc189036(v=vs.95)
 
 https://msdn.microsoft.com/en-us/library/office/jj163867.aspx
 
+##Introduction to designing and customizing workflows
+
+https://support.office.com/en-us/article/Introduction-to-designing-and-customizing-workflows-32c9c0bf-5e20-4f74-8b9c-d3ea79f2962b
+
 ###--------------WalkThroughs--------------------------------------------
 
 ##Walkthrough: Creating a Workflow with Association and Initiation Forms
 
 https://msdn.microsoft.com/en-us/library/ee231590.aspx
+
+##How to: Build and deploy workflow custom actions
+
+https://msdn.microsoft.com/en-us/library/office/jj163911.aspx
 
 
 
