@@ -26,6 +26,10 @@ http://www.u2u.be/Software
 
 https://technet.microsoft.com/en-us/library/dn659286.aspx
 
+##Developing SharePoint Solutions
+
+https://msdn.microsoft.com/en-us/library/ee231517.aspx
+
 
 
 
