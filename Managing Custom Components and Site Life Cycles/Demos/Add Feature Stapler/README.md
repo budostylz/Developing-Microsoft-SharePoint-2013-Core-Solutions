@@ -7,3 +7,7 @@
 2. Apply the FeatureSiteTemplateAssociation Element to the empty element
 
 3. Deploy the feature(s)
+
+##FeatureSiteTemplateAssociation Element (FeatureSiteTemplateAssociation)
+
+https://msdn.microsoft.com/en-us/library/office/aa544552.aspx
