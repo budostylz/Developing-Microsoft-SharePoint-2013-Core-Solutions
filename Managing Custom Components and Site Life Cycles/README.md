@@ -30,6 +30,14 @@ https://msdn.microsoft.com/en-us/library/office/aa544552.aspx
 
 https://msdn.microsoft.com/en-us/library/office/aa979683(v=office.14).aspx
 
+##Plan for information management policy in SharePoint Server 2013
+
+https://technet.microsoft.com/en-us/library/cc262490.aspx
+
+##Set a file template for a document or form library
+
+https://support.office.com/en-us/article/Set-a-file-template-for-a-document-or-form-library-8e0177eb-46bd-4346-9998-330c32733c25
+
 --------------------------------
 
 ##Object Model Entry Points
