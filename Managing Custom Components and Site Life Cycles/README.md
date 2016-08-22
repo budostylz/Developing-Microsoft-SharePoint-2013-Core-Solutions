@@ -26,6 +26,10 @@ https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spwebprovisioningp
 
 https://msdn.microsoft.com/en-us/library/office/aa544552.aspx
 
+##Deciding Between Custom Web Templates and Custom Site Definitions
+
+https://msdn.microsoft.com/en-us/library/office/aa979683(v=office.14).aspx
+
 --------------------------------
 
 ##Object Model Entry Points
