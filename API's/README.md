@@ -32,9 +32,9 @@ http://dev.office.com/reference/add-ins/javascript-api-for-office
 
 ##Index of Windows PowerShell cmdlets for SharePoint 2013
 
-##Common Programming Tasks in the JavaScript Object Model
-
 https://technet.microsoft.com/en-us/library/ff678226.aspx
+
+##Common Programming Tasks in the JavaScript Object Model
 
 https://msdn.microsoft.com/en-us/library/office/hh185015%28v=office.14%29.aspx
 
