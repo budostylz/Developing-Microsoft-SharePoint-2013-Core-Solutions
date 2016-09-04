@@ -30,6 +30,10 @@ https://technet.microsoft.com/en-us/library/dn659286.aspx
 
 https://msdn.microsoft.com/en-us/library/ee231517.aspx
 
+##SHAREPOINT 2013 OUT OF BOX WEB PARTS
+
+https://wonderlaura.com/2014/02/12/sharepoint-2013-out-of-box-web-parts/
+
 
 
 
