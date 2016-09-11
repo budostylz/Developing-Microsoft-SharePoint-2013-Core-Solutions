@@ -34,6 +34,10 @@ https://msdn.microsoft.com/en-us/library/ee231517.aspx
 
 https://wonderlaura.com/2014/02/12/sharepoint-2013-out-of-box-web-parts/
 
+##How to: Locate and Organize Project and Item Templates
+
+https://msdn.microsoft.com/en-us/library/y3kkate1.aspx
+
 
 
 
