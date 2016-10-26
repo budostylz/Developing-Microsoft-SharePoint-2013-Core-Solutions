@@ -39,8 +39,9 @@ https://wonderlaura.com/2014/02/12/sharepoint-2013-out-of-box-web-parts/
 https://msdn.microsoft.com/en-us/library/y3kkate1.aspx
 
 
+##SharePoint 2013 Site Template ID List for PowerShell
 
-
+https://absolute-sharepoint.com/2013/06/sharepoint-2013-site-template-id-list-for-powershell.html
 
 
 
