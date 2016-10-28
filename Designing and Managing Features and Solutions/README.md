@@ -6,7 +6,19 @@ https://msdn.microsoft.com/en-us/library/office/aa979575.aspx
 
 https://msdn.microsoft.com/en-us/library/office/ff595308.aspx
 
-##Update-SPSolution
+##Add-SPSolution(Uploads a SharePoint solution package to the farm)
+
+https://technet.microsoft.com/en-us/library/ff607552.aspx
+
+##Install-SPSolution(Deploys an installed SharePoint solution in the farm)
+
+https://technet.microsoft.com/en-us/library/ff607534.aspx
+
+##Remove-SPSolution (Removes a SharePoint solution from a farm)
+
+https://technet.microsoft.com/en-us/library/ff607748.aspx
+
+##Update-SPSolution(Upgrades a deployed SharePoint solution)
 
 https://technet.microsoft.com/en-us/library/ff607724.aspx
 
