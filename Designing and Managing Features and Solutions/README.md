@@ -14,6 +14,10 @@ https://technet.microsoft.com/en-us/library/ff607552.aspx
 
 https://technet.microsoft.com/en-us/library/ff607534.aspx
 
+##Uninstall-SPSolution(Retracts a deployed SharePoint solution)
+
+https://technet.microsoft.com/en-us/library/ff607873.aspx
+
 ##Remove-SPSolution (Removes a SharePoint solution from a farm)
 
 https://technet.microsoft.com/en-us/library/ff607748.aspx
