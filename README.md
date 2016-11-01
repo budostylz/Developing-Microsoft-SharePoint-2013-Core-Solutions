@@ -44,7 +44,9 @@ https://msdn.microsoft.com/en-us/library/y3kkate1.aspx
 https://absolute-sharepoint.com/2013/06/sharepoint-2013-site-template-id-list-for-powershell.html
 
 
+##Famous SharePoint URLs & Locations
 
+https://blogs.msdn.microsoft.com/how24/2013/05/23/famous-sharepoint-urls-locations/
 
 
 
