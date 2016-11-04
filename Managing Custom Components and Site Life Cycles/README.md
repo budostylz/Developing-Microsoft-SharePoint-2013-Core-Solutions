@@ -1,3 +1,7 @@
+##Site Schema
+
+https://msdn.microsoft.com/en-us/library/office/aa544502.aspx
+
 ##ListInstance Element (List Instance) Elements.xml
 
 https://msdn.microsoft.com/en-us/library/office/ms476062.aspx
