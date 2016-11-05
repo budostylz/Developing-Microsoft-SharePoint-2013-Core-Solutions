@@ -48,6 +48,10 @@ https://msdn.microsoft.com/en-us/library/office/jj163911.aspx
 
 https://msdn.microsoft.com/en-us/library/office/jj819316.aspx
 
+##How to: Create SharePoint 2013 Workflows using Visual Studio
+
+https://msdn.microsoft.com/en-us/library/office/dn584771.aspx
+
 ###--------------------Upgrade Workflows--------------------------------------
 
 ####SharePoint Designer
