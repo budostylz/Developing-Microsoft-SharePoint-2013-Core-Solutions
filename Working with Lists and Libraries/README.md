@@ -50,3 +50,7 @@ https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.administration.spw
 
 https://msdn.microsoft.com/en-us/library/system.configuration.configurationmanager(v=vs.110).aspx
 
+##Sharepoint: Table of list template IDs
+
+http://www.whatsthatblogsname.com/2014/04/29/sharepoint-table-of-list-template-ids/
+
