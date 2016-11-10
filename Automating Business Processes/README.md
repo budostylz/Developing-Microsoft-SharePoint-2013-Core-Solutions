@@ -1,3 +1,7 @@
+##Do I Use A Workflow or Event Receiver?
+
+https://msdn.microsoft.com/en-us/library/ff648492.aspx
+
 ##SharePoint 2013 workflow fundamentals
 
 https://msdn.microsoft.com/en-us/library/office/jj163181.aspx
