@@ -2,6 +2,10 @@
 
 https://msdn.microsoft.com/en-us/library/ff648492.aspx
 
+##Binding a SharePoint Foundation Event Handler
+
+https://msdn.microsoft.com/en-us/library/office/ms475328(v=office.14).aspx
+
 ##SharePoint 2013 workflow fundamentals
 
 https://msdn.microsoft.com/en-us/library/office/jj163181.aspx
