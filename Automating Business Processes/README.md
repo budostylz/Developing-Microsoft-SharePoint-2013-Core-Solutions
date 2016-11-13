@@ -1,3 +1,7 @@
+##Walkthrough: Creating and Debugging a SharePoint Workflow Solution
+
+https://msdn.microsoft.com/en-us/library/ee231573.aspx
+
 ##Debugging SharePoint Server 2013 workflows
 
 https://msdn.microsoft.com/en-us/library/office/dn508412.aspx
