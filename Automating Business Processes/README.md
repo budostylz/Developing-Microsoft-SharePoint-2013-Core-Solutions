@@ -1,3 +1,7 @@
+##Debugging SharePoint Server 2013 workflows
+
+https://msdn.microsoft.com/en-us/library/office/dn508412.aspx
+
 ##Do I Use A Workflow or Event Receiver?
 
 https://msdn.microsoft.com/en-us/library/ff648492.aspx
