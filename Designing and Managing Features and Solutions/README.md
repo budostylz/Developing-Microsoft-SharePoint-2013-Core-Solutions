@@ -1,3 +1,7 @@
+##SharePoint Add-ins compared with SharePoint solutions
+
+https://msdn.microsoft.com/en-us/library/office/jj163114.aspx
+
 ## Field Element (Field)
 
 https://msdn.microsoft.com/en-us/library/office/aa979575.aspx
