@@ -1,3 +1,7 @@
+##SharePoint Add-ins compared with SharePoint solutions
+
+https://msdn.microsoft.com/en-us/library/office/jj163114.aspx
+
 ##Apps run on Application Server Seperate from SharePoint
 
 ##SharePoint Add-ins
