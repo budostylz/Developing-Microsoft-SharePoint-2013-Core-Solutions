@@ -49,3 +49,7 @@ https://social.msdn.microsoft.com/Forums/office/en-US/f89232a0-0066-418b-9050-c9
 ##Differences Between Sandboxed and Farm Solutions
 
 https://msdn.microsoft.com/en-us/library/ee361616.aspx
+
+##Deploy by using DBA-created databases (SharePoint Server 2010)
+
+https://technet.microsoft.com/en-us/library/cc262869(v=office.14).aspx
