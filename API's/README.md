@@ -14,6 +14,10 @@ https://msdn.microsoft.com/en-us/library/office/jj246996.aspx
 
 https://msdn.microsoft.com/en-us/library/office/jj193034.aspx
 
+##SharePoint 2013 - Understanding and Using the SharePoint 2013 REST Interface
+
+https://msdn.microsoft.com/en-us/magazine/dn198245.aspx
+
 ##SharePoint 2013 .NET Server, CSOM, JSOM, and REST API index
 
 https://msdn.microsoft.com/en-us/library/office/dn268594.aspx
