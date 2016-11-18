@@ -2,6 +2,10 @@
 
 https://msdn.microsoft.com/en-us/library/ee231573.aspx
 
+##How to: Debug Your SharePoint Foundation Workflow
+
+https://msdn.microsoft.com/en-us/library/ms455354(v=office.14).aspx
+
 ##Debugging SharePoint Server 2013 workflows
 
 https://msdn.microsoft.com/en-us/library/office/dn508412.aspx
