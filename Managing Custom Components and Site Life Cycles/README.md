@@ -97,6 +97,15 @@ https://absolute-sharepoint.com/2013/06/sharepoint-2013-site-template-id-list-fo
 ###When creating site templates, grab a copy of ONET.xml and modify.
 
 
+##Walkthrough: Create a Basic Site Definition Project
+
+https://msdn.microsoft.com/en-us/library/ee231583.aspx
+
+##Plan self-service site creation in SharePoint 2013
+
+https://technet.microsoft.com/en-us/library/cc263483.aspx
+
+
 
 
 
