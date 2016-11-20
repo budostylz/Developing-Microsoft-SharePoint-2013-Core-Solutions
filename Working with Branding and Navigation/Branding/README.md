@@ -98,7 +98,9 @@ https://www.microsoft.com/en-us/download/details.aspx?id=38182
 
 
 
+##SharePoint site branding and page customization solutions
 
+https://msdn.microsoft.com/en-us/pnp_articles/sharepoint-site-branding-and-page-customization-solutions
 
 
 
