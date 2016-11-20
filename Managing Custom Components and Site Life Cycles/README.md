@@ -101,6 +101,11 @@ https://absolute-sharepoint.com/2013/06/sharepoint-2013-site-template-id-list-fo
 
 https://msdn.microsoft.com/en-us/library/ee231583.aspx
 
+
+##Walkthrough: Creating a Site Definition with Additional Content
+
+https://msdn.microsoft.com/en-us/library/ff189392(v=vs.100).aspx
+
 ##Plan self-service site creation in SharePoint 2013
 
 https://technet.microsoft.com/en-us/library/cc263483.aspx
