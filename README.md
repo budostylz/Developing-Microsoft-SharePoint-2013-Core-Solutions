@@ -53,4 +53,9 @@ https://blogs.msdn.microsoft.com/how24/2013/05/23/famous-sharepoint-urls-locatio
 https://msdn.microsoft.com/en-us/library/ee290858.aspx
 
 
+##Ramblings from David Mann
+
+http://blog.mannsoftware.com/?p=1521
+
+
 
