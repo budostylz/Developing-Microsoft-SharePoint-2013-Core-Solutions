@@ -1,4 +1,5 @@
 
+
 ##OData - the best way to REST
 
 http://www.odata.org
@@ -22,6 +23,10 @@ http://sharepoint.stackexchange.com/questions/137739/i-want-to-get-list-of-all-s
 ##Lists and list items REST API reference
 
 https://msdn.microsoft.com/en-us/library/office/dn531433.aspx
+
+##Working with folders and files with REST
+
+https://msdn.microsoft.com/en-us/library/office/dn292553.aspx
 
 
 
