@@ -19,6 +19,10 @@ https://www.dsouzajoel.com/2016/02/10/get-all-sites-and-sub-sites-using-rest-api
 
 http://sharepoint.stackexchange.com/questions/137739/i-want-to-get-list-of-all-site-collection-available-on-sharepoint-server-2013-us
 
+##Lists and list items REST API reference
+
+https://msdn.microsoft.com/en-us/library/office/dn531433.aspx
+
 
 
 
