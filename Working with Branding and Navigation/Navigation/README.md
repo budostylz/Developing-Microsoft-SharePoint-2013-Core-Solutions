@@ -1,3 +1,4 @@
+
 ##Overview of site navigation in SharePoint 2013
 
 https://technet.microsoft.com/en-us/library/ee695757.aspx
@@ -29,6 +30,11 @@ https://technet.microsoft.com/en-us/library/dn194311.aspx
 ##SharePoint Server 2013 : Enable BreadCrumb/ Navigation Up Menu in SharePoint 2013
 
 http://www.c-sharpcorner.com/UploadFile/22da8c/sharepoint-server-2013-enable-breadcrumb-navigation-up-me/
+
+##Adding more links to your SharePoint 2010 Quick Launch
+
+http://geekswithblogs.net/leonardm/archive/2010/08/25/adding-more-links-to-your-sharepoint-2010-quick-launch.aspx
+
 
 
 
