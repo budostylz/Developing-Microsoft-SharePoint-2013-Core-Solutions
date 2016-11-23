@@ -28,6 +28,10 @@ https://msdn.microsoft.com/en-us/library/office/dn531433.aspx
 
 https://msdn.microsoft.com/en-us/library/office/dn292553.aspx
 
+##Use OData query operations in SharePoint REST requests
+
+https://msdn.microsoft.com/en-us/library/office/fp142385.aspx#bk_supported
+
 
 
 
