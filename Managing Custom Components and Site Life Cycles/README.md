@@ -114,6 +114,10 @@ https://technet.microsoft.com/en-us/library/cc263483.aspx
 
 https://msdn.microsoft.com/en-gb/library/ff408263(v=office.14).aspx
 
+##How to: Create a Custom Site Definition and Configuration
+
+https://msdn.microsoft.com/en-gb/library/ms454677(v=office.14).aspx
+
 
 
 
