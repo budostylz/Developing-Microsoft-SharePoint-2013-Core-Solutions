@@ -110,7 +110,9 @@ https://msdn.microsoft.com/en-us/library/ff189392(v=vs.100).aspx
 
 https://technet.microsoft.com/en-us/library/cc263483.aspx
 
+##How to: Create a Custom Web Template
 
+https://msdn.microsoft.com/en-gb/library/ff408263(v=office.14).aspx
 
 
 
