@@ -35,7 +35,9 @@ http://www.c-sharpcorner.com/UploadFile/22da8c/sharepoint-server-2013-enable-bre
 
 http://geekswithblogs.net/leonardm/archive/2010/08/25/adding-more-links-to-your-sharepoint-2010-quick-launch.aspx
 
+##Yes, the SharePoint navigation really can work for your needs
 
+http://www.nothingbutsharepoint.com/2013/04/25/yes-the-sharepoint-navigation-really-can-work-for-your-needs-aspx/
 
 
 
