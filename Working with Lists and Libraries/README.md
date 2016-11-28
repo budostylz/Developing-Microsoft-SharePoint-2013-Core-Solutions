@@ -1,4 +1,3 @@
-
 ## What is PostBack in ASP.NET
 
 http://www.c-sharpcorner.com/uploadfile/2f73dd/what-is-postback-in-Asp-Net/
@@ -62,6 +61,10 @@ http://apmblog.dynatrace.com/2010/03/18/how-to-avoid-the-top-5-sharepoint-perfor
 ##SharePoint CAML Query Helper for 2007, 2010, 2013, Office 365 SharePoint Online
 
 https://spcamlqueryhelper.codeplex.com/
+
+##Automatically create Word documents which include list fields
+
+https://blogs.technet.microsoft.com/brenclarke/2009/04/15/automatically-create-word-documents-which-include-list-fields/
 
 
 
