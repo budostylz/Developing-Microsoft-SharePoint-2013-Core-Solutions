@@ -35,7 +35,6 @@ https://msdn.microsoft.com/en-us/library/office/ms434127.aspx
 https://msdn.microsoft.com/library/office/jj220046(v=office.15)
 
 ##Add custom client-side rendering to a SharePoint-hosted SharePoint Add-in
-
 https://msdn.microsoft.com/en-us/library/office/mt210456.aspx
 
 ##LayoutsPageBase members(Application Pages)
@@ -45,7 +44,6 @@ https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.webcontrols.layout
 ##SPSecurityTrimmedControl class
 
 https://msdn.microsoft.com/en-us/library/office/ms438085.aspx
-
 
 ------------------------Create Custom Themes and Composed Looks-----------------------------------------------------
 
@@ -96,11 +94,13 @@ https://www.microsoft.com/en-us/download/details.aspx?id=38182
 3. Upload to Solution Gallery
 
 
-
-
 ##SharePoint site branding and page customization solutions
 
 https://msdn.microsoft.com/en-us/pnp_articles/sharepoint-site-branding-and-page-customization-solutions
+
+##How to: Create a page layout in SharePoint 2013
+
+https://msdn.microsoft.com/en-us/library/office/jj822368.aspx
 
 
 
