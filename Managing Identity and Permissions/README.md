@@ -1,3 +1,4 @@
+
 ##An Introduction to Claims
 
 https://msdn.microsoft.com/en-us/library/ff359101.aspx
@@ -65,6 +66,11 @@ https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.administration.cla
 ##Windows Identity Foundation
 
 https://msdn.microsoft.com/en-us/library/hh377151.aspx
+
+
+##get user names in an Active Directory Group via .net
+
+http://stackoverflow.com/questions/4901749/get-user-names-in-an-active-directory-group-via-net
 
 
 
