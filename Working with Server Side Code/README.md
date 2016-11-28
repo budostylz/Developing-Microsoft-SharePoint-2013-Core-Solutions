@@ -38,3 +38,7 @@ https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.speventpropertiesb
 
 https://msdn.microsoft.com/en-us/library/office/ff521584(v=office.14).aspx
 
+##Table of SharePoint Events, Event Receivers, and Event Hosts
+
+https://msdn.microsoft.com/en-us/library/office/ff408183(v=office.14).aspx
+
