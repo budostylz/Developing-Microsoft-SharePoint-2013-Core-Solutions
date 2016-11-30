@@ -57,5 +57,8 @@ https://msdn.microsoft.com/en-us/library/ee290858.aspx
 https://msdn.microsoft.com/en-us/library/office/jj901637.aspx
 
 
+##Reference list for SharePoint internal field names
+
+https://blogs.msdn.microsoft.com/michael_yeager/2008/11/03/reference-list-for-sharepoint-internal-field-names/
 
 
