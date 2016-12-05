@@ -42,3 +42,11 @@ https://msdn.microsoft.com/en-us/library/office/ff521584(v=office.14).aspx
 
 https://msdn.microsoft.com/en-us/library/office/ff408183(v=office.14).aspx
 
+
+##PowerShell to attach event receiver to a list
+
+http://www.thesharepointguide.com/powershell-to-attach-event-receiver-to-a-list/
+
+##How to attach Event Receiver to SPList programmatically?
+
+http://stackoverflow.com/questions/10699757/how-to-attach-event-receiver-to-splist-programmatically
