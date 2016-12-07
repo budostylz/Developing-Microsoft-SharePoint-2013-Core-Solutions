@@ -47,6 +47,12 @@ https://blogs.msdn.microsoft.com/sharepointdev/2012/01/23/server-ribbon-architec
 3. Create modules in eith farm or sandbox solutions and add copied xml to implement custom actions into solutions.
 
 
+##Where is "Sign in as Different User" in SharePoint 2013
 
+https://blogs.msdn.microsoft.com/sharepoint__cloud/2012/12/19/where-is-sign-in-as-different-user-in-sharepoint-2013/
+
+##How to Sign in as a Different User in SharePoint 2013
+
+https://www.credera.com/blog/technology-insights/microsoft-solutions/how-to-sign-in-as-a-different-user-in-sharepoint-2013/
 
 
