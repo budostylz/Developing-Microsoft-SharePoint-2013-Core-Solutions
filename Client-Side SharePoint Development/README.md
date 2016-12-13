@@ -32,9 +32,9 @@ https://msdn.microsoft.com/en-us/library/office/dn292553.aspx
 
 https://msdn.microsoft.com/en-us/library/office/fp142385.aspx#bk_supported
 
+##CSOM get all terms recursively in a single ExecuteQuery
 
-
-
+http://www.ceus-now.com/csom-get-all-terms-recursively-in-a-single-executequery/
 
 
 
