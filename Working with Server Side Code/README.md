@@ -50,3 +50,7 @@ http://www.thesharepointguide.com/powershell-to-attach-event-receiver-to-a-list/
 ##How to attach Event Receiver to SPList programmatically?
 
 http://stackoverflow.com/questions/10699757/how-to-attach-event-receiver-to-splist-programmatically
+
+##Walkthrough 3 – Developing an Event Receiver for a Content Type
+
+https://karinebosch.wordpress.com/walkthroughs/event-receivers-walkthrough3/
