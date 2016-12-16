@@ -66,6 +66,11 @@ https://spcamlqueryhelper.codeplex.com/
 
 https://blogs.technet.microsoft.com/brenclarke/2009/04/15/automatically-create-word-documents-which-include-list-fields/
 
+##Query SharePoint Foundation with ADO.NET Data Services
 
+https://msdn.microsoft.com/en-us/library/ee535480
 
+##Using LINQ to SharePoint
+
+https://msdn.microsoft.com/en-us/library/ee535491
 
