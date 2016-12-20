@@ -74,3 +74,11 @@ https://msdn.microsoft.com/en-us/library/ee535480
 
 https://msdn.microsoft.com/en-us/library/ee535491
 
+
+##List Schema
+
+https://msdn.microsoft.com/en-us/library/office/aa543477(v=office.14).aspx
+
+##List Instance
+
+https://msdn.microsoft.com/en-us/library/office/ms469947(v=office.14).aspx
