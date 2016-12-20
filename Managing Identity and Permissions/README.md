@@ -72,6 +72,9 @@ https://msdn.microsoft.com/en-us/library/hh377151.aspx
 
 http://stackoverflow.com/questions/4901749/get-user-names-in-an-active-directory-group-via-net
 
+##User permissions and permission levels in SharePoint 2013
+
+https://technet.microsoft.com/en-us/library/cc721640.aspx
 
 
 
