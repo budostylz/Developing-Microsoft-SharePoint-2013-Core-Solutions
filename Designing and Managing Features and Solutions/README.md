@@ -53,3 +53,7 @@ https://msdn.microsoft.com/en-us/library/ee361616.aspx
 ##Deploy by using DBA-created databases (SharePoint Server 2010)
 
 https://technet.microsoft.com/en-us/library/cc262869(v=office.14).aspx
+
+##Error: Unable to Start Debugging on the Web Server
+
+https://msdn.microsoft.com/en-us/library/dwesw3ee(v=vs.140).aspx
