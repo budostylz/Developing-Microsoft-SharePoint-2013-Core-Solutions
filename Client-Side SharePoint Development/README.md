@@ -36,6 +36,7 @@ https://msdn.microsoft.com/en-us/library/office/fp142385.aspx#bk_supported
 
 http://www.ceus-now.com/csom-get-all-terms-recursively-in-a-single-executequery/
 
+##Users, groups, and roles REST API reference
 
-
+https://msdn.microsoft.com/en-us/library/office/dn531432.aspx
 
