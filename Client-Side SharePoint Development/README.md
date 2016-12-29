@@ -40,3 +40,6 @@ http://www.ceus-now.com/csom-get-all-terms-recursively-in-a-single-executequery/
 
 https://msdn.microsoft.com/en-us/library/office/dn531432.aspx
 
+##Get all SharePoint Document Library Files and Folders at a ServerRelativeUrl in One REST Call
+
+http://sympmarc.com/2016/04/23/get-all-sharepoint-document-library-files-and-folders-at-a-serverrelativeurl-in-one-rest-call/
