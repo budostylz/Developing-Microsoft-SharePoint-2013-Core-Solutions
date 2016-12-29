@@ -1,5 +1,6 @@
 
 
+
 ##OData - the best way to REST
 
 http://www.odata.org
@@ -43,3 +44,7 @@ https://msdn.microsoft.com/en-us/library/office/dn531432.aspx
 ##Get all SharePoint Document Library Files and Folders at a ServerRelativeUrl in One REST Call
 
 http://sympmarc.com/2016/04/23/get-all-sharepoint-document-library-files-and-folders-at-a-serverrelativeurl-in-one-rest-call/
+
+##Moving from SPServices to REST, Part 5: Using Promises with SOAP and REST
+
+https://www.itunity.com/article/moving-spservices-rest-part-5-promises-soap-rest-2772
