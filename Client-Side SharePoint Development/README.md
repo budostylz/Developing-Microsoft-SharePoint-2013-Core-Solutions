@@ -1,6 +1,3 @@
-
-
-
 ##OData - the best way to REST
 
 http://www.odata.org
@@ -48,3 +45,7 @@ http://sympmarc.com/2016/04/23/get-all-sharepoint-document-library-files-and-fol
 ##Moving from SPServices to REST, Part 5: Using Promises with SOAP and REST
 
 https://www.itunity.com/article/moving-spservices-rest-part-5-promises-soap-rest-2772
+
+##Make batch requests with the REST APIs
+
+https://msdn.microsoft.com/en-us/library/office/dn903506.aspx
