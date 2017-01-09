@@ -57,3 +57,7 @@ https://technet.microsoft.com/en-us/library/cc262869(v=office.14).aspx
 ##Error: Unable to Start Debugging on the Web Server
 
 https://msdn.microsoft.com/en-us/library/dwesw3ee(v=vs.140).aspx
+
+##Enable Debugging and set custom errors off in SharePoint
+
+https://blogs.msdn.microsoft.com/voyage/2014/09/02/enable-debugging-and-set-custom-errors-off-in-sharepoint/
