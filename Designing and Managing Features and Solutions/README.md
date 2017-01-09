@@ -1,3 +1,4 @@
+
 ##SharePoint Add-ins compared with SharePoint solutions
 
 https://msdn.microsoft.com/en-us/library/office/jj163114.aspx
@@ -61,3 +62,7 @@ https://msdn.microsoft.com/en-us/library/dwesw3ee(v=vs.140).aspx
 ##Enable Debugging and set custom errors off in SharePoint
 
 https://blogs.msdn.microsoft.com/voyage/2014/09/02/enable-debugging-and-set-custom-errors-off-in-sharepoint/
+
+##SharePoint 2010 : List of Features "ID, DisplayName and Scopes"
+
+https://social.technet.microsoft.com/wiki/contents/articles/7695.sharepoint-2010-list-of-features-id-displayname-and-scopes.aspx
