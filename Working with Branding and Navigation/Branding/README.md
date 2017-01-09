@@ -103,5 +103,7 @@ https://msdn.microsoft.com/en-us/pnp_articles/sharepoint-site-branding-and-page-
 https://msdn.microsoft.com/en-us/library/office/jj822368.aspx
 
 
+##Missing “Save Site as Template” for Publishing Sites in SharePoint 2013?
 
+http://www.learningsharepoint.com/2013/05/03/missing-save-site-as-template-for-publishing-sites-in-sharepoint-2013/
 
