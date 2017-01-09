@@ -61,4 +61,6 @@ https://msdn.microsoft.com/en-us/library/office/jj901637.aspx
 
 https://blogs.msdn.microsoft.com/michael_yeager/2008/11/03/reference-list-for-sharepoint-internal-field-names/
 
+##SP 2010: Find error messages with a Correlation ID token in SharePoint 2010
 
+https://zimmergren.net/sp-2010-find-error-messages-with-a-correlation-id-token-in-sharepoint-2010/
