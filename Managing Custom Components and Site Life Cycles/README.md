@@ -118,7 +118,9 @@ https://msdn.microsoft.com/en-gb/library/ff408263(v=office.14).aspx
 
 https://msdn.microsoft.com/en-gb/library/ms454677(v=office.14).aspx
 
+##Self-Service Site Provisioning using Apps for SharePoint 2013
 
+https://blogs.msdn.microsoft.com/richard_dizeregas_blog/2013/04/04/self-service-site-provisioning-using-apps-for-sharepoint-2013/
 
 
 
