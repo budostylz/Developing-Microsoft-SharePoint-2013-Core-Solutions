@@ -122,7 +122,9 @@ https://msdn.microsoft.com/en-gb/library/ms454677(v=office.14).aspx
 
 https://blogs.msdn.microsoft.com/richard_dizeregas_blog/2013/04/04/self-service-site-provisioning-using-apps-for-sharepoint-2013/
 
+##Create and use site templates 
 
+https://support.office.com/en-us/article/Create-and-use-site-templates-60371b0f-00e0-4c49-a844-34759ebdd989
 
 
 
