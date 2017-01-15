@@ -1,4 +1,3 @@
-
 ##SharePoint Add-ins compared with SharePoint solutions
 
 https://msdn.microsoft.com/en-us/library/office/jj163114.aspx
@@ -66,3 +65,7 @@ https://blogs.msdn.microsoft.com/voyage/2014/09/02/enable-debugging-and-set-cust
 ##SharePoint 2010 : List of Features "ID, DisplayName and Scopes"
 
 https://social.technet.microsoft.com/wiki/contents/articles/7695.sharepoint-2010-list-of-features-id-displayname-and-scopes.aspx
+
+##Listing All SharePoint Server 2013 Features – Including Name, Title, Scope, ID and Description
+
+https://blogs.msdn.microsoft.com/razi/2013/10/28/listing-all-sharepoint-server-2013-features-including-name-title-scope-id-and-description/
