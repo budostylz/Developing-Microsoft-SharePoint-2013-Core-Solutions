@@ -63,7 +63,6 @@ https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.administration.spw
 https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.administration.spwebapplication.sites.aspx
 
 ###SPSite.AllWebs
-
 https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spsite.allwebs
 
 ---------------------------------
@@ -73,7 +72,7 @@ https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spsite.allwebs
 https://technet.microsoft.com/en-us/library/cc424952.aspx
 
 ##Templates Element (Site)
-
+#
 https://msdn.microsoft.com/en-us/library/office/ms434726.aspx
 
 ##Project Element (Site)
@@ -126,7 +125,9 @@ https://blogs.msdn.microsoft.com/richard_dizeregas_blog/2013/04/04/self-service-
 
 https://support.office.com/en-us/article/Create-and-use-site-templates-60371b0f-00e0-4c49-a844-34759ebdd989
 
+##SharePoint 2013 Save Site As Template does not appear after deactivating Publishing Feature
 
+http://www.bfcnetworks.com/blogs/alexpearce/sharepoint-2013-save-site-as-template-does-not-appear-after-deactivating-publishing-feature/
 
 
 
