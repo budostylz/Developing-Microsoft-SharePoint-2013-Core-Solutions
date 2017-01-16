@@ -20,6 +20,7 @@ https://technet.microsoft.com/en-us/library/ff607534.aspx
 
 ##Uninstall-SPSolution(Retracts a deployed SharePoint solution)
 
+
 https://technet.microsoft.com/en-us/library/ff607873.aspx
 
 ##Remove-SPSolution (Removes a SharePoint solution from a farm)
@@ -69,3 +70,7 @@ https://social.technet.microsoft.com/wiki/contents/articles/7695.sharepoint-2010
 ##Listing All SharePoint Server 2013 Features – Including Name, Title, Scope, ID and Description
 
 https://blogs.msdn.microsoft.com/razi/2013/10/28/listing-all-sharepoint-server-2013-features-including-name-title-scope-id-and-description/
+
+##SharePoint Feature Administration and Clean Up Tool
+
+https://featureadmin.codeplex.com/
