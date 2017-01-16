@@ -129,7 +129,9 @@ https://support.office.com/en-us/article/Create-and-use-site-templates-60371b0f-
 
 http://www.bfcnetworks.com/blogs/alexpearce/sharepoint-2013-save-site-as-template-does-not-appear-after-deactivating-publishing-feature/
 
+##SharePoint: Can’t Activate Site Collection Feature When Creating New Site From a Custom Web Template
 
+https://www.nothingbutsharepoint.com/2013/04/01/sharepoint-cant-activate-site-collection-feature-when-creating-new-site-from-a-custom-web-template-aspx/
 
 
 
