@@ -78,9 +78,9 @@ https://msdn.microsoft.com/en-us/library/ee535491
 
 https://msdn.microsoft.com/en-us/library/office/aa543477(v=office.14).aspx
 
-##List Instance
+##List Instances
 
-https://msdn.microsoft.com/en-us/library/office/ms469947(v=office.14).aspx
+https://msdn.microsoft.com/en-IN/library/ms478860(v=office.14).aspx
 
 ##How to: Provision a Document Set using CAML 
 
