@@ -76,7 +76,7 @@ https://msdn.microsoft.com/en-us/library/ee535491
 
 ##List Schema
 
-https://msdn.microsoft.com/en-us/library/office/aa543477(v=office.14).aspx
+https://msdn.microsoft.com/en-us/library/office/aa543477(v=office.15).aspx
 
 ##List Instances
 
