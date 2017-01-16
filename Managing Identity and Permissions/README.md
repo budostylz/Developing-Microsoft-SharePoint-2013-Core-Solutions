@@ -77,4 +77,6 @@ http://stackoverflow.com/questions/4901749/get-user-names-in-an-active-directory
 https://technet.microsoft.com/en-us/library/cc721640.aspx
 
 
+##Role, inheritance, elevation of privilege, and password changes in SharePoint 2013
 
+https://msdn.microsoft.com/en-us/library/ms414036(v=office.15).aspx
