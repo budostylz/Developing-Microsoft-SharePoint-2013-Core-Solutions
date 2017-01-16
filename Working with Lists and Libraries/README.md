@@ -85,3 +85,7 @@ https://msdn.microsoft.com/en-IN/library/ms478860(v=office.14).aspx
 ##How to: Provision a Document Set using CAML 
 
 http://www.dotnetmafia.com/blogs/dotnettipoftheday/archive/2010/11/29/how-to-provision-a-document-set-using-caml.aspx
+
+##SPListTemplateType enumeration
+
+https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.splisttemplatetype.aspx
