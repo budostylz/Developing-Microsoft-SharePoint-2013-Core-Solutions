@@ -64,7 +64,6 @@ https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.administration.spw
 
 ###SPSite.AllWebs
 https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spsite.allwebs
-
 ---------------------------------
 
 ##Host-named site collection architecture and deployment (SharePoint 2013)
@@ -75,7 +74,7 @@ https://technet.microsoft.com/en-us/library/cc424952.aspx
 #
 https://msdn.microsoft.com/en-us/library/office/ms434726.aspx
 
-##Project Element (Site)
+ ##Project Element (Site)
 
 https://msdn.microsoft.com/en-us/library/office/ms438080.aspx
 
@@ -133,7 +132,9 @@ http://www.bfcnetworks.com/blogs/alexpearce/sharepoint-2013-save-site-as-templat
 
 https://www.nothingbutsharepoint.com/2013/04/01/sharepoint-cant-activate-site-collection-feature-when-creating-new-site-from-a-custom-web-template-aspx/
 
+##Provision a folder inside a document library 
 
+http://johnlearnt.blogspot.in/2012/09/provision-folder-inside-document-library.html
 
 
 
