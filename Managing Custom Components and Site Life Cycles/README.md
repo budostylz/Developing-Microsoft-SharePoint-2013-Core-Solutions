@@ -145,17 +145,17 @@ http://sharepoint.stackexchange.com/questions/101545/create-folder-in-list-defin
 
 https://msdn.microsoft.com/en-us/pnp_articles/branding-and-site-provisioning-solutions-for-sharepoint
 
-
+ 
 ##Onet.xml Execution Sequence
-1.<SiteFeatures> in onet.xml 
+1. *<SiteFeatures> in onet.xml 
 
 2.Stapled Site Features (stapled using FeatureSiteTemplateAssociation) 
 
-3.<WebFeature> in onet.xml 
+3. *<WebFeature> in onet.xml 
 
 4.Stapled Web Features (using FeatureSiteTemplateAssociation) 
 
-5.<Lists> in onet.xml 
+5. *<Lists> in onet.xml 
 
-6.<Modules> in onet.xml 
+6. *<Modules> in onet.xml 
 
