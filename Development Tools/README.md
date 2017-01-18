@@ -38,7 +38,9 @@ https://www.microsoft.com/en-us/download/details.aspx?id=38182
 
 https://msdn.microsoft.com/en-us/library/f7dy01k1(v=vs.110).aspx
 
+##SharePoint Feature Administration and Clean Up Tool
 
+https://featureadmin.codeplex.com/
 
 
 
