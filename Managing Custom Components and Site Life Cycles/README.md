@@ -70,8 +70,8 @@ https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spsite.allwebs
 
 https://technet.microsoft.com/en-us/library/cc424952.aspx
 
-##Templates Element (Site)
-#
+###Templates Element (Site)
+
 https://msdn.microsoft.com/en-us/library/office/ms434726.aspx
 
  ##Project Element (Site)
@@ -141,5 +141,7 @@ http://johnlearnt.blogspot.in/2012/09/provision-folder-inside-document-library.h
 http://sharepoint.stackexchange.com/questions/101545/create-folder-in-list-definition-with-elements-xml
 
 
+##Branding and site provisioning solutions for SharePoint 2013 and SharePoint Online
 
+https://msdn.microsoft.com/en-us/pnp_articles/branding-and-site-provisioning-solutions-for-sharepoint
 
