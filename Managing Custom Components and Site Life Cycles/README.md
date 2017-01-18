@@ -66,7 +66,7 @@ https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.administration.spw
 https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spsite.allwebs
 ---------------------------------
 
-##Host-named site collection architecture and deployment (SharePoint 2013)
+ ##Host-named site collection architecture and deployment (SharePoint 2013)
 
 https://technet.microsoft.com/en-us/library/cc424952.aspx
 
@@ -136,7 +136,9 @@ https://www.nothingbutsharepoint.com/2013/04/01/sharepoint-cant-activate-site-co
 
 http://johnlearnt.blogspot.in/2012/09/provision-folder-inside-document-library.html
 
+##Create Folder in List Definition with Elements.xml
 
+http://sharepoint.stackexchange.com/questions/101545/create-folder-in-list-definition-with-elements-xml
 
 
 
