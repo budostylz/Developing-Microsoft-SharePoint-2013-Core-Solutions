@@ -18,7 +18,9 @@ http://sharepointgoose.blogspot.com/2010/11/enter-post-title.html
 
 http://technologybooth.blogspot.com/2013/08/content-type-issues-in-sharepoint-2013.html
 
+##What are SharePoint Content Types? Learn How to Create and Use Them
 
+https://en.share-gate.com/blog/sharepoint-content-types-understand-use-create
 
 
 
