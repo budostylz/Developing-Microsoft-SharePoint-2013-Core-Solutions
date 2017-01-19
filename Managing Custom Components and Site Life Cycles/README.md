@@ -102,7 +102,7 @@ https://msdn.microsoft.com/en-us/library/ee231583.aspx
 
 ##Walkthrough: Creating a Site Definition with Additional Content
 
-https://msdn.microsoft.com/en-us/library/ff189392(v=vs.100).aspx
+2https://msdn.microsoft.com/en-us/library/ff189392(v=vs.100).aspx
 
 ##Plan self-service site creation in SharePoint 2013
 
@@ -159,3 +159,10 @@ https://msdn.microsoft.com/en-us/pnp_articles/branding-and-site-provisioning-sol
 
 6.Modules element in onet.xml 
 
+##Stapling Features to Site Definitions
+
+https://msdn.microsoft.com/en-us/library/ff649469.aspx
+
+##SharePoint 2010 Feature Stapling 
+
+http://www.anmolrehan-sharepointconsultant.com/2012/07/sharepoint-2010-feature-stapling.html
