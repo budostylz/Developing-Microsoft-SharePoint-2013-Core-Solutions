@@ -23,7 +23,9 @@ http://technologybooth.blogspot.com/2013/08/content-type-issues-in-sharepoint-20
 https://en.share-gate.com/blog/sharepoint-content-types-understand-use-create
 
 
+##Some Site Columns and Property Bags
 
+https://github.com/SharePoint/PnP-Sites-Core/blob/master/Core/OfficeDevPnP.Core/Framework/Provisioning/BaseTemplates/v16_0/COMMUNITY0Template.xml
 
 
 
