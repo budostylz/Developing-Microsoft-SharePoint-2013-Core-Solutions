@@ -58,3 +58,7 @@ https://karinebosch.wordpress.com/walkthroughs/event-receivers-walkthrough3/
 ##Using synchronous "after" events (e.g. ItemUpdated) in SharePoint 2010
 
 https://blogs.technet.microsoft.com/stefan_gossner/2011/11/10/using-synchronous-after-events-e-g-itemupdated-in-sharepoint-2010/#comment-192377
+
+##Event Registrations
+
+https://msdn.microsoft.com/en-us/library/office/ms460929.aspx
