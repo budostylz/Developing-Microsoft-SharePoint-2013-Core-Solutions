@@ -18,7 +18,7 @@ https://msdn.microsoft.com/en-us/library/office/fp179916.aspx
 
 ##OAUTH Protocol
 
-http://oauth.net
+ http://oauth.net
 
 ##SP.WebRequestInfo object (sp.js)
 
@@ -81,7 +81,9 @@ https://technet.microsoft.com/en-us/library/jj219537.aspx
 https://technet.microsoft.com/en-us/library/jj219643.aspx
 
 
+##Add-in permissions in SharePoint 2013
 
+https://msdn.microsoft.com/en-us/library/office/fp142383.aspx
 
 
 
