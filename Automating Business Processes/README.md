@@ -98,7 +98,9 @@ g. Deploy workflow
 
 h. Remove old workflow instance
 
+##Using Event Receivers in SharePoint Foundation 2010 (Part 1 of 2)
 
+https://msdn.microsoft.com/en-us/library/office/gg749858(v=office.14).aspx
 
 
 
