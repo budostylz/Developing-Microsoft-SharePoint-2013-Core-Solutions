@@ -41,7 +41,7 @@ https://support.office.com/en-us/article/Workflow-actions-in-SharePoint-Designer
 ##Step by Step Approach to Create a Visual Studio SharePoint Workflow (Sequential)
 
 http://www.codeproject.com/Tips/620173/Step-by-Step-Approach-to-Create-a-Visual-Studio-Sh
-
+ 
 ##XAML Overview
 
 https://msdn.microsoft.com/en-us/library/cc189036(v=vs.95)
@@ -103,7 +103,9 @@ h. Remove old workflow instance
 https://msdn.microsoft.com/en-us/library/office/gg749858(v=office.14).aspx
 
 
+##How to: Create a Custom Content Type with Event Receivers
 
+https://msdn.microsoft.com/en-us/library/ff650753.aspx
 
 
 
