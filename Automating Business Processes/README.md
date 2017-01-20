@@ -107,7 +107,9 @@ https://msdn.microsoft.com/en-us/library/office/gg749858(v=office.14).aspx
 
 https://msdn.microsoft.com/en-us/library/ff650753.aspx
 
+##Walkthrough 1 – Developing an Event Receiver for a Content Type
 
+https://karinebosch.wordpress.com/walkthroughs/sp2010-event-receiver-for-content-type/
 
 
 
