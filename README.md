@@ -1,11 +1,11 @@
-##MCSD: SharePoint Applications
+###MCSD: SharePoint Applications
 
 https://www.microsoft.com/en-us/learning/mcsd-sharepoint-apps-certification.aspx
 
 https://www.microsoft.com/en-us/learning/course.aspx?cid=20488
 
 https://www.microsoft.com/en-us/learning/exam-70-488.aspx
-
+#
 ##Technical diagrams for SharePoint 2013
 
 https://technet.microsoft.com/en-us/library/cc263199.aspx
@@ -13,6 +13,7 @@ https://technet.microsoft.com/en-us/library/cc263199.aspx
 ##Technical diagrams (SharePoint Foundation 2010)
 
 https://technet.microsoft.com/en-us/library/ee806874(v=office.14).aspx
+
 
 ##Choose the right API set in SharePoint 2013
 
@@ -64,3 +65,6 @@ https://blogs.msdn.microsoft.com/michael_yeager/2008/11/03/reference-list-for-sh
 ##SP 2010: Find error messages with a Correlation ID token in SharePoint 2010
 
 https://zimmergren.net/sp-2010-find-error-messages-with-a-correlation-id-token-in-sharepoint-2010/
+
+##If you don’t see the link for master page use the following URL. /_layouts/15/ChangeSiteMasterPage.aspx
+##If you don’t see the link to Save as a template us https://url.....”/_layouts/15/savetmpl.aspx”
