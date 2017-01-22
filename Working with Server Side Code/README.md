@@ -1,4 +1,4 @@
-## WebPart class
+ ## WebPart class
 
 https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.webpartpages.webpart.aspx
 
@@ -63,7 +63,10 @@ https://blogs.technet.microsoft.com/stefan_gossner/2011/11/10/using-synchronous-
 
 https://msdn.microsoft.com/en-us/library/office/ms460929.aspx
  
- 
 ##Introduction to Events in SharePoint Foundation
 
 https://msdn.microsoft.com/en-us/library/office/ff407965.aspx
+
+##Using Event Receivers in SharePoint Foundation 2010 (Part 1 of 2)
+
+https://msdn.microsoft.com/en-us/library/office/gg749858(v=office.14).aspx
