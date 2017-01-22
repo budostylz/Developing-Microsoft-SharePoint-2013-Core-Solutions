@@ -62,3 +62,8 @@ https://blogs.technet.microsoft.com/stefan_gossner/2011/11/10/using-synchronous-
 ##Event Registrations
 
 https://msdn.microsoft.com/en-us/library/office/ms460929.aspx
+ 
+ 
+##Introduction to Events in SharePoint Foundation
+
+https://msdn.microsoft.com/en-us/library/office/ff407965.aspx
