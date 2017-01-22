@@ -111,9 +111,13 @@ https://msdn.microsoft.com/en-us/library/ff650753.aspx
 
 https://karinebosch.wordpress.com/walkthroughs/sp2010-event-receiver-for-content-type/
 
+##Walkthrough 3 – Developing an Event Receiver for a Content Type
 
+https://karinebosch.wordpress.com/walkthroughs/event-receivers-walkthrough3/
 
+##Event receiver “inheritance” between parent and child content types 
 
+https://pholpar.wordpress.com/2010/08/06/event-receiver-inheritance-between-parent-and-child-content-types/
 
 
 
