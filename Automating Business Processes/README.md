@@ -47,7 +47,7 @@ http://www.codeproject.com/Tips/620173/Step-by-Step-Approach-to-Create-a-Visual-
 https://msdn.microsoft.com/en-us/library/cc189036(v=vs.95)
 
 ##Workflow actions and activities reference for SharePoint 2013
-
+ 
 https://msdn.microsoft.com/en-us/library/office/jj163867.aspx
 
 ##Introduction to designing and customizing workflows
@@ -119,6 +119,8 @@ https://karinebosch.wordpress.com/walkthroughs/event-receivers-walkthrough3/
 
 https://pholpar.wordpress.com/2010/08/06/event-receiver-inheritance-between-parent-and-child-content-types/
 
+##Chapter 9: Event Receivers Part 2 of 2 (Expert WSS 3.0 and MOSS 2007 Programming)
 
+https://msdn.microsoft.com/en-us/library/ff713708(office.12).aspx
 
 
