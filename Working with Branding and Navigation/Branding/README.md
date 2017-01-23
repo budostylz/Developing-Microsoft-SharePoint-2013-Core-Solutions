@@ -27,7 +27,6 @@ https://msdn.microsoft.com/en-us/library/office/jj862340.aspx
 https://msdn.microsoft.com/en-us/library/office/jj720398.aspx#Prerequisites
 
 ##Module Element (Module)
-
 https://msdn.microsoft.com/en-us/library/office/ms434127.aspx
 
 ##SharePoint Add-ins UX design guidelines
@@ -49,7 +48,7 @@ https://msdn.microsoft.com/en-us/library/office/ms438085.aspx
 
 1. Download SharePoint Color Palette Tool
 
-https://www.microsoft.com/en-us/download/details.aspx?id=38182
+ https://www.microsoft.com/en-us/download/details.aspx?id=38182
 
 2. Create a theme and upload to Themes Gallery
 
@@ -107,3 +106,6 @@ https://msdn.microsoft.com/en-us/library/office/jj822368.aspx
 
 http://www.learningsharepoint.com/2013/05/03/missing-save-site-as-template-for-publishing-sites-in-sharepoint-2013/
 
+##SharePoint 2013 Design Manager snippets
+
+https://msdn.microsoft.com/en-us/library/office/jj822367.aspx
