@@ -55,4 +55,6 @@ https://blogs.msdn.microsoft.com/sharepoint__cloud/2012/12/19/where-is-sign-in-a
 
 https://www.credera.com/blog/technology-insights/microsoft-solutions/how-to-sign-in-as-a-different-user-in-sharepoint-2013/
 
+##About conditional comments
 
+https://msdn.microsoft.com/en-us/library/ms537512(v=vs.85).aspx
