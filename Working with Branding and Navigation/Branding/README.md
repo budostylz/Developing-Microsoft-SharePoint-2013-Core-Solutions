@@ -41,7 +41,6 @@ https://msdn.microsoft.com/en-us/library/office/mt210456.aspx
 https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.webcontrols.layoutspagebase_members.aspx
 
 ##SPSecurityTrimmedControl class
-
 https://msdn.microsoft.com/en-us/library/office/ms438085.aspx
 
 ------------------------Create Custom Themes and Composed Looks-----------------------------------------------------
@@ -51,7 +50,7 @@ https://msdn.microsoft.com/en-us/library/office/ms438085.aspx
  https://www.microsoft.com/en-us/download/details.aspx?id=38182
 
 2. Create a theme and upload to Themes Gallery
-
+ 
 
 3. Create a Compose Look based on Theme and Color Palette
 
@@ -118,3 +117,7 @@ https://tommdaly.wordpress.com/2013/01/20/cache-busting-using-cssregistration-sc
 ##SharePoint 2013 CSS classes that suck and save the day
 
 http://blog.sharepointexperience.com/2013/05/sharepoint-2013-css-classes-that-suck-and-save-the-day/#bkgdimage
+
+##Sticky Footer Solution for SharePoint 2013
+
+https://jorikpolhuis.wordpress.com/2015/03/25/sticky-footer-solution-for-sharepoint-2013/
