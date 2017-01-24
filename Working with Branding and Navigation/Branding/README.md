@@ -52,6 +52,7 @@ https://msdn.microsoft.com/en-us/library/office/ms438085.aspx
 
 2. Create a theme and upload to Themes Gallery
 
+
 3. Create a Compose Look based on Theme and Color Palette
 
 4. Reference a Master Page to use
@@ -113,3 +114,7 @@ https://msdn.microsoft.com/en-us/library/office/jj822367.aspx
 ##Cache Busting Using CssRegistration & ScriptLink in SharePoint 2010
 
 https://tommdaly.wordpress.com/2013/01/20/cache-busting-using-cssregistration-scriptlink-in-sharepoint-2010/
+
+##SharePoint 2013 CSS classes that suck and save the day
+
+http://blog.sharepointexperience.com/2013/05/sharepoint-2013-css-classes-that-suck-and-save-the-day/#bkgdimage
