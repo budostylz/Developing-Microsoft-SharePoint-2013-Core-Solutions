@@ -109,3 +109,7 @@ http://www.learningsharepoint.com/2013/05/03/missing-save-site-as-template-for-p
 ##SharePoint 2013 Design Manager snippets
 
 https://msdn.microsoft.com/en-us/library/office/jj822367.aspx
+ 
+##Cache Busting Using CssRegistration & ScriptLink in SharePoint 2010
+
+https://tommdaly.wordpress.com/2013/01/20/cache-busting-using-cssregistration-scriptlink-in-sharepoint-2010/
