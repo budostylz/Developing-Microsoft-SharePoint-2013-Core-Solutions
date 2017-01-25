@@ -39,7 +39,9 @@ http://geekswithblogs.net/leonardm/archive/2010/08/25/adding-more-links-to-your-
 
 http://www.nothingbutsharepoint.com/2013/04/25/yes-the-sharepoint-navigation-really-can-work-for-your-needs-aspx/
 
+##Managed navigation in SharePoint 2013
 
+https://msdn.microsoft.com/en-us/library/office/jj163978.aspx
 
 
 
