@@ -68,3 +68,7 @@ https://zimmergren.net/sp-2010-find-error-messages-with-a-correlation-id-token-i
 
 ###If you don’t see the link for master page use the following URL. /_layouts/15/ChangeSiteMasterPage.aspx
 ###If you don’t see the link to Save as a template us https://url.....”/_layouts/15/savetmpl.aspx”
+
+##Managed navigation in SharePoint 2013
+
+https://msdn.microsoft.com/en-us/library/office/jj163978.aspx
