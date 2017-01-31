@@ -74,3 +74,7 @@ https://blogs.msdn.microsoft.com/razi/2013/10/28/listing-all-sharepoint-server-2
 ##SharePoint Feature Administration and Clean Up Tool
 
 https://featureadmin.codeplex.com/
+
+##Resource Usage Limits on Sandboxed Solutions in SharePoint 2010
+
+https://msdn.microsoft.com/en-us/library/office/gg615462(v=office.14).aspx
