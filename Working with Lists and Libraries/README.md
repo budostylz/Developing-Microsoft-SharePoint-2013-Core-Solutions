@@ -111,4 +111,5 @@ http://sharepoint.stackexchange.com/questions/42769/how-to-copy-a-lookup-field-t
  
  destinationItem["DestinationLookup"] = sourceItem["SourceLookup"].ToString();
  
- Pattern for Lookups: 1;#lookup1;2;#lookup2;3;#lookup3
+ Pattern for Lookups: 1;#lookup1;2;#lookup2;3;#lookup(n)
+ 
