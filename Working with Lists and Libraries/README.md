@@ -103,5 +103,7 @@ http://sharepoint.stackexchange.com/questions/42769/how-to-copy-a-lookup-field-t
 
 ##Copy Lookups from Source to Destination Lists
   SPFieldLookupValueCollection lookupValues = (SPFieldLookupValueCollection)sourceItem["SourceLookup"];
+  
   string col = lookupValues.ToString();
+  
   destinationItem["DestinationLookup"] = col;
