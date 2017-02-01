@@ -106,3 +106,9 @@ http://sharepoint.stackexchange.com/questions/42769/how-to-copy-a-lookup-field-t
   string col = lookupValues.ToString();
   
   destinationItem["DestinationLookup"] = col;
+ 
+ ##Copy Single-Lookups from Source to Destination Lists(CSOMC#)
+ 
+ destinationItem["DestinationLookup"] = sourceItem["SourceLookup"].ToString();
+ 
+ Pattern for Lookups: 1;#lookup1;2;#lookup2;3;#lookup3
