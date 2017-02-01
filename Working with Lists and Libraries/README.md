@@ -89,3 +89,7 @@ http://www.dotnetmafia.com/blogs/dotnettipoftheday/archive/2010/11/29/how-to-pro
 ##SPListTemplateType enumeration
 
 https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.splisttemplatetype.aspx
+ 
+##SPFieldType enumeration
+
+https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spfieldtype.aspx
