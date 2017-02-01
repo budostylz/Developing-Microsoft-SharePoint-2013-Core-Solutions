@@ -33,7 +33,7 @@ https://technet.microsoft.com/en-us/library/cc262813(v=office.14).aspx
 ##ContentIterator class
 
 https://msdn.microsoft.com/en-us/library/microsoft.office.server.utilities.contentiterator.aspx
-
+ 
 ##SPQuery class
 
 https://msdn.microsoft.com/library/microsoft.sharepoint.spquery
@@ -99,5 +99,9 @@ https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spfieldtype.aspx
 http://www.c-sharpcorner.com/blogs/programmatically-set-value-to-the-hyperlink-field-in-sharepoint-2010
 
 ##How to copy a Lookup field to another lookup field on another list?
-
 http://sharepoint.stackexchange.com/questions/42769/how-to-copy-a-lookup-field-to-another-lookup-field-on-another-list
+
+##Copy Lookups from Source to Destination Lists
+  SPFieldLookupValueCollection lookupValues = (SPFieldLookupValueCollection)sourceItem["SourceLookup"];
+  string col = lookupValues.ToString();
+  destinationItem["DestinationLookup"] = col;
