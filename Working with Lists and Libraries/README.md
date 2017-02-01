@@ -31,7 +31,6 @@ https://msdn.microsoft.com/en-us/library/office/ee535056(v=office.14).aspx
 https://technet.microsoft.com/en-us/library/cc262813(v=office.14).aspx
 
 ##ContentIterator class
-
 https://msdn.microsoft.com/en-us/library/microsoft.office.server.utilities.contentiterator.aspx
  
 ##SPQuery class
@@ -41,7 +40,7 @@ https://msdn.microsoft.com/library/microsoft.sharepoint.spquery
 ##SPSiteDataQuery class
 
 https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spsitedataquery.aspx
-##SPWebConfigModification class(Write/Modify Configuration Files)
+ ##SPWebConfigModification class(Write/Modify Configuration Files)
 https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.administration.spwebconfigmodification.aspx
  
 ##ConfigurationManager Class
@@ -107,7 +106,7 @@ http://sharepoint.stackexchange.com/questions/42769/how-to-copy-a-lookup-field-t
   
   destinationItem["DestinationLookup"] = col;
  
- ##Copy Single-Lookups from Source to Destination Lists(CSOMC#)
+##Copy Single-Lookups from Source to Destination Lists(CSOMC#)
  
  destinationItem["DestinationLookup"] = sourceItem["SourceLookup"].ToString();
  
