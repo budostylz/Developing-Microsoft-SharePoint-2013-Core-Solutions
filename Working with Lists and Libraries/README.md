@@ -42,7 +42,6 @@ https://msdn.microsoft.com/library/microsoft.sharepoint.spquery
 
 https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spsitedataquery.aspx
 ##SPWebConfigModification class(Write/Modify Configuration Files)
-
 https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.administration.spwebconfigmodification.aspx
  
 ##ConfigurationManager Class
@@ -50,6 +49,7 @@ https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.administration.spw
 https://msdn.microsoft.com/en-us/library/system.configuration.configurationmanager(v=vs.110).aspx
 
 ##Sharepoint: Table of list template IDs
+
 
 http://www.whatsthatblogsname.com/2014/04/29/sharepoint-table-of-list-template-ids/
 
@@ -100,7 +100,7 @@ http://www.c-sharpcorner.com/blogs/programmatically-set-value-to-the-hyperlink-f
 ##How to copy a Lookup field to another lookup field on another list?
 http://sharepoint.stackexchange.com/questions/42769/how-to-copy-a-lookup-field-to-another-lookup-field-on-another-list
 
-##Copy Lookups from Source to Destination Lists(CSOM C#)
+##Copy Multi-Lookups from Source to Destination Lists(CSOM C#)
   SPFieldLookupValueCollection lookupValues = (SPFieldLookupValueCollection)sourceItem["SourceLookup"];
   
   string col = lookupValues.ToString();
