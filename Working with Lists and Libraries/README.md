@@ -23,7 +23,7 @@ https://msdn.microsoft.com/en-us/library/office/ee535491(v=office.14).aspx
 https://msdn.microsoft.com/en-us/library/ff798329.aspx
 
 ##Overriding SPMetal Defaults by Using a Parameters XML File
-
+ 
 https://msdn.microsoft.com/en-us/library/office/ee535056(v=office.14).aspx
 
 ##Designing large lists and maximizing list performance (SharePoint Server 2010)
@@ -93,3 +93,7 @@ https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.splisttemplatetype
 ##SPFieldType enumeration
 
 https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spfieldtype.aspx
+
+##Programmatically set value to the hyperlink field in SharePoint 2010
+
+http://www.c-sharpcorner.com/blogs/programmatically-set-value-to-the-hyperlink-field-in-sharepoint-2010
