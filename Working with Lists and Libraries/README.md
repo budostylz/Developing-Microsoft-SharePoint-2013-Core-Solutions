@@ -41,7 +41,6 @@ https://msdn.microsoft.com/library/microsoft.sharepoint.spquery
 ##SPSiteDataQuery class
 
 https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spsitedataquery.aspx
-
 ##SPWebConfigModification class(Write/Modify Configuration Files)
 
 https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.administration.spwebconfigmodification.aspx
@@ -56,7 +55,7 @@ http://www.whatsthatblogsname.com/2014/04/29/sharepoint-table-of-list-template-i
 
 ##How to avoid the Top 5 SharePoint Performance Mistakes
 
-http://apmblog.dynatrace.com/2010/03/18/how-to-avoid-the-top-5-sharepoint-performance-mistakes/
+ http://apmblog.dynatrace.com/2010/03/18/how-to-avoid-the-top-5-sharepoint-performance-mistakes/
 
 ##SharePoint CAML Query Helper for 2007, 2010, 2013, Office 365 SharePoint Online
 
@@ -101,7 +100,7 @@ http://www.c-sharpcorner.com/blogs/programmatically-set-value-to-the-hyperlink-f
 ##How to copy a Lookup field to another lookup field on another list?
 http://sharepoint.stackexchange.com/questions/42769/how-to-copy-a-lookup-field-to-another-lookup-field-on-another-list
 
-##Copy Lookups from Source to Destination Lists
+##Copy Lookups from Source to Destination Lists(CSOM C#)
   SPFieldLookupValueCollection lookupValues = (SPFieldLookupValueCollection)sourceItem["SourceLookup"];
   
   string col = lookupValues.ToString();
