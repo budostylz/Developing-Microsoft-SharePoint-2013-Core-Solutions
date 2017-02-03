@@ -69,3 +69,6 @@ https://zimmergren.net/sp-2010-find-error-messages-with-a-correlation-id-token-i
 ###If you don’t see the link for master page use the following URL. /_layouts/15/ChangeSiteMasterPage.aspx
 ###If you don’t see the link to Save as a template us https://url.....”/_layouts/15/savetmpl.aspx”
 
+##Open and use the Web Part Maintenance Page
+
+https://support.office.com/en-us/article/Open-and-use-the-Web-Part-Maintenance-Page-eff9ce22-d04a-44dd-ae83-ac29a5e396c2
