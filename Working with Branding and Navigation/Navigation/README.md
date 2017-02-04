@@ -47,5 +47,7 @@ https://msdn.microsoft.com/en-us/library/office/jj163978.aspx
 
 https://karinebosch.wordpress.com/2013/12/13/programmatically-provisioning-a-term-set-for-navigation/
 
+##Site Map Providers
 
+https://msdn.microsoft.com/en-us/library/aa478951.aspx
 
