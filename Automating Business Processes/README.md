@@ -57,7 +57,6 @@ https://support.office.com/en-us/article/Introduction-to-designing-and-customizi
 ###--------------WalkThroughs--------------------------------------------
 
 ##Walkthrough: Creating a Workflow with Association and Initiation Forms
-
 https://msdn.microsoft.com/en-us/library/ee231590.aspx
 
 ##How to: Build and deploy workflow custom actions
@@ -67,7 +66,7 @@ https://msdn.microsoft.com/en-us/library/office/jj163911.aspx
 ##Understanding how to package and deploy workflow in SharePoint 2013
 
 https://msdn.microsoft.com/en-us/library/office/jj819316.aspx
-
+ 
 ##How to: Create SharePoint 2013 Workflows using Visual Studio
 
 https://msdn.microsoft.com/en-us/library/office/dn584771.aspx
@@ -123,4 +122,14 @@ https://pholpar.wordpress.com/2010/08/06/event-receiver-inheritance-between-pare
 
 https://msdn.microsoft.com/en-us/library/ff713708(office.12).aspx
 
+##Some SharePoint Approval Workflows Bugs
 
+1. Start this workflow when a new item is created.
+2. Start this workflow when an item is changed.
+
+I came accross a situation where the approval workflow works when disabling the 'Start this workflow when an item is changd.'
+There is some documentation out there stating that these two states can conflict with each other in the workflow.
+
+##All about Approval workflows
+
+https://support.office.com/en-us/article/All-about-Approval-workflows-078c5a89-821f-44a9-9530-40bb34f9f742
