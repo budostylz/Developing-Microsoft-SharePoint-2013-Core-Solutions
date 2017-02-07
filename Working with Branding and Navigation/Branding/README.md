@@ -53,7 +53,7 @@ https://msdn.microsoft.com/en-us/library/office/ms438085.aspx
  
 
 3. Create a Compose Look based on Theme and Color Palette
-
+ 
 4. Reference a Master Page to use
 
 
@@ -121,3 +121,7 @@ http://blog.sharepointexperience.com/2013/05/sharepoint-2013-css-classes-that-su
 ##Sticky Footer Solution for SharePoint 2013
 
 https://jorikpolhuis.wordpress.com/2015/03/25/sticky-footer-solution-for-sharepoint-2013/
+
+##Feature Stapling
+
+https://msdn.microsoft.com/en-us/library/office/bb861862(v=office.12).aspx
