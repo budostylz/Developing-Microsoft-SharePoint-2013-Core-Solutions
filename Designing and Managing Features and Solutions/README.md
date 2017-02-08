@@ -24,7 +24,7 @@ https://technet.microsoft.com/en-us/library/ff607534.aspx
 https://technet.microsoft.com/en-us/library/ff607873.aspx
 
 ##Remove-SPSolution (Removes a SharePoint solution from a farm)
-
+ 
 https://technet.microsoft.com/en-us/library/ff607748.aspx
 
 ##Update-SPSolution(Upgrades a deployed SharePoint solution)
@@ -78,3 +78,7 @@ https://featureadmin.codeplex.com/
 ##Resource Usage Limits on Sandboxed Solutions in SharePoint 2010
 
 https://msdn.microsoft.com/en-us/library/office/gg615462(v=office.14).aspx
+
+##Create an Event Receiver for a Specific Document Library List Instance
+
+https://social.msdn.microsoft.com/Forums/sharepoint/en-US/44b524cb-d09c-41c0-b365-3aa64c103c50/create-an-event-receiver-for-a-specific-document-library-list-instance?forum=sharepointdevelopmentprevious
