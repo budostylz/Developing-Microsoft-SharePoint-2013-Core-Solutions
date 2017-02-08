@@ -19,7 +19,7 @@ https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.administration.spj
 https://msdn.microsoft.com/en-us/library/office/microsoft.sharepoint.administration.spworkitemjobdefinition.aspx
 
 ##SPPropertyBag class
-
+ 
 https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.utilities.sppropertybag.aspx
 
 ##SPWebConfigModification class
@@ -70,3 +70,7 @@ https://msdn.microsoft.com/en-us/library/office/ff407965.aspx
 ##Using Event Receivers in SharePoint Foundation 2010 (Part 1 of 2)
 
 https://msdn.microsoft.com/en-us/library/office/gg749858(v=office.14).aspx
+
+##How to: Create an Event Receiver for a Specific List Instance
+
+https://msdn.microsoft.com/en-us/library/ff398052.aspx
