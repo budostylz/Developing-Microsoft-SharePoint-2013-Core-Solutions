@@ -53,7 +53,7 @@ https://msdn.microsoft.com/en-us/library/system.configuration.configurationmanag
 http://www.whatsthatblogsname.com/2014/04/29/sharepoint-table-of-list-template-ids/
 
 ##How to avoid the Top 5 SharePoint Performance Mistakes
-
+ 
  http://apmblog.dynatrace.com/2010/03/18/how-to-avoid-the-top-5-sharepoint-performance-mistakes/
 
 ##SharePoint CAML Query Helper for 2007, 2010, 2013, Office 365 SharePoint Online
@@ -112,3 +112,6 @@ http://sharepoint.stackexchange.com/questions/42769/how-to-copy-a-lookup-field-t
  
  Pattern for Lookups: 1;#lookup1;2;#lookup2;3;#lookup(n)
  
+##Combine Two ListItemCollection objects
+
+http://sharepoint.stackexchange.com/questions/146242/combine-two-listitemcollection-objects
