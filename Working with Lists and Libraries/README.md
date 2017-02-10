@@ -45,7 +45,6 @@ https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spsitedataquery.as
 ##ConfigurationManager Class
 
 https://msdn.microsoft.com/en-us/library/system.configuration.configurationmanager(v=vs.110).aspx
-
 ##Sharepoint: Table of list template IDs
 
 
@@ -55,7 +54,7 @@ http://www.whatsthatblogsname.com/2014/04/29/sharepoint-table-of-list-template-i
  
  http://apmblog.dynatrace.com/2010/03/18/how-to-avoid-the-top-5-sharepoint-performance-mistakes/
 
-##SharePoint CAML Query Helper for 2007, 2010, 2013, Office 365 SharePoint Online
+ ##SharePoint CAML Query Helper for 2007, 2010, 2013, Office 365 SharePoint Online
 
 https://spcamlqueryhelper.codeplex.com/
 
@@ -114,3 +113,7 @@ http://sharepoint.stackexchange.com/questions/42769/how-to-copy-a-lookup-field-t
 ##Combine Two ListItemCollection objects
 
 http://sharepoint.stackexchange.com/questions/146242/combine-two-listitemcollection-objects
+
+##CAML and the Client Object Model
+
+https://karinebosch.wordpress.com/2012/02/03/caml-and-the-client-object-model/
