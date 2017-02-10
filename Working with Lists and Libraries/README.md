@@ -129,3 +129,7 @@ https://social.technet.microsoft.com/wiki/contents/articles/21801.sharepoint-a-c
    query.ViewXml = "< View Scope='RecursiveAll' />";
    
    SPListItemCollection coll = list.GetItems(query);
+
+##How to Change Column Type in SharePoint List using PowerShell
+
+http://www.sharepointdiary.com/2013/09/change-column-type-in-list-using-powershell.html
