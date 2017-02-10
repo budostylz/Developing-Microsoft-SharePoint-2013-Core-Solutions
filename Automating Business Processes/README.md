@@ -73,7 +73,7 @@ https://msdn.microsoft.com/en-us/library/office/dn584771.aspx
 
 ###--------------------Upgrade Workflows--------------------------------------
 
-####SharePoint Designer
+ ####SharePoint Designer
 
 a. Save workflow as template
 
@@ -133,3 +133,7 @@ There is some documentation out there stating that these two states can conflict
 ##All about Approval workflows
 
 https://support.office.com/en-us/article/All-about-Approval-workflows-078c5a89-821f-44a9-9530-40bb34f9f742
+
+##You don’t want new instances of your workflow association, so here is the code snippet & it’s API description.
+
+https://blogs.msdn.microsoft.com/navdeepm/2009/10/19/you-dont-want-new-instances-of-your-workflow-association-so-here-is-the-code-snippet-its-api-description/
