@@ -40,8 +40,7 @@ https://msdn.microsoft.com/library/microsoft.sharepoint.spquery
 ##SPSiteDataQuery class
 
 https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spsitedataquery.aspx
- ##SPWebConfigModification class(Write/Modify Configuration Files)
-https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.administration.spwebconfigmodification.aspx
+ 
  
 ##ConfigurationManager Class
 
