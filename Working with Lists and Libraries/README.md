@@ -127,6 +127,6 @@ https://social.technet.microsoft.com/wiki/contents/articles/21801.sharepoint-a-c
    
    SPQuery query = new SPQuery();//Query Library : All
    
-   query.ViewXml = "@"< View Scope='RecursiveAll' />"";
+   query.ViewXml = @"< View Scope='RecursiveAll' />";
    
    SPListItemCollection coll = list.GetItems(query);
