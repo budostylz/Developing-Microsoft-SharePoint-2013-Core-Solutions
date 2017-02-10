@@ -13,7 +13,6 @@ https://msdn.microsoft.com/en-us/library/system.web.ui.page.ispostback(v=vs.110)
 ##Query Schema
 
 https://msdn.microsoft.com/en-us/library/office/ms467521.aspx
-
 ##Using LINQ to SharePoint
 
 https://msdn.microsoft.com/en-us/library/office/ee535491(v=office.14).aspx
@@ -52,7 +51,7 @@ http://www.whatsthatblogsname.com/2014/04/29/sharepoint-table-of-list-template-i
  
 ##How to avoid the Top 5 SharePoint Performance Mistakes
  
- http://apmblog.dynatrace.com/2010/03/18/how-to-avoid-the-top-5-sharepoint-performance-mistakes/
+  http://apmblog.dynatrace.com/2010/03/18/how-to-avoid-the-top-5-sharepoint-performance-mistakes/
 
  ##SharePoint CAML Query Helper for 2007, 2010, 2013, Office 365 SharePoint Online
 
@@ -121,3 +120,13 @@ https://karinebosch.wordpress.com/2012/02/03/caml-and-the-client-object-model/
 ##SharePoint: A Complete Guide to Getting and Setting Fields using C#
 
 https://social.technet.microsoft.com/wiki/contents/articles/21801.sharepoint-a-complete-guide-to-getting-and-setting-fields-using-c.aspx
+
+##Query All Folders and Files in Document Library
+
+   SPList list = web.Lists.TryGetList("DocLib");
+   
+   SPQuery query = new SPQuery();//Query Library : All
+   
+   query.ViewXml =@"<View Scope='RecursiveAll' />";
+   
+   SPListItemCollection coll = list.GetItems(query);
