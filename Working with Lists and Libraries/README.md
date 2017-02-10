@@ -58,7 +58,6 @@ http://www.whatsthatblogsname.com/2014/04/29/sharepoint-table-of-list-template-i
 https://spcamlqueryhelper.codeplex.com/
 
 ##Automatically create Word documents which include list fields
-
 https://blogs.technet.microsoft.com/brenclarke/2009/04/15/automatically-create-word-documents-which-include-list-fields/
 
 ##Query SharePoint Foundation with ADO.NET Data Services
@@ -127,6 +126,6 @@ https://social.technet.microsoft.com/wiki/contents/articles/21801.sharepoint-a-c
    
    SPQuery query = new SPQuery();//Query Library : All
    
-   query.ViewXml = @"< View Scope='RecursiveAll' />";
+   query.ViewXml = "< View Scope='RecursiveAll' />";
    
    SPListItemCollection coll = list.GetItems(query);
