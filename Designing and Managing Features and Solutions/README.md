@@ -13,7 +13,6 @@ https://msdn.microsoft.com/en-us/library/office/ff595308.aspx
 ##Add-SPSolution(Uploads a SharePoint solution package to the farm)
 
 https://technet.microsoft.com/en-us/library/ff607552.aspx
-
 ##Install-SPSolution(Deploys an installed SharePoint solution in the farm)
 
 https://technet.microsoft.com/en-us/library/ff607534.aspx
@@ -23,7 +22,7 @@ https://technet.microsoft.com/en-us/library/ff607534.aspx
 
 https://technet.microsoft.com/en-us/library/ff607873.aspx
 
-##Remove-SPSolution (Removes a SharePoint solution from a farm)
+ ##Remove-SPSolution (Removes a SharePoint solution from a farm)
  
 https://technet.microsoft.com/en-us/library/ff607748.aspx
 
@@ -82,3 +81,8 @@ https://msdn.microsoft.com/en-us/library/office/gg615462(v=office.14).aspx
 ##Create an Event Receiver for a Specific Document Library List Instance
 
 https://social.msdn.microsoft.com/Forums/sharepoint/en-US/44b524cb-d09c-41c0-b365-3aa64c103c50/create-an-event-receiver-for-a-specific-document-library-list-instance?forum=sharepointdevelopmentprevious
+
+
+##SPWebConfigModification class(Write/Modify Configuration Files)
+
+https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.administration.spwebconfigmodification.aspx
