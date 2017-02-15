@@ -11,7 +11,6 @@ https://www.microsoft.com/en-us/learning/exam-70-488.aspx
 https://technet.microsoft.com/en-us/library/cc263199.aspx
 
 ##Technical diagrams (SharePoint Foundation 2010)
-
 https://technet.microsoft.com/en-us/library/ee806874(v=office.14).aspx
 
 
@@ -22,7 +21,7 @@ https://msdn.microsoft.com/en-us/library/office/jj164060(v=office.15).aspx#Facto
 ##Caml Builder and some dev tools
 
 http://www.u2u.be/Software
-
+ 
 ##Understanding multi-tenancy in SharePoint Server 2013
 
 https://technet.microsoft.com/en-us/library/dn659286.aspx
@@ -72,3 +71,8 @@ https://zimmergren.net/sp-2010-find-error-messages-with-a-correlation-id-token-i
 ##Open and use the Web Part Maintenance Page
 
 https://support.office.com/en-us/article/Open-and-use-the-Web-Part-Maintenance-Page-eff9ce22-d04a-44dd-ae83-ac29a5e396c2
+
+
+##Code Better and Avoid Security & Stability risks
+
+https://www.spcaf.com/components/spcop/
