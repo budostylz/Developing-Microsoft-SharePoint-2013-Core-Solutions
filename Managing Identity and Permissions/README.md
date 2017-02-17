@@ -24,7 +24,7 @@ https://msdn.microsoft.com/en-us/library/office/ee535894.aspx
 
 ##How to: Create a claims provider in SharePoint 2013
 
-https://msdn.microsoft.com/en-us/library/office/ee537299.aspx
+ https://msdn.microsoft.com/en-us/library/office/ee537299.aspx
 
  ##NTFS Permissions, Part 2
 
@@ -80,6 +80,6 @@ https://technet.microsoft.com/en-us/library/cc721640.aspx
 
 https://msdn.microsoft.com/en-us/library/ms414036(v=office.15).aspx
 
-##How to get a SPFieldLookupValue from an SPListItem?
+##How to get a SPFieldLookupValue from an SPListItem? Applies to SPFieldUser too
 
 http://sharepoint.stackexchange.com/questions/1412/how-to-get-a-spfieldlookupvalue-from-an-splistitem
