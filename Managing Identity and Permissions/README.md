@@ -16,7 +16,6 @@ https://technet.microsoft.com/en-us/library/cc770946(v=ws.10).aspx
 https://msdn.microsoft.com/en-us/library/7t6b43z4.aspx
 
 ##Active Directory Federation Services
-
 https://msdn.microsoft.com/en-us/library/bb897402.aspx
 
 ##Claims provider in SharePoint 2013
@@ -27,7 +26,7 @@ https://msdn.microsoft.com/en-us/library/office/ee535894.aspx
 
 https://msdn.microsoft.com/en-us/library/office/ee537299.aspx
 
-##NTFS Permissions, Part 2
+ ##NTFS Permissions, Part 2
 
 https://technet.microsoft.com/en-us/magazine/2006.01.howitworksntfs.aspx
 
@@ -80,3 +79,7 @@ https://technet.microsoft.com/en-us/library/cc721640.aspx
 ##Role, inheritance, elevation of privilege, and password changes in SharePoint 2013
 
 https://msdn.microsoft.com/en-us/library/ms414036(v=office.15).aspx
+
+##How to get a SPFieldLookupValue from an SPListItem?
+
+http://sharepoint.stackexchange.com/questions/1412/how-to-get-a-spfieldlookupvalue-from-an-splistitem
