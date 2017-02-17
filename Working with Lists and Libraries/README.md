@@ -68,7 +68,7 @@ https://msdn.microsoft.com/en-us/library/ee535480
 
 https://msdn.microsoft.com/en-us/library/ee535491
 
-##List Schema
+ ##List Schema
 
 https://msdn.microsoft.com/en-us/library/office/aa543477(v=office.15).aspx
 
@@ -133,3 +133,7 @@ https://social.technet.microsoft.com/wiki/contents/articles/21801.sharepoint-a-c
 ##How to Change Column Type in SharePoint List using PowerShell
 
 http://www.sharepointdiary.com/2013/09/change-column-type-in-list-using-powershell.html
+
+##How to do a CAML Query through PowerShell
+
+https://gallery.technet.microsoft.com/office/How-to-do-a-CAML-Query-6f5260cf
