@@ -67,7 +67,6 @@ https://msdn.microsoft.com/en-us/library/ee535480
 ##Using LINQ to SharePoint
 
 https://msdn.microsoft.com/en-us/library/ee535491
-
  ##List Schema
 
 https://msdn.microsoft.com/en-us/library/office/aa543477(v=office.15).aspx
@@ -77,7 +76,7 @@ https://msdn.microsoft.com/en-us/library/office/aa543477(v=office.15).aspx
 https://msdn.microsoft.com/en-IN/library/ms478860(v=office.14).aspx
 
 ##How to: Provision a Document Set using CAML 
-
+ 
 http://www.dotnetmafia.com/blogs/dotnettipoftheday/archive/2010/11/29/how-to-provision-a-document-set-using-caml.aspx
 
 ##SPListTemplateType enumeration
@@ -137,3 +136,11 @@ http://www.sharepointdiary.com/2013/09/change-column-type-in-list-using-powershe
 ##How to do a CAML Query through PowerShell
 
 https://gallery.technet.microsoft.com/office/How-to-do-a-CAML-Query-6f5260cf
+
+##CAML query to get the checked out files of the logedin user?
+
+https://social.msdn.microsoft.com/Forums/en-US/8c0afd46-0f12-4251-aa65-29bfd446e8c4/caml-query-to-get-the-checked-out-files-of-the-logedin-user?forum=sharepointdevelopmentlegacy
+
+##How to get all checked out files in SharePoint client object model c#?
+
+http://sharepoint.stackexchange.com/questions/152852/how-to-get-all-checked-out-files-in-sharepoint-client-object-model-c
