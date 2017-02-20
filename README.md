@@ -21,7 +21,8 @@ https://msdn.microsoft.com/en-us/library/office/jj164060(v=office.15).aspx#Facto
 ##Caml Builder and some dev tools
 
 http://www.u2u.be/Software
- 
+
+
 ##Understanding multi-tenancy in SharePoint Server 2013
 
 https://technet.microsoft.com/en-us/library/dn659286.aspx
@@ -76,3 +77,12 @@ https://support.office.com/en-us/article/Open-and-use-the-Web-Part-Maintenance-P
 ##Code Better and Avoid Security & Stability risks
 
 https://www.spcaf.com/components/spcop/
+
+##SP 2010: Find error messages with a Correlation ID token in SharePoint 2010
+
+https://zimmergren.net/sp-2010-find-error-messages-with-a-correlation-id-token-in-sharepoint-2010/
+
+##SharePoint 2013 Correlation ID - Get Detailed Error using PowerShell
+
+http://www.sharepointdiary.com/2013/02/sharepoint-2013-correlation-id-get-detailed-error-using-powershell.html
+
