@@ -18,7 +18,7 @@ https://technet.microsoft.com/en-us/library/ff607552.aspx
 https://technet.microsoft.com/en-us/library/ff607534.aspx
 
 ##Uninstall-SPSolution(Retracts a deployed SharePoint solution)
-
+ 
 
 https://technet.microsoft.com/en-us/library/ff607873.aspx
 
@@ -86,3 +86,11 @@ https://social.msdn.microsoft.com/Forums/sharepoint/en-US/44b524cb-d09c-41c0-b36
 ##SPWebConfigModification class(Write/Modify Configuration Files)
 
 https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.administration.spwebconfigmodification.aspx
+
+##How to: Create a Tool to Get the Public Key of an Assembly
+
+https://msdn.microsoft.com/en-us/library/office/ee539398(v=office.14).aspx
+
+##Sn.exe (Strong Name Tool)
+
+https://msdn.microsoft.com/en-us/library/k5b5tt23(v=vs.110).aspx
