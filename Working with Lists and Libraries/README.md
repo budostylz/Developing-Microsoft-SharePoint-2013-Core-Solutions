@@ -83,7 +83,7 @@ http://www.dotnetmafia.com/blogs/dotnettipoftheday/archive/2010/11/29/how-to-pro
 
 https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.splisttemplatetype.aspx
  ##SPFieldType enumeration
-
+ 
 https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spfieldtype.aspx
 
 ##Programmatically set value to the hyperlink field in SharePoint 2010
@@ -144,6 +144,11 @@ https://social.msdn.microsoft.com/Forums/en-US/8c0afd46-0f12-4251-aa65-29bfd446e
 
 http://sharepoint.stackexchange.com/questions/152852/how-to-get-all-checked-out-files-in-sharepoint-client-object-model-c
 
-##How to: Create, Update, and Delete List Items
+##How to: Create, Update, and Delete List Items(Client)
 
 https://msdn.microsoft.com/en-us/library/office/ee539976(v=office.14).aspx
+
+
+##How to: Add or Delete List Items(Object Model)
+
+https://msdn.microsoft.com/en-us/library/office/ms467435(v=office.14).aspx
