@@ -81,7 +81,6 @@ https://msdn.microsoft.com/en-us/library/office/ms438080.aspx
 ##Receivers Element (Event)
 
 https://msdn.microsoft.com/en-us/library/office/ms431081.aspx
-
 ##How to: Create Localized Versions of Custom Site Definitions
 
 https://msdn.microsoft.com/en-us/library/office/gg603694(v=office.14).aspx
@@ -91,7 +90,7 @@ https://msdn.microsoft.com/en-us/library/office/gg603694(v=office.14).aspx
 https://absolute-sharepoint.com/2013/06/sharepoint-2013-site-template-id-list-for-powershell.html
 
 ---------------------------------
-
+ 
 ###When creating site templates, grab a copy of ONET.xml and modify.
 
 
@@ -166,3 +165,8 @@ https://msdn.microsoft.com/en-us/library/ff649469.aspx
 ##SharePoint 2010 Feature Stapling 
 
 http://www.anmolrehan-sharepointconsultant.com/2012/07/sharepoint-2010-feature-stapling.html
+
+
+##Restore-SPDeletedSite
+
+https://technet.microsoft.com/en-us/library/hh286319.aspx
