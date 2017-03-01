@@ -18,7 +18,7 @@ https://technet.microsoft.com/en-us/library/ee806874(v=office.14).aspx
 
 https://msdn.microsoft.com/en-us/library/office/jj164060(v=office.15).aspx#Factors
 
-##Caml Builder and some dev tools
+ ##Caml Builder and some dev tools
 
  http://www.u2u.be/Software
 
@@ -89,3 +89,7 @@ http://www.sharepointdiary.com/2013/02/sharepoint-2013-correlation-id-get-detail
 ##Unit Testing for SharePoint Applications
 
 https://msdn.microsoft.com/en-us/library/ff798317.aspx?f=255&MSPPError=-2147217396
+
+##Creating HTML Emails with SPD Workflows
+
+http://www.nothingbutsharepoint.com/2011/03/14/creating-html-emails-with-spd-workflows-aspx/
