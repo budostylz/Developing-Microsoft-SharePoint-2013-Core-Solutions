@@ -145,4 +145,8 @@ https://support.office.com/en-us/article/Understand-approval-workflows-in-ShareP
 
 ##Creating HTML Emails with SPD Workflows
 
-http://www.nothingbutsharepoint.com/2011/03/14/creating-html-emails-with-spd-workflows-aspx/
+http://www.nothingbutsharepoint.com/2011/03/14/creating-html-emails-with-spd-workflows-aspx/ 
+
+##Walkthrough: Verify SharePoint Code by Using Unit Tests
+
+https://msdn.microsoft.com/en-us/library/gg599006(v=vs.100).aspx
