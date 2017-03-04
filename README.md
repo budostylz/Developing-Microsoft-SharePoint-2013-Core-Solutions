@@ -1,5 +1,4 @@
 ##MCSD: SharePoint Applications
-
 https://www.microsoft.com/en-us/learning/mcsd-sharepoint-apps-certification.aspx
 
 https://www.microsoft.com/en-us/learning/course.aspx?cid=20488
@@ -22,7 +21,7 @@ https://msdn.microsoft.com/en-us/library/office/jj164060(v=office.15).aspx#Facto
 
  http://www.u2u.be/Software
 
-
+ 
 ##Understanding multi-tenancy in SharePoint Server 2013
 
 https://technet.microsoft.com/en-us/library/dn659286.aspx
@@ -90,4 +89,6 @@ http://www.sharepointdiary.com/2013/02/sharepoint-2013-correlation-id-get-detail
 
 https://msdn.microsoft.com/en-us/library/ff798317.aspx?f=255&MSPPError=-2147217396
 
+##Walkthrough: Verify SharePoint Code by Using Unit Tests
 
+https://msdn.microsoft.com/en-us/library/gg599006(v=vs.100).aspx
