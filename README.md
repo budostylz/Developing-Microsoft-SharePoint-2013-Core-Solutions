@@ -92,6 +92,4 @@ https://msdn.microsoft.com/en-us/library/ff798317.aspx?f=255&MSPPError=-21472173
 
 https://msdn.microsoft.com/en-us/library/gg599006(v=vs.100).aspx
 
-##How do you send emails to external email address in sharepoint online workflows
 
-http://sharepoint.stackexchange.com/questions/101744/how-do-you-send-emails-to-external-email-address-in-sharepoint-online-workflows
