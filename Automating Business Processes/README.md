@@ -72,7 +72,6 @@ https://msdn.microsoft.com/en-us/library/office/jj819316.aspx
 https://msdn.microsoft.com/en-us/library/office/dn584771.aspx
 
 ###--------------------Upgrade Workflows--------------------------------------
-
  ####SharePoint Designer
 
  a. Save workflow as template
@@ -83,7 +82,7 @@ b. Modify version attribute in Feature.xml file
 
 a. Create solution 
 
-b. Add workflow item
+ b. Add workflow item
 
 c. Modify feature version
 
@@ -150,3 +149,8 @@ http://www.nothingbutsharepoint.com/2011/03/14/creating-html-emails-with-spd-wor
 ##Walkthrough: Verify SharePoint Code by Using Unit Tests
 
 https://msdn.microsoft.com/en-us/library/gg599006(v=vs.100).aspx
+
+
+##How do you send emails to external email address in sharepoint online workflows
+
+http://sharepoint.stackexchange.com/questions/101744/how-do-you-send-emails-to-external-email-address-in-sharepoint-online-workflows
