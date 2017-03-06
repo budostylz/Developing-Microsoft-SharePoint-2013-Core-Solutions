@@ -33,7 +33,6 @@ https://msdn.microsoft.com/en-us/library/ee231517.aspx
 ##SHAREPOINT 2013 OUT OF BOX WEB PARTS
 
 https://wonderlaura.com/2014/02/12/sharepoint-2013-out-of-box-web-parts/
-
 ##How to: Locate and Organize Project and Item Templates
 
 https://msdn.microsoft.com/en-us/library/y3kkate1.aspx
@@ -43,7 +42,7 @@ https://msdn.microsoft.com/en-us/library/y3kkate1.aspx
 
 https://absolute-sharepoint.com/2013/06/sharepoint-2013-site-template-id-list-for-powershell.html
 
-
+ 
 ##Famous SharePoint URLs & Locations
 
 https://blogs.msdn.microsoft.com/how24/2013/05/23/famous-sharepoint-urls-locations/
@@ -92,3 +91,7 @@ https://msdn.microsoft.com/en-us/library/ff798317.aspx?f=255&MSPPError=-21472173
 ##Walkthrough: Verify SharePoint Code by Using Unit Tests
 
 https://msdn.microsoft.com/en-us/library/gg599006(v=vs.100).aspx
+
+##How do you send emails to external email address in sharepoint online workflows
+
+http://sharepoint.stackexchange.com/questions/101744/how-do-you-send-emails-to-external-email-address-in-sharepoint-online-workflows
