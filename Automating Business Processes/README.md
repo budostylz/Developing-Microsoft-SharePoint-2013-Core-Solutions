@@ -142,9 +142,9 @@ https://blogs.msdn.microsoft.com/navdeepm/2009/10/19/you-dont-want-new-instances
 
 https://support.office.com/en-us/article/Understand-approval-workflows-in-SharePoint-2010-a24bcd14-0e3c-4449-b936-267d6c478579#__toc264526206
 
-##Creating HTML Emails with SPD Workflows
+##How to Create HTML Email Message in SharePoint Designer 2010 Workflow
 
-http://www.nothingbutsharepoint.com/2011/03/14/creating-html-emails-with-spd-workflows-aspx/ 
+http://www.c-sharpcorner.com/UploadFile/sagarp/how-to-create-html-email-message-in-sharepoint-designer-2010/
 
 ##Walkthrough: Verify SharePoint Code by Using Unit Tests
 
