@@ -25,7 +25,6 @@ https://technet.microsoft.com/en-us/library/ff607873.aspx
  ##Remove-SPSolution (Removes a SharePoint solution from a farm)
  
 https://technet.microsoft.com/en-us/library/ff607748.aspx
-
 ##Update-SPSolution(Upgrades a deployed SharePoint solution)
 
 https://technet.microsoft.com/en-us/library/ff607724.aspx
@@ -35,7 +34,7 @@ https://technet.microsoft.com/en-us/library/ff607724.aspx
 https://msdn.microsoft.com/en-us/library/ff798425.aspx
 
 ##Sandboxed solutions overview (SharePoint Server 2010)
-
+ 
 https://technet.microsoft.com/en-us/library/ee721992(v=office.14).aspx
 
 ##SPSolutionValidator Class
@@ -94,3 +93,11 @@ https://msdn.microsoft.com/en-us/library/office/ee539398(v=office.14).aspx
 ##Sn.exe (Strong Name Tool)
 
 https://msdn.microsoft.com/en-us/library/k5b5tt23(v=vs.110).aspx
+
+##How to: Localize a Feature
+
+https://msdn.microsoft.com/en-us/library/ee848293.aspx
+
+##Localizing SharePoint Solutions
+
+https://msdn.microsoft.com/en-us/library/ee696750.aspx
