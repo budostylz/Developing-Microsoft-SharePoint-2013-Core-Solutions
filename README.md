@@ -92,4 +92,6 @@ https://msdn.microsoft.com/en-us/library/ff798317.aspx?f=255&MSPPError=-21472173
 
 https://msdn.microsoft.com/en-us/library/gg599006(v=vs.100).aspx
 
+##How to send output of Powershell script to CSV
 
+http://stackoverflow.com/questions/25299214/how-to-send-output-of-powershell-script-to-csv
