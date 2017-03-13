@@ -47,6 +47,7 @@ https://absolute-sharepoint.com/2013/06/sharepoint-2013-site-template-id-list-fo
 
 https://blogs.msdn.microsoft.com/how24/2013/05/23/famous-sharepoint-urls-locations/
 
+
 ##SharePoint Development Walkthroughs
 
 https://msdn.microsoft.com/en-us/library/ee290858.aspx
@@ -95,3 +96,7 @@ https://msdn.microsoft.com/en-us/library/gg599006(v=vs.100).aspx
 ##How to send output of Powershell script to CSV
 
 http://stackoverflow.com/questions/25299214/how-to-send-output-of-powershell-script-to-csv
+
+##Installing NuGet
+
+https://docs.microsoft.com/en-us/nuget/guides/install-nuget
