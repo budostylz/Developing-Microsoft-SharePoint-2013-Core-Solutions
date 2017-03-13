@@ -79,7 +79,6 @@ https://msdn.microsoft.com/en-us/library/office/dn584771.aspx
 b. Modify version attribute in Feature.xml file 
 
 ####Visual Studio
-
 a. Create solution 
 
  b. Add workflow item
@@ -90,7 +89,7 @@ d. Go to Workflow Settings(list/site)
 
 e. Select Remove, Block, or Restore Workflow
 
-f. Select 'No New Instances First' to prevent new instances of workflow to run
+ f. Select 'No New Instances First' to prevent new instances of workflow to run
 
 g. Deploy workflow
 
@@ -154,3 +153,7 @@ https://msdn.microsoft.com/en-us/library/gg599006(v=vs.100).aspx
 ##How do you send emails to external email address in sharepoint online workflows
 
 http://sharepoint.stackexchange.com/questions/101744/how-do-you-send-emails-to-external-email-address-in-sharepoint-online-workflows
+
+##Walkthrough: Create a Custom Site Workflow Activity
+
+https://msdn.microsoft.com/en-us/library/ee231574.aspx
