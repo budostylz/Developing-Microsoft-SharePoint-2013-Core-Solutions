@@ -97,7 +97,7 @@ http://sharepoint.stackexchange.com/questions/42769/how-to-copy-a-lookup-field-t
   SPFieldLookupValueCollection lookupValues = (SPFieldLookupValueCollection)sourceItem["SourceLookup"];
   
   string col = lookupValues.ToString();
-  
+   
   destinationItem["DestinationLookup"] = col;
  
 ##Copy Single-Lookups from Source to Destination Lists(CSOMC#)
@@ -152,3 +152,7 @@ https://msdn.microsoft.com/en-us/library/office/ee539976(v=office.14).aspx
 ##How to: Add or Delete List Items(Object Model)
 
 https://msdn.microsoft.com/en-us/library/office/ms467435(v=office.14).aspx
+
+##Calculated Field Formulas
+
+https://msdn.microsoft.com/en-us/library/office/bb862071(v=office.14).aspx
