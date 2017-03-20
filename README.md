@@ -103,4 +103,8 @@ http://stackoverflow.com/questions/25299214/how-to-send-output-of-powershell-scr
 
 ##Installing NuGet
 
-https://docs.microsoft.com/en-us/nuget/guides/install-nuget
+https://docs.microsoft.com/en-us/nuget/guides/install-nuget 
+
+##difference between itemadding and itemadded in sharepoint 
+
+https://social.msdn.microsoft.com/Forums/sharepoint/en-US/9b9c0f9c-db6a-4691-8c73-aec3a4a34b21/difference-between-itemadding-and-itemadded-in-sharepoint?forum=sharepointdevelopmentlegacy
