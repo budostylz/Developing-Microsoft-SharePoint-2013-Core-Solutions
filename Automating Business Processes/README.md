@@ -21,7 +21,7 @@ https://msdn.microsoft.com/en-us/library/office/ms475328(v=office.14).aspx
 ## SharePoint 2013 workflow fundamentals
 
 https://msdn.microsoft.com/en-us/library/office/jj163181.aspx
-
+ 
 ## Use workflow interop for SharePoint 2013
 
 https://msdn.microsoft.com/en-us/library/office/jj670125.aspx
@@ -54,24 +54,24 @@ https://msdn.microsoft.com/en-us/library/office/jj163867.aspx
 
 https://support.office.com/en-us/article/Introduction-to-designing-and-customizing-workflows-32c9c0bf-5e20-4f74-8b9c-d3ea79f2962b
 
-###--------------WalkThroughs--------------------------------------------
+### --------------WalkThroughs-------------------------------------------- 
 
-##Walkthrough: Creating a Workflow with Association and Initiation Forms
+## Walkthrough: Creating a Workflow with Association and Initiation Forms
 https://msdn.microsoft.com/en-us/library/ee231590.aspx
 
-##How to: Build and deploy workflow custom actions
+## How to: Build and deploy workflow custom actions
 
 https://msdn.microsoft.com/en-us/library/office/jj163911.aspx
 
-##Understanding how to package and deploy workflow in SharePoint 2013
+## Understanding how to package and deploy workflow in SharePoint 2013
 
 https://msdn.microsoft.com/en-us/library/office/jj819316.aspx
  
-##How to: Create SharePoint 2013 Workflows using Visual Studio
+## How to: Create SharePoint 2013 Workflows using Visual Studio
 
 https://msdn.microsoft.com/en-us/library/office/dn584771.aspx
 
-###--------------------Upgrade Workflows--------------------------------------
+### --------------------Upgrade Workflows--------------------------------------
  #### SharePoint Designer
 
  a. Save workflow as template
