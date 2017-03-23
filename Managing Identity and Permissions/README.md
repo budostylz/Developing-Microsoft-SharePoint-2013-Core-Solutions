@@ -1,4 +1,5 @@
 
+
 ##An Introduction to Claims
 
 https://msdn.microsoft.com/en-us/library/ff359101.aspx
@@ -16,6 +17,7 @@ https://technet.microsoft.com/en-us/library/cc770946(v=ws.10).aspx
 https://msdn.microsoft.com/en-us/library/7t6b43z4.aspx
 
 ##Active Directory Federation Services
+
 https://msdn.microsoft.com/en-us/library/bb897402.aspx
 
 ##Claims provider in SharePoint 2013
