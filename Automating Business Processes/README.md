@@ -99,7 +99,7 @@ https://msdn.microsoft.com/en-us/library/office/dn584771.aspx
 
 https://msdn.microsoft.com/en-us/library/office/gg749858(v=office.14).aspx
 
-
+ 
 ## How to: Create a Custom Content Type with Event Receivers
 
 https://msdn.microsoft.com/en-us/library/ff650753.aspx
@@ -120,7 +120,7 @@ https://pholpar.wordpress.com/2010/08/06/event-receiver-inheritance-between-pare
 
 https://msdn.microsoft.com/en-us/library/ff713708(office.12).aspx
 
-##Some SharePoint Approval Workflows Bugs
+## Some SharePoint Approval Workflows Bugs
 
 1. Start this workflow when a new item is created.
 2. Start this workflow when an item is changed.
