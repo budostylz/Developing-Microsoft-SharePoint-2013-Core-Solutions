@@ -21,7 +21,7 @@ https://msdn.microsoft.com/en-us/library/bb897402.aspx
 ##Claims provider in SharePoint 2013
 
 https://msdn.microsoft.com/en-us/library/office/ee535894.aspx
-
+ 
 ##How to: Create a claims provider in SharePoint 2013
 
  https://msdn.microsoft.com/en-us/library/office/ee537299.aspx
@@ -83,3 +83,7 @@ https://msdn.microsoft.com/en-us/library/ms414036(v=office.15).aspx
 ##How to get a SPFieldLookupValue from an SPListItem? Applies to SPFieldUser too
 
 http://sharepoint.stackexchange.com/questions/1412/how-to-get-a-spfieldlookupvalue-from-an-splistitem
+
+##programmatically impersonate users in sharepoint
+
+https://sites.google.com/site/icsharepoint2010/how-to/programmatically-impersonate-users-in-sharepoint
