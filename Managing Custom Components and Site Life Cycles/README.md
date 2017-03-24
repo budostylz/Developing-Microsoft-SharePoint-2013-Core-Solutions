@@ -1,4 +1,4 @@
-## Site Schema
+## Site Schema 
 
 https://msdn.microsoft.com/en-us/library/office/aa544502.aspx
 
@@ -175,3 +175,7 @@ https://technet.microsoft.com/en-us/library/hh286319.aspx
 ## Save a SharePoint site as a template
 
 https://support.office.com/en-us/article/Save-a-SharePoint-site-as-a-template-5a4eb024-d1fa-4681-a4ac-e6bd1e3209ba
+
+## Increase Maximum size of Site, List Templates in SharePoint
+
+http://www.sharepointdiary.com/2014/02/increase-list-template-maximum-size-in-sharepoint.html
