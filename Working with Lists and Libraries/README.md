@@ -119,9 +119,9 @@ http://sharepoint.stackexchange.com/questions/146242/combine-two-listitemcollect
 
 ## CAML and the Client Object Model
 
-https://karinebosch.wordpress.com/2012/02/03/caml-and-the-client-object-model/
+https://karinebosch.wordpress.com/2012/02/03/caml-and-the-client-object-model/ 
 
-##SharePoint: A Complete Guide to Getting and Setting Fields using C#
+## SharePoint: A Complete Guide to Getting and Setting Fields using C#
 
 https://social.technet.microsoft.com/wiki/contents/articles/21801.sharepoint-a-complete-guide-to-getting-and-setting-fields-using-c.aspx
 
