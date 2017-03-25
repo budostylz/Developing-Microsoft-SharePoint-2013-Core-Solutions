@@ -25,12 +25,13 @@ https://msdn.microsoft.com/en-us/library/ff798329.aspx
 ## Overriding SPMetal Defaults by Using a Parameters XML File
  
 https://msdn.microsoft.com/en-us/library/office/ee535056(v=office.14).aspx
-
+ 
 ## Designing large lists and maximizing list performance (SharePoint Server 2010)
 
 https://technet.microsoft.com/en-us/library/cc262813(v=office.14).aspx
 
 ## ContentIterator class
+
 https://msdn.microsoft.com/en-us/library/microsoft.office.server.utilities.contentiterator.aspx
  
 ## SPQuery class
@@ -41,13 +42,12 @@ https://msdn.microsoft.com/library/microsoft.sharepoint.spquery
 
 https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spsitedataquery.aspx
  
- 
+
 ## ConfigurationManager Class
 
 https://msdn.microsoft.com/en-us/library/system.configuration.configurationmanager(v=vs.110).aspx
 
-##Sharepoint: Table of list template IDs
-
+## Sharepoint: Table of list template IDs
 
 http://www.whatsthatblogsname.com/2014/04/29/sharepoint-table-of-list-template-ids/
  
