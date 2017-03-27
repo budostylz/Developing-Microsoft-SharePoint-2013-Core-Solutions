@@ -1,4 +1,4 @@
- ## OData - the best way to REST
+  ## OData - the best way to REST
 
 http://www.odata.org
 
@@ -54,4 +54,7 @@ https://msdn.microsoft.com/en-us/library/office/dn903506.aspx
 
 https://camljs.codeplex.com/
 
+## SP.FileSystemObjectType enumeration
+
+https://msdn.microsoft.com/en-us/library/office/jj247237.aspx
 
