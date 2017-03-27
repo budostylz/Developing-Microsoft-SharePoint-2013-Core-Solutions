@@ -52,5 +52,6 @@ https://msdn.microsoft.com/en-us/library/office/dn903506.aspx
 
 ## CamlJs: SharePoint JavaScript Caml Builder
 
+https://camljs.codeplex.com/
 
 
