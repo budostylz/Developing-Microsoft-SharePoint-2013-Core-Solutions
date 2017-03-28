@@ -57,7 +57,7 @@ https://msdn.microsoft.com/en-us/library/ee290858.aspx
 
 ## Code samples for SharePoint 2013
 
-https://msdn.microsoft.com/en-us/library/office/jj901637.aspx
+ https://msdn.microsoft.com/en-us/library/office/jj901637.aspx
 
 
 ## Reference list for SharePoint internal field names
@@ -108,3 +108,7 @@ https://docs.microsoft.com/en-us/nuget/guides/install-nuget
 ## difference between itemadding and itemadded in sharepoint 
 
 https://social.msdn.microsoft.com/Forums/sharepoint/en-US/9b9c0f9c-db6a-4691-8c73-aec3a4a34b21/difference-between-itemadding-and-itemadded-in-sharepoint?forum=sharepointdevelopmentlegacy
+
+## Add RSS Feeds to your SharePoint site
+
+https://support.office.com/en-us/article/Add-RSS-Feeds-to-your-SharePoint-site-51847e78-5c74-4877-9fb9-940000885a5f
