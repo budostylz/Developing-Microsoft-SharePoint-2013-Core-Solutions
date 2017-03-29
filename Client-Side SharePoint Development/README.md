@@ -58,3 +58,6 @@ https://camljs.codeplex.com/
 
 https://msdn.microsoft.com/en-us/library/office/jj247237.aspx
 
+## Client-side rendering (JS Link) code samples
+
+https://code.msdn.microsoft.com/office/Client-side-rendering-JS-2ed3538a
