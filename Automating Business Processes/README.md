@@ -88,7 +88,6 @@ https://msdn.microsoft.com/en-us/library/office/dn584771.aspx
  d. Go to Workflow Settings(list/site)
 
  e. Select Remove, Block, or Restore Workflow
-
  f. Select 'No New Instances First' to prevent new instances of workflow to run
 
  g. Deploy workflow
@@ -99,7 +98,7 @@ https://msdn.microsoft.com/en-us/library/office/dn584771.aspx
 
 https://msdn.microsoft.com/en-us/library/office/gg749858(v=office.14).aspx
 
- 
+  
 ## How to: Create a Custom Content Type with Event Receivers
 
 https://msdn.microsoft.com/en-us/library/ff650753.aspx
@@ -161,3 +160,7 @@ https://msdn.microsoft.com/en-us/library/ee231574.aspx
 ## SharePoint Event Receiver Manager (2007 & 2010)
 
 https://speventreceiverman.codeplex.com/
+
+## Removing Old Versions of SharePoint Designer Workflows
+
+https://gallery.technet.microsoft.com/Removing-Old-Versions-of-e61e644d
