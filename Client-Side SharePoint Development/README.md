@@ -1,4 +1,4 @@
-  ## OData - the best way to REST
+## OData - the best way to REST
 
 http://www.odata.org
 
@@ -61,3 +61,7 @@ https://msdn.microsoft.com/en-us/library/office/jj247237.aspx
 ## Client-side rendering (JS Link) code samples
 
 https://code.msdn.microsoft.com/office/Client-side-rendering-JS-2ed3538a
+
+## DefinitelyTyped
+
+http://definitelytyped.org/docs/sharepoint--SharePoint/index.html
