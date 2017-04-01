@@ -112,3 +112,7 @@ https://social.msdn.microsoft.com/Forums/sharepoint/en-US/9b9c0f9c-db6a-4691-8c7
 ## Add RSS Feeds to your SharePoint site
 
 https://support.office.com/en-us/article/Add-RSS-Feeds-to-your-SharePoint-site-51847e78-5c74-4877-9fb9-940000885a5f
+ 
+## Microsoft Graph
+
+https://developer.microsoft.com/en-us/graph
