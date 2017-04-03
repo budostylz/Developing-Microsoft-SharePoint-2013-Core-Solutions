@@ -65,3 +65,7 @@ https://code.msdn.microsoft.com/office/Client-side-rendering-JS-2ed3538a
 ## DefinitelyTyped
 
 http://definitelytyped.org/docs/sharepoint--SharePoint/index.html
+ 
+## REST with $filter for List Items in Sharepoint 2013
+
+http://sharepoint.stackexchange.com/questions/124846/rest-with-filter-for-list-items-in-sharepoint-2013
