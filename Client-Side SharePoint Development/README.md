@@ -69,3 +69,7 @@ http://definitelytyped.org/docs/sharepoint--SharePoint/index.html
 ## REST with $filter for List Items in Sharepoint 2013
 
 http://sharepoint.stackexchange.com/questions/124846/rest-with-filter-for-list-items-in-sharepoint-2013
+
+## Using the $expand OData Query Option in SharePoint 2013 
+
+https://threewill.com/using-the-expand-odata-query-option-in-sharepoint-2013/
