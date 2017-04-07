@@ -77,3 +77,7 @@ https://threewill.com/using-the-expand-odata-query-option-in-sharepoint-2013/
 ## How to do security trimming in sharepoint 2013 rest api?
 
 http://sharepoint.stackexchange.com/questions/161514/how-to-do-security-trimming-in-sharepoint-2013-rest-api
+ 
+## REST API Security Trimming SharePoint 2013
+
+https://chrisstahl.wordpress.com/2014/06/30/getting-started-with-rest-in-sharepoint-2013-part-2/
