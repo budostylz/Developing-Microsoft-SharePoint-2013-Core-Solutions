@@ -17,7 +17,6 @@ https://www.dsouzajoel.com/2016/02/10/get-all-sites-and-sub-sites-using-rest-api
 ## I want to get list of all site collection available on SharePoint Server 2013 using CSOM or REST API but not server object model
 
 http://sharepoint.stackexchange.com/questions/137739/i-want-to-get-list-of-all-site-collection-available-on-sharepoint-server-2013-us
-
 ## Lists and list items REST API reference
 
 https://msdn.microsoft.com/en-us/library/office/dn531433.aspx
@@ -28,7 +27,7 @@ https://msdn.microsoft.com/en-us/library/office/dn292553.aspx
 
 ## Use OData query operations in SharePoint REST requests
 
-https://msdn.microsoft.com/en-us/library/office/fp142385.aspx#bk_supported
+ https://msdn.microsoft.com/en-us/library/office/fp142385.aspx#bk_supported
 
 ## CSOM get all terms recursively in a single ExecuteQuery
 
@@ -81,3 +80,7 @@ http://sharepoint.stackexchange.com/questions/161514/how-to-do-security-trimming
 ## REST API Security Trimming SharePoint 2013
 
 https://chrisstahl.wordpress.com/2014/06/30/getting-started-with-rest-in-sharepoint-2013-part-2/
+
+## How, what and Why| X-RequestDigest (FormDigestValue) header value in SharePoint?
+
+https://kushanlahiru.wordpress.com/2016/05/16/how-what-why-x-requestdigest-formdigestvalue-header-value-in-sharepoint/
