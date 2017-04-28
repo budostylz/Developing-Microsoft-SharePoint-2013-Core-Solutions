@@ -84,3 +84,11 @@ https://chrisstahl.wordpress.com/2014/06/30/getting-started-with-rest-in-sharepo
 ## How, what and Why| X-RequestDigest (FormDigestValue) header value in SharePoint?
 
 https://kushanlahiru.wordpress.com/2016/05/16/how-what-why-x-requestdigest-formdigestvalue-header-value-in-sharepoint/
+
+## Required JavaScript Libraries
+
+script type="text/javascript" src="_layouts/15/MicrosoftAjax.js
+
+script type="text/javascript" src="_layouts/15/SP.Runtime.js"
+ 
+script type="text/javascript" src="_layouts/15/SP.js"
