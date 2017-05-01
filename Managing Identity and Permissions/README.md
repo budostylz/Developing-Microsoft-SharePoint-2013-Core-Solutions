@@ -22,8 +22,7 @@ https://msdn.microsoft.com/en-us/library/bb897402.aspx
 
 ## Claims provider in SharePoint 2013
 
-https://msdn.microsoft.com/en-us/library/office/ee535894.aspx
- 
+https://msdn.microsoft.com/en-us/library/office/ee535894.aspx 
 ## How to: Create a claims provider in SharePoint 2013
 
  https://msdn.microsoft.com/en-us/library/office/ee537299.aspx
@@ -33,7 +32,7 @@ https://msdn.microsoft.com/en-us/library/office/ee535894.aspx
 https://technet.microsoft.com/en-us/magazine/2006.01.howitworksntfs.aspx
 
 ## Kerberos Explained
-
+ 
 https://msdn.microsoft.com/en-us/library/bb742516.aspx
 
 ## SAML Tokens and Claims
@@ -89,3 +88,7 @@ http://sharepoint.stackexchange.com/questions/1412/how-to-get-a-spfieldlookupval
 ## programmatically impersonate users in sharepoint
 
 https://sites.google.com/site/icsharepoint2010/how-to/programmatically-impersonate-users-in-sharepoint
+
+## Users, groups, and roles REST API reference
+
+https://msdn.microsoft.com/en-us/library/office/dn531432.aspx
