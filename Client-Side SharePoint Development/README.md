@@ -3,7 +3,6 @@
 http://www.odata.org
 
 ## Introducing OData
-
 https://msdn.microsoft.com/en-us/data/hh237663.aspx
 
 ## Security Validation and Making Posts to Update Data (FormDigest)
@@ -14,6 +13,7 @@ https://msdn.microsoft.com/en-us/library/ms472879.aspx
 
 https://www.dsouzajoel.com/2016/02/10/get-all-sites-and-sub-sites-using-rest-api/
 
+
 ## I want to get list of all site collection available on SharePoint Server 2013 using CSOM or REST API but not server object model
 
 http://sharepoint.stackexchange.com/questions/137739/i-want-to-get-list-of-all-site-collection-available-on-sharepoint-server-2013-us
@@ -22,6 +22,7 @@ http://sharepoint.stackexchange.com/questions/137739/i-want-to-get-list-of-all-s
 https://msdn.microsoft.com/en-us/library/office/dn531433.aspx
 
 ## Working with folders and files with REST
+
 
 https://msdn.microsoft.com/en-us/library/office/dn292553.aspx
 
@@ -87,8 +88,8 @@ https://kushanlahiru.wordpress.com/2016/05/16/how-what-why-x-requestdigest-formd
 
 ## Required JavaScript Libraries
 
-script type="text/javascript" src="_layouts/15/MicrosoftAjax.js
-
-script type="text/javascript" src="_layouts/15/SP.Runtime.js"
- 
-script type="text/javascript" src="_layouts/15/SP.js"
+script type="text/javascript" src="../_layouts/15/MicrosoftAjax.js"
+script type="text/javascript" src="../_layouts/15/init.js"
+script type="text/javascript" src="../_layouts/15/sp.runtime.js"
+script type="text/javascript" src="../_layouts/15/sp.core.js"
+script type="text/javascript" src="../_layouts/15/sp.js"
