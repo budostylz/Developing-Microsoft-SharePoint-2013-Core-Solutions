@@ -40,6 +40,7 @@ https://msdn.microsoft.com/en-us/library/office/dn531432.aspx
 
 ## Get all SharePoint Document Library Files and Folders at a ServerRelativeUrl in One REST Call
 
+
 http://sympmarc.com/2016/04/23/get-all-sharepoint-document-library-files-and-folders-at-a-serverrelativeurl-in-one-rest-call/
 
 ## Moving from SPServices to REST, Part 5: Using Promises with SOAP and REST
@@ -89,7 +90,11 @@ https://kushanlahiru.wordpress.com/2016/05/16/how-what-why-x-requestdigest-formd
 ## Required JavaScript Libraries
 
 script type="text/javascript" src="../_layouts/15/MicrosoftAjax.js"
+
 script type="text/javascript" src="../_layouts/15/init.js"
+
 script type="text/javascript" src="../_layouts/15/sp.runtime.js"
+
 script type="text/javascript" src="../_layouts/15/sp.core.js"
+
 script type="text/javascript" src="../_layouts/15/sp.js"
