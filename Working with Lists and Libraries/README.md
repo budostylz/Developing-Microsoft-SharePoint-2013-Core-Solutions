@@ -103,8 +103,7 @@ http://sharepoint.stackexchange.com/questions/42769/how-to-copy-a-lookup-field-t
 ## Copy Multi-Lookups from Source to Destination Lists(CSOM C#)
   SPFieldLookupValueCollection lookupValues = (SPFieldLookupValueCollection)sourceItem["SourceLookup"];
   
-  string col = lookupValues.ToString();
-   
+  string col = lookupValues.ToString();   
   destinationItem["DestinationLookup"] = col;
  
 ## Copy Single-Lookups from Source to Destination Lists(CSOMC#)
@@ -114,7 +113,7 @@ http://sharepoint.stackexchange.com/questions/42769/how-to-copy-a-lookup-field-t
  Pattern for Lookups: 1;#lookup1;2;#lookup2;3;#lookup(n)
  
 ## Combine Two ListItemCollection objects
-
+ 
 http://sharepoint.stackexchange.com/questions/146242/combine-two-listitemcollection-objects
 
 ## CAML and the Client Object Model
@@ -163,3 +162,7 @@ https://msdn.microsoft.com/en-us/library/office/ms467435(v=office.14).aspx
 ## Calculated Field Formulas
 
 https://msdn.microsoft.com/en-us/library/office/bb862071(v=office.14).aspx
+
+## DateRangesOverlap CAML Query Element 
+
+http://www.provokesolutions.com/our-story/our-blog/using-the-daterangesoverlap-caml-query-element
