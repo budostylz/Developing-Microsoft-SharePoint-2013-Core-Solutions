@@ -92,7 +92,6 @@ https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.splisttemplatetype
 https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spfieldtype.aspx
 
 ## Programmatically set value to the hyperlink field in SharePoint 2010
-
 http://www.c-sharpcorner.com/blogs/programmatically-set-value-to-the-hyperlink-field-in-sharepoint-2010
 
 ## How to copy a Lookup field to another lookup field on another list?
@@ -102,7 +101,7 @@ http://sharepoint.stackexchange.com/questions/42769/how-to-copy-a-lookup-field-t
  
 ## Copy Multi-Lookups from Source to Destination Lists(CSOM C#)
   SPFieldLookupValueCollection lookupValues = (SPFieldLookupValueCollection)sourceItem["SourceLookup"];
-  
+   
   string col = lookupValues.ToString();   
   destinationItem["DestinationLookup"] = col;
  
@@ -166,3 +165,7 @@ https://msdn.microsoft.com/en-us/library/office/bb862071(v=office.14).aspx
 ## DateRangesOverlap CAML Query Element 
 
 http://www.provokesolutions.com/our-story/our-blog/using-the-daterangesoverlap-caml-query-element
+
+## CamlQuery and Calendar Recurrence
+
+https://social.technet.microsoft.com/Forums/sharepoint/en-US/c6e48820-52ab-4ea1-a41d-e13599abf35d/camlquery-and-calendar-recurrence?forum=sharepointdevelopment
