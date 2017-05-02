@@ -22,8 +22,7 @@ https://msdn.microsoft.com/en-us/library/bb897402.aspx
 
 ## Claims provider in SharePoint 2013
 
-https://msdn.microsoft.com/en-us/library/office/ee535894.aspx 
-## How to: Create a claims provider in SharePoint 2013
+https://msdn.microsoft.com/en-us/library/office/ee535894.aspx ## How to: Create a claims provider in SharePoint 2013
 
  https://msdn.microsoft.com/en-us/library/office/ee537299.aspx
 
@@ -92,3 +91,7 @@ https://sites.google.com/site/icsharepoint2010/how-to/programmatically-impersona
 ## Users, groups, and roles REST API reference
 
 https://msdn.microsoft.com/en-us/library/office/dn531432.aspx
+
+## SP.PermissionKind Enumeration
+
+https://msdn.microsoft.com/en-us/library/office/ee556747(v=office.14).aspx
