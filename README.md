@@ -37,7 +37,6 @@ https://msdn.microsoft.com/en-us/library/ee231517.aspx
 https://wonderlaura.com/2014/02/12/sharepoint-2013-out-of-box-web-parts/
 
 ## How to: Locate and Organize Project and Item Templates
-
 https://msdn.microsoft.com/en-us/library/y3kkate1.aspx
 
 
@@ -48,7 +47,7 @@ https://absolute-sharepoint.com/2013/06/sharepoint-2013-site-template-id-list-fo
  
 ## Famous SharePoint URLs & Locations
 
-https://blogs.msdn.microsoft.com/how24/2013/05/23/famous-sharepoint-urls-locations/
+ https://blogs.msdn.microsoft.com/how24/2013/05/23/famous-sharepoint-urls-locations/
 
 
 ## SharePoint Development Walkthroughs
@@ -116,3 +115,7 @@ https://support.office.com/en-us/article/Add-RSS-Feeds-to-your-SharePoint-site-5
 ## Microsoft Graph
 
 https://developer.microsoft.com/en-us/graph
+
+## Complex types in the SP namespace
+
+https://msdn.microsoft.com/en-us/library/office/dn600183.aspx#bk_BasePermissions
