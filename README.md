@@ -41,7 +41,6 @@ https://msdn.microsoft.com/en-us/library/y3kkate1.aspx
 
 
 ## SharePoint 2013 Site Template ID List for PowerShell
-
 https://absolute-sharepoint.com/2013/06/sharepoint-2013-site-template-id-list-for-powershell.html
 
  
@@ -51,7 +50,7 @@ https://absolute-sharepoint.com/2013/06/sharepoint-2013-site-template-id-list-fo
 
 
 ## SharePoint Development Walkthroughs
-
+ 
 https://msdn.microsoft.com/en-us/library/ee290858.aspx
 
 ## Code samples for SharePoint 2013
@@ -119,3 +118,7 @@ https://developer.microsoft.com/en-us/graph
 ## Complex types in the SP namespace
 
 https://msdn.microsoft.com/en-us/library/office/dn600183.aspx#bk_BasePermissions
+
+## Learn More About SharePoint
+
+https://en.share-gate.com/blog/learn-about-sharepoint-different-topics
