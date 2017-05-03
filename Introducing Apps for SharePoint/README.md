@@ -88,7 +88,9 @@ https://msdn.microsoft.com/en-us/library/office/fp142383.aspx
 
 http://sharepointchick.com/archive/2012/07/29/setting-up-your-app-domain-for-sharepoint-2013.aspx
 
+## Configure an environment for apps for SharePoint (SharePoint 2013)
 
+https://technet.microsoft.com/en-us/library/fp161236(v=office.15)
 
 
 
