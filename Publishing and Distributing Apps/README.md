@@ -1,4 +1,4 @@
-##Basic Steps for App Setup
+## Basic Steps for App Setup
 
 1. Create Application Pool
 2. Create Application
@@ -12,19 +12,19 @@
 4. Upgrade App
 5. Remove App (Remove from App Catalog / Remove App Instance)
 
-##Office Store
+## Office Store
 
 https://store.office.com/en-us/appshome.aspx?ui=en-US&rs=en-US&ad=US
 
-##App element (SharePoint Add-in Manifest)
+## App element (SharePoint Add-in Manifest)
 
 https://msdn.microsoft.com/en-us/library/office/jj583365.aspx
 
-##Configure an environment for apps for SharePoint (SharePoint 2013)
+## Configure an environment for apps for SharePoint (SharePoint 2013)
 
 https://technet.microsoft.com/en-us/library/fp161236.aspx
 
-##Manage the App Catalog in SharePoint 2013
+## Manage the App Catalog in SharePoint 2013
 
 https://technet.microsoft.com/en-us/library/fp161234.aspx
 
