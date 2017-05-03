@@ -29,7 +29,6 @@ https://msdn.microsoft.com/en-us/library/office/jj245162.aspx
 https://msdn.microsoft.com/en-us/library/office/dn735924.aspx
 
 ## License your Office and SharePoint Add-ins
-
 https://msdn.microsoft.com/en-us/library/office/jj163257.aspx
 
 ## Deploy and install a SharePoint-hosted SharePoint Add-in
@@ -39,7 +38,7 @@ https://msdn.microsoft.com/en-us/library/office/mt148586.aspx
 ## URL strings and tokens in SharePoint Add-ins
 
 https://msdn.microsoft.com/en-us/library/office/jj163816.aspx
-
+ 
 ## App element (SharePoint Add-in Manifest)
 
 https://msdn.microsoft.com/en-us/library/office/jj583365.aspx
@@ -85,7 +84,9 @@ https://technet.microsoft.com/en-us/library/jj219643.aspx
 
 https://msdn.microsoft.com/en-us/library/office/fp142383.aspx
 
+## Setting up your App domain for SharePoint 2013
 
+http://sharepointchick.com/archive/2012/07/29/setting-up-your-app-domain-for-sharepoint-2013.aspx
 
 
 
