@@ -98,3 +98,7 @@ script type="text/javascript" src="../_layouts/15/sp.runtime.js"
 script type="text/javascript" src="../_layouts/15/sp.core.js"
 
 script type="text/javascript" src="../_layouts/15/sp.js"
+
+## SPServices
+
+http://sympmarc.github.io/SPServices/
