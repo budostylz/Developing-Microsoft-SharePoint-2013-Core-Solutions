@@ -37,7 +37,6 @@ http://www.ceus-now.com/csom-get-all-terms-recursively-in-a-single-executequery/
 ## Users, groups, and roles REST API reference
 
 https://msdn.microsoft.com/en-us/library/office/dn531432.aspx
-
 ## Get all SharePoint Document Library Files and Folders at a ServerRelativeUrl in One REST Call
 
 
@@ -48,7 +47,7 @@ http://sympmarc.com/2016/04/23/get-all-sharepoint-document-library-files-and-fol
 https://www.itunity.com/article/moving-spservices-rest-part-5-promises-soap-rest-2772
 
 ## Make batch requests with the REST APIs
-
+ 
 https://msdn.microsoft.com/en-us/library/office/dn903506.aspx 
 
 ## CamlJs: SharePoint JavaScript Caml Builder
@@ -103,6 +102,6 @@ script type="text/javascript" src="../_layouts/15/sp.js"
 
 http://sympmarc.github.io/SPServices/
 
-## Sharepoint 2013 JSLINK template with view grouping rendering
+## SharePoint 2013: How to change the group rendering in JSLink
 
-https://sharepoint.stackexchange.com/questions/78145/sharepoint-2013-jslink-template-with-view-grouping-rendering
+https://prasadpathak.wordpress.com/2013/11/01/sharepoint-2013-how-to-change-the-group-rendering-in-jslink/
