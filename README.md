@@ -125,3 +125,7 @@ https://en.share-gate.com/blog/learn-about-sharepoint-different-topics
 ## How to set up a product-centric website in SharePoint Server 2013
 
 https://blogs.technet.microsoft.com/tothesharepoint/2013/02/13/how-to-set-up-a-product-centric-website-in-sharepoint-server-2013/
+
+## Import list content to Products list for SharePoint 2013 Preview
+
+https://gallery.technet.microsoft.com/Import-list-content-to-f735d7fb
