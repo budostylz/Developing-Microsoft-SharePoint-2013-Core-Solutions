@@ -102,3 +102,7 @@ script type="text/javascript" src="../_layouts/15/sp.js"
 ## SPServices
 
 http://sympmarc.github.io/SPServices/
+
+## Sharepoint 2013 JSLINK template with view grouping rendering
+
+https://sharepoint.stackexchange.com/questions/78145/sharepoint-2013-jslink-template-with-view-grouping-rendering
