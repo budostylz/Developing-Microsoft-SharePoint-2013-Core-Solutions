@@ -61,7 +61,6 @@ https://msdn.microsoft.com/en-us/library/ee290858.aspx
 ## Reference list for SharePoint internal field names
 
 https://blogs.msdn.microsoft.com/michael_yeager/2008/11/03/reference-list-for-sharepoint-internal-field-names/
-
 ## SP 2010: Find error messages with a Correlation ID token in SharePoint 2010
 
 https://zimmergren.net/sp-2010-find-error-messages-with-a-correlation-id-token-in-sharepoint-2010/
@@ -71,7 +70,7 @@ https://zimmergren.net/sp-2010-find-error-messages-with-a-correlation-id-token-i
 ### If you don’t see the link to Save as a template us https://url.....”/_layouts/15/savetmpl.aspx”
 
 ## Open and use the Web Part Maintenance Page
-
+ 
 https://support.office.com/en-us/article/Open-and-use-the-Web-Part-Maintenance-Page-eff9ce22-d04a-44dd-ae83-ac29a5e396c2
 
 
@@ -122,3 +121,7 @@ https://msdn.microsoft.com/en-us/library/office/dn600183.aspx#bk_BasePermissions
 ## Learn More About SharePoint
 
 https://en.share-gate.com/blog/learn-about-sharepoint-different-topics
+
+## How to set up a product-centric website in SharePoint Server 2013
+
+https://blogs.technet.microsoft.com/tothesharepoint/2013/02/13/how-to-set-up-a-product-centric-website-in-sharepoint-server-2013/
