@@ -105,3 +105,7 @@ http://sympmarc.github.io/SPServices/
 ## SharePoint 2013: How to change the group rendering in JSLink
 
 https://prasadpathak.wordpress.com/2013/11/01/sharepoint-2013-how-to-change-the-group-rendering-in-jslink/
+ 
+## SharePoint 2013 - A Better Pattern for Client Side Rendering Scripts
+
+https://www.definitivelogic.com/blog/sharepoint-2013-better-pattern-client-side-rendering-scripts
