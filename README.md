@@ -129,3 +129,7 @@ https://blogs.technet.microsoft.com/tothesharepoint/2013/02/13/how-to-set-up-a-p
 ## Import list content to Products list for SharePoint 2013 Preview
 
 https://gallery.technet.microsoft.com/Import-list-content-to-f735d7fb
+ 
+## Error (“Windows Cannot Access ..”) Mapping Master Page Gallery as Network drive(Apply's to Windows Server)
+
+http://www.learningsharepoint.com/2013/03/01/error-windows-cannot-access-mapping-master-page-gallery-as-network-drive/
