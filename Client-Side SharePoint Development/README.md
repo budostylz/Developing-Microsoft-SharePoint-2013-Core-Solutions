@@ -41,7 +41,6 @@ https://msdn.microsoft.com/en-us/library/office/dn531432.aspx
 
 
 http://sympmarc.com/2016/04/23/get-all-sharepoint-document-library-files-and-folders-at-a-serverrelativeurl-in-one-rest-call/
-
 ## Moving from SPServices to REST, Part 5: Using Promises with SOAP and REST
 
 https://www.itunity.com/article/moving-spservices-rest-part-5-promises-soap-rest-2772
@@ -52,7 +51,7 @@ https://msdn.microsoft.com/en-us/library/office/dn903506.aspx
 
 ## CamlJs: SharePoint JavaScript Caml Builder
 
-https://camljs.codeplex.com/
+ https://camljs.codeplex.com/
 
 ## SP.FileSystemObjectType enumeration
 
@@ -109,3 +108,15 @@ https://prasadpathak.wordpress.com/2013/11/01/sharepoint-2013-how-to-change-the-
 ## SharePoint 2013 - A Better Pattern for Client Side Rendering Scripts
 
 https://www.definitivelogic.com/blog/sharepoint-2013-better-pattern-client-side-rendering-scripts
+
+## Client Side Rendering Best Practices
+
+https://thechriskent.com/tag/listviewwebpart/
+
+## SharePoint 2013 Client Side Rendering: List Views
+
+https://www.codeproject.com/Articles/620110/SharePoint-Client-Side-Rendering-List-Views
+
+## Client Side Rendering in SharePoint 2013 
+
+https://threewill.com/client-side-rendering-sharepoint-2013/
