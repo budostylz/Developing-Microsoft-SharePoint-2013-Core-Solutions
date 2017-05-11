@@ -60,7 +60,6 @@ https://msdn.microsoft.com/en-us/library/office/jj247237.aspx
 ## Client-side rendering (JS Link) code samples
 
 https://code.msdn.microsoft.com/office/Client-side-rendering-JS-2ed3538a
-
 ## DefinitelyTyped
 
 http://definitelytyped.org/docs/sharepoint--SharePoint/index.html
@@ -70,7 +69,7 @@ http://definitelytyped.org/docs/sharepoint--SharePoint/index.html
 http://sharepoint.stackexchange.com/questions/124846/rest-with-filter-for-list-items-in-sharepoint-2013
 
 ## Using the $expand OData Query Option in SharePoint 2013 
-
+ 
 https://threewill.com/using-the-expand-odata-query-option-in-sharepoint-2013/
 
 ## How to do security trimming in sharepoint 2013 rest api?
@@ -120,3 +119,7 @@ https://www.codeproject.com/Articles/620110/SharePoint-Client-Side-Rendering-Lis
 ## Client Side Rendering in SharePoint 2013 
 
 https://threewill.com/client-side-rendering-sharepoint-2013/
+
+## SP.SOD how to use correctly?
+
+https://sharepoint.stackexchange.com/questions/58503/sp-sod-how-to-use-correctly
