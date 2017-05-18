@@ -42,7 +42,6 @@ https://msdn.microsoft.com/en-us/library/office/dn531432.aspx
 
 http://sympmarc.com/2016/04/23/get-all-sharepoint-document-library-files-and-folders-at-a-serverrelativeurl-in-one-rest-call/
 ## Moving from SPServices to REST, Part 5: Using Promises with SOAP and REST
-
 https://www.itunity.com/article/moving-spservices-rest-part-5-promises-soap-rest-2772
 
 ## Make batch requests with the REST APIs
@@ -52,7 +51,7 @@ https://msdn.microsoft.com/en-us/library/office/dn903506.aspx
 ## CamlJs: SharePoint JavaScript Caml Builder
 
  https://camljs.codeplex.com/
-
+ 
 ## SP.FileSystemObjectType enumeration
 
 https://msdn.microsoft.com/en-us/library/office/jj247237.aspx
@@ -123,3 +122,8 @@ https://threewill.com/client-side-rendering-sharepoint-2013/
 ## SP.SOD how to use correctly?
 
 https://sharepoint.stackexchange.com/questions/58503/sp-sod-how-to-use-correctly
+
+## Overview of the SharePoint Framework
+
+https://dev.office.com/sharepoint/docs/spfx/sharepoint-framework-overview
+
