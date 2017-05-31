@@ -64,7 +64,6 @@ https://blogs.msdn.microsoft.com/michael_yeager/2008/11/03/reference-list-for-sh
 ## SP 2010: Find error messages with a Correlation ID token in SharePoint 2010
 
 https://zimmergren.net/sp-2010-find-error-messages-with-a-correlation-id-token-in-sharepoint-2010/
-
 ### If you don’t see the link for master page use the following URL. /_layouts/15/ChangeSiteMasterPage.aspx
 
 ### If you don’t see the link to Save as a template us https://url.....”/_layouts/15/savetmpl.aspx”
@@ -74,7 +73,7 @@ https://zimmergren.net/sp-2010-find-error-messages-with-a-correlation-id-token-i
 https://support.office.com/en-us/article/Open-and-use-the-Web-Part-Maintenance-Page-eff9ce22-d04a-44dd-ae83-ac29a5e396c2
 
 
-## Code Better and Avoid Security & Stability risks
+ ## Code Better and Avoid Security & Stability risks
 
 https://www.spcaf.com/components/spcop/
 
@@ -133,3 +132,9 @@ https://gallery.technet.microsoft.com/Import-list-content-to-f735d7fb
 ## Error (“Windows Cannot Access ..”) Mapping Master Page Gallery as Network drive(Apply's to Windows Server)
 
 http://www.learningsharepoint.com/2013/03/01/error-windows-cannot-access-mapping-master-page-gallery-as-network-drive/
+
+## Export any web part from a SharePoint page
+
+https://chuvash.eu/2014/09/19/export-any-web-part-from-a-sharepoint-page/
+
+https://domain.com/sites/toplevelsite/subsite/_vti_bin/exportwp.aspx?pageurl=https://domain.com/sites/toplevelsite/subsite/List/Forms/List/docsethomepage.aspx&guidstring=f5600d01-13d7-4869-b71d-c82071eadbf6
