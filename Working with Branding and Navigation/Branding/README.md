@@ -59,7 +59,6 @@ https://msdn.microsoft.com/en-us/library/office/ms438085.aspx
 
 
 -----------------------Create Custom Master Page------------------------------------------------------------------
-
 1. Create HTML File
 
 2. Upload HTML file to Master Page Gallery
@@ -69,7 +68,7 @@ https://msdn.microsoft.com/en-us/library/office/ms438085.aspx
 4. Click Edit Master Page
 
 5. Click Convert HTML file to MasterPage
-
+ 
 6. Choose created HTML files
 
 
@@ -125,3 +124,7 @@ https://jorikpolhuis.wordpress.com/2015/03/25/sticky-footer-solution-for-sharepo
 ## Feature Stapling
 
 https://msdn.microsoft.com/en-us/library/office/bb861862(v=office.12).aspx
+
+## Creating List definitions with content types
+
+https://blogs.msdn.microsoft.com/mcsnoiwb/2008/12/01/creating-list-definitions-with-content-types/
