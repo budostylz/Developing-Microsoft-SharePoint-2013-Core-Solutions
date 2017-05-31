@@ -71,7 +71,6 @@ http://sharepoint.stackexchange.com/questions/124846/rest-with-filter-for-list-i
 https://threewill.com/using-the-expand-odata-query-option-in-sharepoint-2013/
 
 ## How to do security trimming in sharepoint 2013 rest api?
-
 http://sharepoint.stackexchange.com/questions/161514/how-to-do-security-trimming-in-sharepoint-2013-rest-api
  
 ## REST API Security Trimming SharePoint 2013
@@ -82,7 +81,7 @@ https://chrisstahl.wordpress.com/2014/06/30/getting-started-with-rest-in-sharepo
 
 https://kushanlahiru.wordpress.com/2016/05/16/how-what-why-x-requestdigest-formdigestvalue-header-value-in-sharepoint/
 
-## Required JavaScript Libraries
+ ## Required JavaScript Libraries
 
 script type="text/javascript" src="../_layouts/15/MicrosoftAjax.js"
 
@@ -134,7 +133,7 @@ overrideCtx.Templates.Group = CustomGroup;
 
 function CustomGroup(ctx, group, groupId, listItem, listSchema, level, expand) {
  
- var html = < div style="font-weight:bold">' + listItem[group] + ' :: </div >;
+ var html = < div style="font-weight:bold">' + listItem[group] + ' :: < /div >;
  
 return html;
  
