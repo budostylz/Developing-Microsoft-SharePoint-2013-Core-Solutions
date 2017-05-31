@@ -39,7 +39,6 @@ http://www.ceus-now.com/csom-get-all-terms-recursively-in-a-single-executequery/
 https://msdn.microsoft.com/en-us/library/office/dn531432.aspx
 ## Get all SharePoint Document Library Files and Folders at a ServerRelativeUrl in One REST Call
 
-
 http://sympmarc.com/2016/04/23/get-all-sharepoint-document-library-files-and-folders-at-a-serverrelativeurl-in-one-rest-call/
 ## Moving from SPServices to REST, Part 5: Using Promises with SOAP and REST
 https://www.itunity.com/article/moving-spservices-rest-part-5-promises-soap-rest-2772
@@ -49,7 +48,7 @@ https://www.itunity.com/article/moving-spservices-rest-part-5-promises-soap-rest
 https://msdn.microsoft.com/en-us/library/office/dn903506.aspx 
 
 ## CamlJs: SharePoint JavaScript Caml Builder
-
+ 
  https://camljs.codeplex.com/
  
 ## SP.FileSystemObjectType enumeration
@@ -127,3 +126,16 @@ https://sharepoint.stackexchange.com/questions/58503/sp-sod-how-to-use-correctly
 
 https://dev.office.com/sharepoint/docs/spfx/sharepoint-framework-overview
 
+## SharePoint 2013: How to change the group rendering in JSLink
+
+https://prasadpathak.wordpress.com/2013/11/01/sharepoint-2013-how-to-change-the-group-rendering-in-jslink/
+
+overrideCtx.Templates.Group = CustomGroup;
+
+function CustomGroup(ctx, group, groupId, listItem, listSchema, level, expand) {
+ 
+ var html = '<div style="font-weight:bold">' + listItem[group] + ' :: </div>';
+ 
+return html;
+ 
+}
