@@ -134,7 +134,7 @@ overrideCtx.Templates.Group = CustomGroup;
 
 function CustomGroup(ctx, group, groupId, listItem, listSchema, level, expand) {
  
- var html = '<div style="font-weight:bold">' + listItem[group] + ' :: </div>';
+ var html = < div style="font-weight:bold">' + listItem[group] + ' :: </div >;
  
 return html;
  
