@@ -30,5 +30,8 @@ https://github.com/SharePoint/PnP-Sites-Core/blob/master/Core/OfficeDevPnP.Core/
 
 https://sharepoint.stackexchange.com/questions/27936/powershell-script-to-add-a-managed-metadata-column
 
+## Content Type IDs
+
+https://msdn.microsoft.com/en-us/library/office/aa543822.aspx
 
 
