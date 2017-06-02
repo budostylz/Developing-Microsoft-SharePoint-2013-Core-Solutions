@@ -1,3 +1,7 @@
+## SharePoint Site Definition Provisioning Order
+
+https://blogs.msdn.microsoft.com/chrischiaro/2011/01/18/sharepoint-site-definition-provisioning-order/
+
 ## Themes overview for SharePoint 2013
 
 https://msdn.microsoft.com/en-us/library/office/jj927174.aspx
