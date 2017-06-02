@@ -54,7 +54,6 @@ https://absolute-sharepoint.com/2013/06/sharepoint-2013-site-template-id-list-fo
 https://msdn.microsoft.com/en-us/library/ee290858.aspx
 
 ## Code samples for SharePoint 2013
-
  https://msdn.microsoft.com/en-us/library/office/jj901637.aspx
 
 
@@ -64,7 +63,7 @@ https://blogs.msdn.microsoft.com/michael_yeager/2008/11/03/reference-list-for-sh
 ## SP 2010: Find error messages with a Correlation ID token in SharePoint 2010
 
 https://zimmergren.net/sp-2010-find-error-messages-with-a-correlation-id-token-in-sharepoint-2010/
-### If you don’t see the link for master page use the following URL. /_layouts/15/ChangeSiteMasterPage.aspx
+ ### If you don’t see the link for master page use the following URL. /_layouts/15/ChangeSiteMasterPage.aspx
 
 ### If you don’t see the link to Save as a template us https://url.....”/_layouts/15/savetmpl.aspx”
 ## Open and use the Web Part Maintenance Page
@@ -141,3 +140,13 @@ https://domain.com/sites/toplevelsite/subsite/_vti_bin/exportwp.aspx?pageurl=htt
 ## Mirjam's thoughts on SharePoint
 
 http://www.sharepointchick.com/
+
+## Restore Site Collection
+
+#Add SharePoint PowerShell SnapIn if not already added
+        if ((Get-PSSnapin "Microsoft.SharePoint.PowerShell" -ErrorAction SilentlyContinue) -eq $null) {
+            Add-PSSnapin "Microsoft.SharePoint.PowerShell"
+ }
+
+ Get-SPDeletedSite
+ Restore-SPDeletedSite -Identity df8a5a0f-ab4c-4574-a7d4-ce6797047448
