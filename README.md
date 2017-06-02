@@ -141,7 +141,7 @@ https://domain.com/sites/toplevelsite/subsite/_vti_bin/exportwp.aspx?pageurl=htt
 
 http://www.sharepointchick.com/
 
-## Restore Site Collection
+## Restore Site Collection in PowerShell
 
 #Add SharePoint PowerShell SnapIn if not already added
         if ((Get-PSSnapin "Microsoft.SharePoint.PowerShell" -ErrorAction SilentlyContinue) -eq $null) {
