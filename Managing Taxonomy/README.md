@@ -34,4 +34,6 @@ https://sharepoint.stackexchange.com/questions/27936/powershell-script-to-add-a-
 
 https://msdn.microsoft.com/en-us/library/office/aa543822.aspx
 
+## Site and List Content Types
 
+https://msdn.microsoft.com/en-us/library/ms463016.aspx
