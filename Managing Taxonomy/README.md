@@ -41,3 +41,7 @@ https://msdn.microsoft.com/en-us/library/ms463016.aspx
 ## SPContentTypeCollection.BestMatch method 
 
 https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spcontenttypecollection.bestmatch.aspx
+
+## Order List Content Types or Solve your "Specified argument was out of the range of valid values.Parameter name: id / value"
+
+https://blogs.msdn.microsoft.com/carloshm/2010/11/13/order-list-content-types-or-solve-your-specified-argument-was-out-of-the-range-of-valid-values-parameter-name-id-value/
