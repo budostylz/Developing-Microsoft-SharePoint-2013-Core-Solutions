@@ -102,3 +102,7 @@ https://msdn.microsoft.com/en-us/library/ee848293.aspx
 ## Localizing SharePoint Solutions
 
 https://msdn.microsoft.com/en-us/library/ee696750.aspx
+
+## How to: Include Files by Using a Module
+
+https://msdn.microsoft.com/en-us/library/ee231524.aspx
