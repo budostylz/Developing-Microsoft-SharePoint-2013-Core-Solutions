@@ -2,6 +2,10 @@
 
 https://dev.office.com/sharepoint/docs/general-development/minimal-download-strategy-overview
 
+## JSLink Client-Side Rendering Not Functioning on Custom List
+
+https://sharepoint.stackexchange.com/questions/140062/jslink-client-side-rendering-not-functioning-on-custom-list
+
 ## OData - the best way to REST
 
 http://www.odata.org
