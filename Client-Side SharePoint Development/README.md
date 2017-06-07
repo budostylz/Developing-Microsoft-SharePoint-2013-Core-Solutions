@@ -1,3 +1,7 @@
+## Minimal Download Strategy overview
+
+https://dev.office.com/sharepoint/docs/general-development/minimal-download-strategy-overview
+
 ## OData - the best way to REST
 
 http://www.odata.org
