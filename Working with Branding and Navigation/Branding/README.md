@@ -57,8 +57,7 @@ https://msdn.microsoft.com/en-us/library/office/ms438085.aspx
  
 
 3. Create a Compose Look based on Theme and Color Palette
- 
-4. Reference a Master Page to use
+ 4. Reference a Master Page to use
 
 
 
@@ -68,7 +67,7 @@ https://msdn.microsoft.com/en-us/library/office/ms438085.aspx
 2. Upload HTML file to Master Page Gallery
 
 3. Open Design Manager
-
+ 
 4. Click Edit Master Page
 
 5. Click Convert HTML file to MasterPage
@@ -132,3 +131,11 @@ https://msdn.microsoft.com/en-us/library/office/bb861862(v=office.12).aspx
 ## Creating List definitions with content types
 
 https://blogs.msdn.microsoft.com/mcsnoiwb/2008/12/01/creating-list-definitions-with-content-types/
+
+## Provisioning page with configured web part from Visual Studio
+
+https://blogs.msdn.microsoft.com/voyage/2015/02/23/provisioning-page-with-configured-web-part-from-visual-studio/
+
+## How To: automatically provision SharePoint out-of-the-box web parts onto pages
+
+http://www.sharemuch.com/2012/10/12/how-to-automatically-provision-sharepoint-out-of-the-box-web-parts-onto-pages/
