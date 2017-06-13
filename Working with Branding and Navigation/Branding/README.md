@@ -60,7 +60,6 @@ https://msdn.microsoft.com/en-us/library/office/ms438085.aspx
  4. Reference a Master Page to use
 
 
-
 -----------------------Create Custom Master Page------------------------------------------------------------------
 1. Create HTML File
 
@@ -71,7 +70,7 @@ https://msdn.microsoft.com/en-us/library/office/ms438085.aspx
 4. Click Edit Master Page
 
 5. Click Convert HTML file to MasterPage
- 
+  
 6. Choose created HTML files
 
 
@@ -139,3 +138,7 @@ https://blogs.msdn.microsoft.com/voyage/2015/02/23/provisioning-page-with-config
 ## How To: automatically provision SharePoint out-of-the-box web parts onto pages
 
 http://www.sharemuch.com/2012/10/12/how-to-automatically-provision-sharepoint-out-of-the-box-web-parts-onto-pages/
+
+## SPWebCollection members
+
+https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spwebcollection_members.aspx
