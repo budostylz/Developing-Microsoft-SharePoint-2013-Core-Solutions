@@ -51,7 +51,6 @@ https://msdn.microsoft.com/en-us/library/ee361616.aspx
 
 ## Deploy by using DBA-created databases (SharePoint Server 2010)
 https://technet.microsoft.com/en-us/library/cc262869(v=office.14).aspx
-
 ## Error: Unable to Start Debugging on the Web Server
 
 https://msdn.microsoft.com/en-us/library/dwesw3ee(v=vs.140).aspx
@@ -61,7 +60,7 @@ https://msdn.microsoft.com/en-us/library/dwesw3ee(v=vs.140).aspx
 https://blogs.msdn.microsoft.com/voyage/2014/09/02/enable-debugging-and-set-custom-errors-off-in-sharepoint/
 
 ## SharePoint 2010 : List of Features "ID, DisplayName and Scopes"
-
+ 
 https://social.technet.microsoft.com/wiki/contents/articles/7695.sharepoint-2010-list-of-features-id-displayname-and-scopes.aspx
 
 ## Listing All SharePoint Server 2013 Features – Including Name, Title, Scope, ID and Description
@@ -108,3 +107,7 @@ https://msdn.microsoft.com/en-us/library/ee231524.aspx
 ## Event Handlers – Part 3: Register Event Handlers plus free Site Settings – Manage Event Handlers Add-on solution
 
 https://blogs.msdn.microsoft.com/brianwilson/2007/03/18/event-handlers-part-3-register-event-handlers-plus-free-site-settings-manage-event-handlers-add-on-solution/
+
+## Managing ItemUpdating and ItemUpdated Events Firing Twice in a SharePoint Item Event Receiver
+
+https://www.simple-talk.com/dotnet/net-tools/managing-itemupdating-and-itemupdated-events-firing-twice-in-a-sharepoint-item-event-receiver/
