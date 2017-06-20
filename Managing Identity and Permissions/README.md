@@ -35,7 +35,6 @@ https://technet.microsoft.com/en-us/magazine/2006.01.howitworksntfs.aspx
 https://msdn.microsoft.com/en-us/library/bb742516.aspx
 
 ## SAML Tokens and Claims
-
 https://msdn.microsoft.com/en-us/library/ms733083(v=vs.110).aspx
 
 ## MembershipProvider Class
@@ -46,7 +45,7 @@ https://msdn.microsoft.com/en-us/library/system.web.security.membershipprovider(
 
 https://msdn.microsoft.com/en-us/library/system.web.security.roleprovider(v=vs.110).aspx
 
-## ASP.NET Settings Schema
+ ## ASP.NET Settings Schema
 
 https://msdn.microsoft.com/en-us/library/b5ysx397(v=vs.71).aspx
 
@@ -95,3 +94,7 @@ https://msdn.microsoft.com/en-us/library/office/dn531432.aspx
 ## SP.PermissionKind Enumeration
 
 https://msdn.microsoft.com/en-us/library/office/ee556747(v=office.14).aspx
+
+## Not able to update the taxonomy term from the elevated code block even though the app pool account is a term store administrator ? 
+
+https://social.technet.microsoft.com/Forums/sharepoint/en-US/c945098f-9d82-419d-9962-152019f2de32/not-able-to-update-the-taxonomy-term-from-the-elevated-code-block-even-though-the-app-pool-account?forum=sharepointgeneralprevious
