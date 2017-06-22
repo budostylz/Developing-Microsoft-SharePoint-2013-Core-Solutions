@@ -13,7 +13,6 @@ https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.speventreceiverbas
 ## SPJobDefinition class
 
 https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.administration.spjobdefinition(v=office.15).aspx
-
 ## SPWorkItemJobDefinition members
 
 https://msdn.microsoft.com/en-us/library/office/microsoft.sharepoint.administration.spworkitemjobdefinition.aspx
@@ -23,7 +22,7 @@ https://msdn.microsoft.com/en-us/library/office/microsoft.sharepoint.administrat
 https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.utilities.sppropertybag.aspx
 
 ## SPWebConfigModification class
-
+ 
 https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.administration.spwebconfigmodification.aspx
 
 ## SPPersistedObject class
@@ -74,3 +73,8 @@ https://msdn.microsoft.com/en-us/library/office/gg749858(v=office.14).aspx
 ## How to: Create an Event Receiver for a Specific List Instance
 
 https://msdn.microsoft.com/en-us/library/ff398052.aspx
+
+## Update a SharePoint List Item in an ItemUpdated Event, Without an Endless Loop 
+
+https://www.captechconsulting.com/blogs/update-a-sharepoint-list-item-in-an-itemupdated-event-without-an-endless-loop
+
