@@ -104,10 +104,4 @@ https://msdn.microsoft.com/en-us/library/ee696750.aspx
 
 https://msdn.microsoft.com/en-us/library/ee231524.aspx
 
-## Event Handlers – Part 3: Register Event Handlers plus free Site Settings – Manage Event Handlers Add-on solution
 
-https://blogs.msdn.microsoft.com/brianwilson/2007/03/18/event-handlers-part-3-register-event-handlers-plus-free-site-settings-manage-event-handlers-add-on-solution/
-
-## Managing ItemUpdating and ItemUpdated Events Firing Twice in a SharePoint Item Event Receiver
-
-https://www.simple-talk.com/dotnet/net-tools/managing-itemupdating-and-itemupdated-events-firing-twice-in-a-sharepoint-item-event-receiver/
