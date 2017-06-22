@@ -14,7 +14,6 @@ https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.speventreceiverbas
 
 https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.administration.spjobdefinition(v=office.15).aspx
 ## SPWorkItemJobDefinition members
-
 https://msdn.microsoft.com/en-us/library/office/microsoft.sharepoint.administration.spworkitemjobdefinition.aspx
 
 ## SPPropertyBag class
@@ -25,7 +24,7 @@ https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.utilities.spproper
  
 https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.administration.spwebconfigmodification.aspx
 
-## SPPersistedObject class
+ ## SPPersistedObject class
 
 https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.administration.sppersistedobject.aspx
 
@@ -78,3 +77,6 @@ https://msdn.microsoft.com/en-us/library/ff398052.aspx
 
 https://www.captechconsulting.com/blogs/update-a-sharepoint-list-item-in-an-itemupdated-event-without-an-endless-loop
 
+## BeforeProperties and AfterProperties in Sharepoint Event Receivers 
+
+http://srisharepointdevelopment.blogspot.com/2013/06/beforeproperties-and-afterproperties-in.html?m=1
