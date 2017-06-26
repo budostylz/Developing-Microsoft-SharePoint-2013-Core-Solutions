@@ -80,3 +80,7 @@ https://www.captechconsulting.com/blogs/update-a-sharepoint-list-item-in-an-item
 ## BeforeProperties and AfterProperties in Sharepoint Event Receivers 
 
 http://srisharepointdevelopment.blogspot.com/2013/06/beforeproperties-and-afterproperties-in.html?m=1
+
+## Programmatically insert a List as a webpart in a webpart page in WSS 3.0
+
+https://stackoverflow.com/questions/1588019/programmatically-insert-a-list-as-a-webpart-in-a-webpart-page-in-wss-3-0
