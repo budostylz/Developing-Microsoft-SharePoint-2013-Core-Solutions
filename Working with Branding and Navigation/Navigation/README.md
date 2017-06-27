@@ -51,3 +51,6 @@ https://karinebosch.wordpress.com/2013/12/13/programmatically-provisioning-a-ter
 
 https://msdn.microsoft.com/en-us/library/aa478951.aspx
 
+## How to: Share the Top Link Bar Between Sites
+
+https://msdn.microsoft.com/en-us/library/office/ms196088(v=office.14).aspx
