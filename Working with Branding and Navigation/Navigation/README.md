@@ -54,3 +54,11 @@ https://msdn.microsoft.com/en-us/library/aa478951.aspx
 ## How to: Share the Top Link Bar Between Sites
 
 https://msdn.microsoft.com/en-us/library/office/ms196088(v=office.14).aspx
+
+## Edit SharePoint Quick Launch Programmatically
+
+https://ehikioya.com/edit-sharepoint-quick-launch/
+
+## Add SPNavigation Heading without link functionality to QuickLaunch 
+
+https://kvdlinden.blogspot.com/2011/02/add-spnavigation-heading-to-quicklaunch.html
