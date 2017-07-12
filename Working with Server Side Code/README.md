@@ -84,3 +84,15 @@ http://srisharepointdevelopment.blogspot.com/2013/06/beforeproperties-and-afterp
 ## Programmatically insert a List as a webpart in a webpart page in WSS 3.0
 
 https://stackoverflow.com/questions/1588019/programmatically-insert-a-list-as-a-webpart-in-a-webpart-page-in-wss-3-0
+
+## Helper Method to Extract Taxonomy Field Column Value From SPListItem
+
+http://www.c-sharpcorner.com/UploadFile/22da8c/helper-method-to-extract-taxonomy-field-column-value-from-sp/
+
+## WebPartManager.DeleteWebPart Method (WebPart)
+
+https://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webparts.webpartmanager.deletewebpart(v=vs.110).aspx
+
+## WebPartManager.CloseWebPart Method (WebPart)
+
+https://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webparts.webpartmanager.closewebpart(v=vs.110).aspx
