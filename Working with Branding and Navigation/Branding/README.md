@@ -64,7 +64,6 @@ https://msdn.microsoft.com/en-us/library/office/ms438085.aspx
 1. Create HTML File
 
 2. Upload HTML file to Master Page Gallery
-
 3. Open Design Manager
  
 4. Click Edit Master Page
@@ -72,6 +71,7 @@ https://msdn.microsoft.com/en-us/library/office/ms438085.aspx
 5. Click Convert HTML file to MasterPage
   
 6. Choose created HTML files
+
 
 
 
@@ -142,3 +142,7 @@ http://www.sharemuch.com/2012/10/12/how-to-automatically-provision-sharepoint-ou
 ## SPWebCollection members
 
 https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spwebcollection_members.aspx
+
+## Which special Characters are not Allowed in SharePoint 2013 Files\Folders?
+
+https://sharepoint.stackexchange.com/questions/105992/which-special-characters-are-not-allowed-in-sharepoint-2013-files-folders
