@@ -1,4 +1,4 @@
- 
+
 
 ## An Introduction to Claims
 
@@ -22,9 +22,11 @@ https://msdn.microsoft.com/en-us/library/bb897402.aspx
 
 ## Claims provider in SharePoint 2013
 
-https://msdn.microsoft.com/en-us/library/office/ee535894.aspx ## How to: Create a claims provider in SharePoint 2013
+https://msdn.microsoft.com/en-us/library/office/ee535894.aspx 
 
- https://msdn.microsoft.com/en-us/library/office/ee537299.aspx
+## How to: Create a claims provider in SharePoint 2013
+
+https://msdn.microsoft.com/en-us/library/office/ee537299.aspx
 
 ## NTFS Permissions, Part 2
 
