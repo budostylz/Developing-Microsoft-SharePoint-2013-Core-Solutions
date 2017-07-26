@@ -93,7 +93,7 @@ https://msdn.microsoft.com/en-us/library/gg599006(v=vs.100).aspx
 
 ## How to send output of Powershell script to CSV
  
-http://stackoverflow.com/questions/25299214/how-to-send-output-of-powershell-script-to-csv
+ http://stackoverflow.com/questions/25299214/how-to-send-output-of-powershell-script-to-csv
 
 ## Installing NuGet
 
@@ -104,7 +104,6 @@ https://docs.microsoft.com/en-us/nuget/guides/install-nuget
 https://social.msdn.microsoft.com/Forums/sharepoint/en-US/9b9c0f9c-db6a-4691-8c73-aec3a4a34b21/difference-between-itemadding-and-itemadded-in-sharepoint?forum=sharepointdevelopmentlegacy
 
 ## Add RSS Feeds to your SharePoint site
-
 https://support.office.com/en-us/article/Add-RSS-Feeds-to-your-SharePoint-site-51847e78-5c74-4877-9fb9-940000885a5f
  
 ## Microsoft Graph
@@ -153,3 +152,7 @@ http://www.sharepointchick.com/
 
 ## SharePoint: A Complete Guide to Getting and Setting Fields using C_#
 https://social.technet.microsoft.com/wiki/contents/articles/21801.sharepoint-a-complete-guide-to-getting-and-setting-fields-using-c.aspx
+
+## Get / Set Lookup Field Values in SharePoint List using PowerShell 
+
+http://www.sharepointdiary.com/2013/12/get-set-lookup-field-values-in-sharepoint-using-powershell.html
