@@ -92,7 +92,7 @@ https://msdn.microsoft.com/en-us/library/ff798317.aspx?f=255&MSPPError=-21472173
 https://msdn.microsoft.com/en-us/library/gg599006(v=vs.100).aspx
 
 ## How to send output of Powershell script to CSV
-
+ 
 http://stackoverflow.com/questions/25299214/how-to-send-output-of-powershell-script-to-csv
 
 ## Installing NuGet
@@ -150,3 +150,6 @@ http://www.sharepointchick.com/
 
  Get-SPDeletedSite
  Restore-SPDeletedSite -Identity df8a5a0f-ab4c-4574-a7d4-ce6797047448
+
+## SharePoint: A Complete Guide to Getting and Setting Fields using C_#
+https://social.technet.microsoft.com/wiki/contents/articles/21801.sharepoint-a-complete-guide-to-getting-and-setting-fields-using-c.aspx
