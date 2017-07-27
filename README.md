@@ -97,6 +97,7 @@ https://msdn.microsoft.com/en-us/library/gg599006(v=vs.100).aspx
 
 ## Installing NuGet
 
+
 https://docs.microsoft.com/en-us/nuget/guides/install-nuget 
 
 ## difference between itemadding and itemadded in sharepoint 
@@ -156,3 +157,10 @@ https://social.technet.microsoft.com/wiki/contents/articles/21801.sharepoint-a-c
 ## Get / Set Lookup Field Values in SharePoint List using PowerShell 
 
 http://www.sharepointdiary.com/2013/12/get-set-lookup-field-values-in-sharepoint-using-powershell.html
+
+## PowerShell Scripts to Manage Choice Field in SharePoint 
+
+http://www.sharepointdiary.com/2013/08/powershell-scripts-to-manage-choice-field-in-sharepoint.html
+
+
+
