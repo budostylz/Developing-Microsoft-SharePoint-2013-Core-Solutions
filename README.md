@@ -108,7 +108,7 @@ https://social.msdn.microsoft.com/Forums/sharepoint/en-US/9b9c0f9c-db6a-4691-8c7
 https://support.office.com/en-us/article/Add-RSS-Feeds-to-your-SharePoint-site-51847e78-5c74-4877-9fb9-940000885a5f
  
 ## Microsoft Graph
-
+ 
 https://developer.microsoft.com/en-us/graph
 
 ## Complex types in the SP namespace
@@ -143,7 +143,7 @@ http://www.sharepointchick.com/
 
 ## Restore Site Collection in PowerShell
 
-#Add SharePoint PowerShell SnapIn if not already added
+# Add SharePoint PowerShell SnapIn if not already added
         if ((Get-PSSnapin "Microsoft.SharePoint.PowerShell" -ErrorAction SilentlyContinue) -eq $null) {
             Add-PSSnapin "Microsoft.SharePoint.PowerShell"
  }
