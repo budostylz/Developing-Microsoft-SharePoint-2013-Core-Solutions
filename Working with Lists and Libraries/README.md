@@ -114,7 +114,7 @@ http://sharepoint.stackexchange.com/questions/42769/how-to-copy-a-lookup-field-t
  
 http://sharepoint.stackexchange.com/questions/146242/combine-two-listitemcollection-objects
 
- ## CAML and the Client Object Model
+  ## CAML and the Client Object Model
 
 https://karinebosch.wordpress.com/2012/02/03/caml-and-the-client-object-model/ 
 
@@ -172,3 +172,7 @@ https://social.technet.microsoft.com/Forums/sharepoint/en-US/c6e48820-52ab-4ea1-
 ## Create and configure a new Document Set content type
 
 https://support.office.com/en-us/article/Create-and-configure-a-new-Document-Set-content-type-9db6d6dc-c23a-4dcd-a359-3e4bbbc47fc1
+
+## Power BI 
+
+https://powerbi.microsoft.com/en-us/integrations/sharepoint/
