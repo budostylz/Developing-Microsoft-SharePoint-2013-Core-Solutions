@@ -61,7 +61,7 @@ https://msdn.microsoft.com/en-us/library/ms537512(v=vs.85).aspx
  
 ## A Simple jQuery Content Slider for SharePoint 2007/2010/2013 and O365
 
-Key concept includes converting an html file into a javascript file and link it to the content editor.
+Cool concept includes converting an html file into a javascript file and link it to the content editor.
 
 http://summit7systems.com/a-simple-jquery-content-slider-for-sharepoint-200720102013-and-o365/
 
