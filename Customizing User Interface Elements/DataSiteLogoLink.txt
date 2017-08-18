@@ -1,0 +1,31 @@
+Hello Team,
+
+Just wanted to share a super easy fix to the 2013 UI change for logo links for subsites.
+
+If you want the logo to link to the site collection instead of the subsite home page like it did in the 2010 UI.
+
+Search and change the following in the masterpage:
+
+<!--CS: Start Site Logo Snippet-->
+                                    <!--MS:<SharePoint:AjaxDelta id="DeltaSiteLogo" BlockElement="true" runat="server">-->
+                                        <!--MS:<SharePoint:SPSimpleSiteLink CssClass="ms-siteicon-a" runat="server" id="onetidProjectPropertyTitleGraphic">-->
+                                            <!--MS:<SharePoint:SiteLogoImage CssClass="ms-siteicon-img" name="onetidHeadbnnr0" id="onetidHeadbnnr2" LogoImageUrl="/_layouts/15/images/siteIcon.png?rev=23" runat="server">-->
+                                                <!--PS: Start of READ-ONLY PREVIEW (do not modify)--><img id="ctl00_onetidHeadbnnr2" class="ms-siteicon-img" name="onetidHeadbnnr0" Src="http://nwkspsdev1:7455/_layouts/15/images/siteIcon.png?rev=23" alt="Content site" /><!--PE: End of READ-ONLY PREVIEW-->
+                                            <!--ME:</SharePoint:SiteLogoImage>-->
+                                        <!--ME:</SharePoint:SPSimpleSiteLink>-->
+                                    <!--ME:</SharePoint:AjaxDelta>-->
+                                    <!--CE:End Site Logo Snippet-->
+
+
+To……………….
+<!--CS: Start Site Logo Snippet-->
+                                    <!--MS:<SharePoint:AjaxDelta id="DeltaSiteLogo" BlockElement="true" runat="server">-->
+                                        <!--MS:<SharePoint:SPLinkButton runat="server" NavigateUrl="https://sharemh.dayzim.com" id="onetidProjectPropertyTitleGraphic">-->
+                                            <!--MS:<SharePoint:SiteLogoImage CssClass="ms-siteicon-img" name="onetidHeadbnnr0" id="onetidHeadbnnr2" LogoImageUrl="/_layouts/15/images/siteIcon.png?rev=23" runat="server">-->
+                                                <!--PS: Start of READ-ONLY PREVIEW (do not modify)--><img id="ctl00_onetidHeadbnnr2" class="ms-siteicon-img" name="onetidHeadbnnr0" Src="https://sharemh.dayzim.com/_layouts/15/images/siteIcon.png?rev=23" alt="Content site" /><!--PE: End of READ-ONLY PREVIEW-->
+                                            <!--ME:</SharePoint:SiteLogoImage>-->
+                                        <!--ME:</SharePoint:SPLinkButton>-->
+                                    <!--ME:</SharePoint:AjaxDelta>-->
+                                    <!--CE:End Site Logo Snippet-->
+
+Thanks,
