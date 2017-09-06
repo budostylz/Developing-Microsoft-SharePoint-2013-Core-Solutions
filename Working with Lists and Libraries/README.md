@@ -176,3 +176,8 @@ https://support.office.com/en-us/article/Create-and-configure-a-new-Document-Set
 ## Power BI 
 
 https://powerbi.microsoft.com/en-us/integrations/sharepoint/
+
+## Specify ListUrl for Event receiver
+
+https://sharepoint.stackexchange.com/questions/153247/specify-listurl-for-event-receiver
+
