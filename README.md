@@ -162,5 +162,8 @@ http://www.sharepointdiary.com/2013/12/get-set-lookup-field-values-in-sharepoint
 
 http://www.sharepointdiary.com/2013/08/powershell-scripts-to-manage-choice-field-in-sharepoint.html
 
+## PowerShell Script for Setting the Welcome Page View of a document set
+
+https://social.msdn.microsoft.com/Forums/sqlserver/en-US/d0371eb1-ead4-4311-b750-2189e93171c1/powershell-script-for-setting-the-welcome-page-view-of-a-document-set?forum=sharepointdevelopment
 
 
