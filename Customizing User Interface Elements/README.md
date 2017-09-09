@@ -68,3 +68,7 @@ http://summit7systems.com/a-simple-jquery-content-slider-for-sharepoint-20072010
 ## Sticky Footer Solution for SharePoint 2013
 
 https://www.eliostruyf.com/sticky-footer-solution-for-sharepoint-2013/
+
+## SharePoint Design Manager image renditions
+
+https://dev.office.com/sharepoint/docs/general-development/sharepoint-design-manager-image-renditions
