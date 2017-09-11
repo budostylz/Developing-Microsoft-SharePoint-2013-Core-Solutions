@@ -72,3 +72,7 @@ https://www.eliostruyf.com/sticky-footer-solution-for-sharepoint-2013/
 ## SharePoint Design Manager image renditions
 
 https://dev.office.com/sharepoint/docs/general-development/sharepoint-design-manager-image-renditions
+
+## Making seattle.master Responsive
+
+https://blog.sharepointexperience.com/2015/03/making-seattle-master-responsive/
