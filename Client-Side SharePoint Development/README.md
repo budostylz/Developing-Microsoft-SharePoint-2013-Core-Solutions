@@ -31,7 +31,6 @@ https://msdn.microsoft.com/en-us/library/office/dn531433.aspx
 
 ## Working with folders and files with REST
 
-
 https://msdn.microsoft.com/en-us/library/office/dn292553.aspx
 
 ## Use OData query operations in SharePoint REST requests
@@ -150,3 +149,7 @@ return html;
 ## How to active Scroll to top in sharepoint 2013?
 
 https://social.technet.microsoft.com/Forums/office/en-US/b37116d4-c9b2-4dbd-9472-be05ca619997/how-to-active-scroll-to-top-in-sharepoint-2013?forum=sharepointgeneral
+
+## SP 2013: Using the JSLink property to change the way your field or views are rendered in SharePoint 2013
+
+https://zimmergren.net/sp-2013-using-the-spfield-jslink-property-to-change-the-way-your-field-is-rendered-in-sharepoint-2013/
