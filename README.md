@@ -158,6 +158,11 @@ https://social.technet.microsoft.com/wiki/contents/articles/21801.sharepoint-a-c
 
 http://www.sharepointdiary.com/2013/12/get-set-lookup-field-values-in-sharepoint-using-powershell.html
 
+## Get-Set Person or Group (People Picker) Field Value using PowerShell in SharePoint
+
+http://www.sharepointdiary.com/2015/12/get-set-person-or-group-people-picker-field-values-using-powershell.html#ixzz4t4CS2Ti1
+
+
 ## PowerShell Scripts to Manage Choice Field in SharePoint 
 
 http://www.sharepointdiary.com/2013/08/powershell-scripts-to-manage-choice-field-in-sharepoint.html
