@@ -171,4 +171,6 @@ http://www.sharepointdiary.com/2013/08/powershell-scripts-to-manage-choice-field
 
 https://social.msdn.microsoft.com/Forums/sqlserver/en-US/d0371eb1-ead4-4311-b750-2189e93171c1/powershell-script-for-setting-the-welcome-page-view-of-a-document-set?forum=sharepointdevelopment
 
+## Programmatically creating views for a SharePoint discussion forum
 
+http://sunstriketechnology.blogspot.com/2009/11/programmatically-creating-views-for.html?m=1
