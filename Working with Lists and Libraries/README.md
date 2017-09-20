@@ -189,4 +189,6 @@ https://social.msdn.microsoft.com/Forums/sqlserver/en-US/d0371eb1-ead4-4311-b750
 
 http://sunstriketechnology.blogspot.com/2009/11/programmatically-creating-views-for.html?m=1
 
+## Managing, creating and deleting SharePoint list views with PowerShell
 
+http://get-spscripts.com/2012/02/managing-creating-and-deleting.htmlhttp://get-spscripts.com/2012/02/managing-creating-and-deleting.htmlhttp://get-spscripts.com/2012/02/managing-creating-and-deleting.htmlhttp://get-spscripts.com/2012/02/managing-creating-and-deleting.html
