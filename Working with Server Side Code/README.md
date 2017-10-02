@@ -96,3 +96,11 @@ https://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webparts.webp
 ## WebPartManager.CloseWebPart Method (WebPart)
 
 https://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webparts.webpartmanager.closewebpart(v=vs.110).aspx
+
+## Handling events for all event receivers fired more than once in code
+
+https://sharepoint.stackexchange.com/questions/110940/handling-events-for-all-event-receivers-fired-more-than-once-in-code
+
+## SPItemEventReceiver - ItemAdded and ItemUpdated runs simultaneous 
+
+http://mqsharepoint.blogspot.com/2007/03/spitemeventreceiver-itemadded-and.html?m=1
