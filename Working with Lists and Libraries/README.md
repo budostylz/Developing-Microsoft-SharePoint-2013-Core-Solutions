@@ -192,3 +192,7 @@ http://sunstriketechnology.blogspot.com/2009/11/programmatically-creating-views-
 ## Managing, creating and deleting SharePoint list views with PowerShell
 
 http://get-spscripts.com/2012/02/managing-creating-and-deleting.html
+
+## Create a Custom Sort Order Using the Contains Formula in a Calculated Column
+
+https://jennyssharepointtips.wordpress.com/2014/11/21/create-a-custom-sort-using-the-contains-formula-in-a-calculated-column/
