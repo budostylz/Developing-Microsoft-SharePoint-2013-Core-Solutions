@@ -178,3 +178,7 @@ http://sunstriketechnology.blogspot.com/2009/11/programmatically-creating-views-
 ## Managing, creating and deleting SharePoint list views with PowerShell
 
 http://get-spscripts.com/2012/02/managing-creating-and-deleting.html
+
+## TaxonomyField members
+
+https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.taxonomy.taxonomyfield_members.aspx
