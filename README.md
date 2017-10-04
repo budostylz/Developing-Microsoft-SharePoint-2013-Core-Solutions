@@ -182,3 +182,7 @@ http://get-spscripts.com/2012/02/managing-creating-and-deleting.html
 ## TaxonomyField members
 
 https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.taxonomy.taxonomyfield_members.aspx
+
+## I save a subsite as a template.... but its not visible when I do a create new site
+
+https://social.technet.microsoft.com/Forums/lync/en-US/1912ec22-5af3-474a-9d33-6d70c51d243a/i-save-a-subsite-as-a-template-but-its-not-visible-when-i-do-a-create-new-site?forum=sharepointgeneralprevious
