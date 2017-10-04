@@ -104,3 +104,7 @@ https://sharepoint.stackexchange.com/questions/110940/handling-events-for-all-ev
 ## SPItemEventReceiver - ItemAdded and ItemUpdated runs simultaneous 
 
 http://mqsharepoint.blogspot.com/2007/03/spitemeventreceiver-itemadded-and.html?m=1
+
+## Event Handling ItemAdded and ItemUpdated
+
+https://sharepoint.stackexchange.com/questions/45744/event-handling-itemadded-and-itemupdated
