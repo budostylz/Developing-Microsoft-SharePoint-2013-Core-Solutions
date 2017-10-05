@@ -108,3 +108,7 @@ http://mqsharepoint.blogspot.com/2007/03/spitemeventreceiver-itemadded-and.html?
 ## Event Handling ItemAdded and ItemUpdated
 
 https://sharepoint.stackexchange.com/questions/45744/event-handling-itemadded-and-itemupdated
+
+## BeforeProperties and AfterProperties in Sharepoint Event Receivers 
+
+http://srisharepointdevelopment.blogspot.com/2013/06/beforeproperties-and-afterproperties-in.html
