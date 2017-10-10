@@ -190,3 +190,8 @@ https://social.technet.microsoft.com/Forums/lync/en-US/1912ec22-5af3-474a-9d33-6
 ## Changing Web Part Properties When the Page is Unavailable
 
 https://thechriskent.com/tag/splimitedwebpartmanager/
+
+## Powershell: How to delete a content type which is a part of application feature
+
+https://social.technet.microsoft.com/Forums/ie/en-US/ac93814c-d29f-4bf6-9303-c52ae7ccbaf5/powershell-how-to-delete-a-content-type-which-is-a-part-of-application-feature?forum=sharepointadmin
+
