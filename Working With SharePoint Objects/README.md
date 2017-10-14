@@ -14,3 +14,7 @@ http://www.c-sharpcorner.com/blogs/fix-for-thread-was-being-aborted-error-in-sha
 ## BeforeProperties and AfterProperties of the SPItemEventReceiver
 
 https://ehikioya.com/beforeproperties-and-afterproperties-spitemeventreceiver/
+
+## Programmatically attach and detach event receivers to specific Sharepoint list safely 
+
+http://sadomovalex.blogspot.com/2014/09/programmatically-attach-and-detach.html
