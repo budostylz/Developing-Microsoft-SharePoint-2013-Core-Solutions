@@ -196,3 +196,7 @@ http://get-spscripts.com/2012/02/managing-creating-and-deleting.html
 ## Create a Custom Sort Order Using the Contains Formula in a Calculated Column
 
 https://jennyssharepointtips.wordpress.com/2014/11/21/create-a-custom-sort-using-the-contains-formula-in-a-calculated-column/
+
+## Enable and disable SharePoint alerts via PowerShell
+
+http://markimarta.com/sharepoint/enable-and-disable-sharepoint-alerts-via-powershell/
