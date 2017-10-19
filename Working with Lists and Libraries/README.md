@@ -200,3 +200,7 @@ https://jennyssharepointtips.wordpress.com/2014/11/21/create-a-custom-sort-using
 ## Enable and disable SharePoint alerts via PowerShell
 
 http://markimarta.com/sharepoint/enable-and-disable-sharepoint-alerts-via-powershell/
+
+## Documents in a document set are not inheriting metadata
+
+https://social.technet.microsoft.com/Forums/office/en-US/fc4f6429-0a2c-404b-9b7b-8ecad7646b32/documents-in-a-document-set-are-not-inheriting-metadata?forum=sharepointadminprevious
