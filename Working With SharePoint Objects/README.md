@@ -22,3 +22,9 @@ http://sadomovalex.blogspot.com/2014/09/programmatically-attach-and-detach.html
 ## Event Receiver to Start Workflow
 
 https://social.technet.microsoft.com/Forums/sharepoint/en-US/0ec143d0-d410-4243-920b-06c9546d688e/event-receiver-to-start-workflow?forum=sharepointgeneralprevious
+
+## How to Start a SharePoint Workflow using PowerShell
+
+http://www.sharepointdiary.com/2013/01/how-to-start-sharepoint-workflow-using-powershell.html#ixzz4w5Z8ea1Q
+
+
