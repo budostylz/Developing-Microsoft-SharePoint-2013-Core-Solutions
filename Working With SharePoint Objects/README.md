@@ -18,3 +18,7 @@ https://ehikioya.com/beforeproperties-and-afterproperties-spitemeventreceiver/
 ## Programmatically attach and detach event receivers to specific Sharepoint list safely 
 
 http://sadomovalex.blogspot.com/2014/09/programmatically-attach-and-detach.html
+
+## Event Receiver to Start Workflow
+
+https://social.technet.microsoft.com/Forums/sharepoint/en-US/0ec143d0-d410-4243-920b-06c9546d688e/event-receiver-to-start-workflow?forum=sharepointgeneralprevious
