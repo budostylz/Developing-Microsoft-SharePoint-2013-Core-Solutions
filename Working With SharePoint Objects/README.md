@@ -27,4 +27,6 @@ https://social.technet.microsoft.com/Forums/sharepoint/en-US/0ec143d0-d410-4243-
 
 http://www.sharepointdiary.com/2013/01/how-to-start-sharepoint-workflow-using-powershell.html#ixzz4w5Z8ea1Q
 
+## Programmatically Sending Email in SharePoint 
 
+https://sharepoint2013suresh.blogspot.com/2014/03/programmatically-sending-email-in.html
