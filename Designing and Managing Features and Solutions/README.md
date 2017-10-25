@@ -104,4 +104,8 @@ https://msdn.microsoft.com/en-us/library/ee696750.aspx
 
 https://msdn.microsoft.com/en-us/library/ee231524.aspx
 
+## How we deployed SharePoint WSP Solutions without downtime
+
+https://blog.ithinksharepoint.com/2012/07/16/deploying-sharepoint-wsp-solutions-without-downtime/
+
 
