@@ -153,3 +153,11 @@ https://social.technet.microsoft.com/Forums/office/en-US/b37116d4-c9b2-4dbd-9472
 ## SP 2013: Using the JSLink property to change the way your field or views are rendered in SharePoint 2013
 
 https://zimmergren.net/sp-2013-using-the-spfield-jslink-property-to-change-the-way-your-field-is-rendered-in-sharepoint-2013/
+
+## Easily Import Spreadsheets into UI-Grid
+
+http://brianhann.com/easily-import-spreadsheets-into-ui-grid/
+
+## Exporting Spreadsheets from UI-Grid
+
+http://brianhann.com/exporting-spreadsheets-from-ui-grid/
