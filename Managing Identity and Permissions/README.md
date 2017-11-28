@@ -104,3 +104,7 @@ https://social.technet.microsoft.com/Forums/sharepoint/en-US/c945098f-9d82-419d-
 ## User permissions and permission levels in SharePoint 2013
 
 https://technet.microsoft.com/en-us/library/cc721640.aspx
+
+## Configure custom permissions in SharePoint 2013
+
+https://technet.microsoft.com/en-us/library/cc263239.aspx
