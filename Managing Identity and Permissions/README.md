@@ -100,3 +100,7 @@ https://msdn.microsoft.com/en-us/library/office/ee556747(v=office.14).aspx
 ## Not able to update the taxonomy term from the elevated code block even though the app pool account is a term store administrator ? 
 
 https://social.technet.microsoft.com/Forums/sharepoint/en-US/c945098f-9d82-419d-9962-152019f2de32/not-able-to-update-the-taxonomy-term-from-the-elevated-code-block-even-though-the-app-pool-account?forum=sharepointgeneralprevious
+
+## User permissions and permission levels in SharePoint 2013
+
+https://technet.microsoft.com/en-us/library/cc721640.aspx
