@@ -195,3 +195,7 @@ https://thechriskent.com/tag/splimitedwebpartmanager/
 
 https://social.technet.microsoft.com/Forums/ie/en-US/ac93814c-d29f-4bf6-9303-c52ae7ccbaf5/powershell-how-to-delete-a-content-type-which-is-a-part-of-application-feature?forum=sharepointadmin
 
+## SharePoint 2013: Create a Custom WCF REST Service Hosted in SharePoint and Deployed in a WSP
+
+https://social.technet.microsoft.com/wiki/contents/articles/24194.sharepoint-2013-create-a-custom-wcf-rest-service-hosted-in-sharepoint-and-deployed-in-a-wsp.aspx
+
