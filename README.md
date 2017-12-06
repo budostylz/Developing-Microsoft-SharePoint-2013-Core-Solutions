@@ -199,3 +199,6 @@ https://social.technet.microsoft.com/Forums/ie/en-US/ac93814c-d29f-4bf6-9303-c52
 
 https://social.technet.microsoft.com/wiki/contents/articles/24194.sharepoint-2013-create-a-custom-wcf-rest-service-hosted-in-sharepoint-and-deployed-in-a-wsp.aspx
 
+## Working with SharePoint sites in Microsoft Graph
+
+https://developer.microsoft.com/en-us/graph/docs/api-reference/beta/resources/sharepoint
