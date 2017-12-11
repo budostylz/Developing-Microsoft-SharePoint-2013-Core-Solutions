@@ -204,3 +204,11 @@ http://markimarta.com/sharepoint/enable-and-disable-sharepoint-alerts-via-powers
 ## Documents in a document set are not inheriting metadata
 
 https://social.technet.microsoft.com/Forums/office/en-US/fc4f6429-0a2c-404b-9b7b-8ecad7646b32/documents-in-a-document-set-are-not-inheriting-metadata?forum=sharepointadminprevious
+
+## Document Property Promotion and Demotion Overview and Considerations
+
+https://blogs.technet.microsoft.com/wbaer/2014/08/29/document-property-promotion-and-demotion-overview-and-considerations/
+
+## Add SharePoint Metadata to Word Documents
+
+https://www.premierpointsolutions.com/training/help-and-how-to-articles/add-sharepoint-metadata-to-word-documents/
