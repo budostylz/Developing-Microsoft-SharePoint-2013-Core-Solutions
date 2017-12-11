@@ -202,3 +202,7 @@ https://social.technet.microsoft.com/wiki/contents/articles/24194.sharepoint-201
 ## Working with SharePoint sites in Microsoft Graph
 
 https://developer.microsoft.com/en-us/graph/docs/api-reference/beta/resources/sharepoint
+
+## SharePoint 2013 Site Template ID List for PowerShell
+
+https://absolute-sharepoint.com/2013/06/sharepoint-2013-site-template-id-list-for-powershell.html
