@@ -49,3 +49,7 @@ https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spcontenttypecolle
 ## Order List Content Types or Solve your "Specified argument was out of the range of valid values.Parameter name: id / value"
 
 https://blogs.msdn.microsoft.com/carloshm/2010/11/13/order-list-content-types-or-solve-your-specified-argument-was-out-of-the-range-of-valid-values-parameter-name-id-value/
+
+## Top 10 features of SharePoint Term Store
+
+https://sharepointmaven.com/top-10-features-sharepoint-term-store/
