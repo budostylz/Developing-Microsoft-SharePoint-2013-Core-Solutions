@@ -212,3 +212,7 @@ https://blogs.technet.microsoft.com/wbaer/2014/08/29/document-property-promotion
 ## Add SharePoint Metadata to Word Documents
 
 https://www.premierpointsolutions.com/training/help-and-how-to-articles/add-sharepoint-metadata-to-word-documents/
+
+## Document Information Panel and Document Properties in SharePoint Server 2010 (ECM)
+
+https://msdn.microsoft.com/en-us/library/office/bb447589(v=office.14).aspx
