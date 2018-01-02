@@ -108,3 +108,7 @@ https://technet.microsoft.com/en-us/library/cc721640.aspx
 ## Configure custom permissions in SharePoint 2013
 
 https://technet.microsoft.com/en-us/library/cc263239.aspx
+
+## SharePoint 2013/2010 Site Collection Permission Report - PowerShell Script
+
+https://gallery.technet.microsoft.com/office/SharePoint-20132010-68415a22
