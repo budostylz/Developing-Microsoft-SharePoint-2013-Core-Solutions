@@ -168,3 +168,7 @@ https://gallery.technet.microsoft.com/Removing-Old-Versions-of-e61e644d
 ## Sharepoint 2010 Add Document Error - The file xxx has been modified by xxx (user) on xxx (upload date + time)
 
 https://social.technet.microsoft.com/Forums/ie/en-US/ac93814c-d29f-4bf6-9303-c52ae7ccbaf5/powershell-how-to-delete-a-content-type-which-is-a-part-of-application-feature?forum=sharepointadmin
+
+## Useful Sharepoint Designer Custom Workflow Activities
+
+http://spdactivities.codeplex.com/
