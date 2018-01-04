@@ -172,3 +172,13 @@ https://social.technet.microsoft.com/Forums/ie/en-US/ac93814c-d29f-4bf6-9303-c52
 ## Useful Sharepoint Designer Custom Workflow Activities
 
 http://spdactivities.codeplex.com/
+
+## Fix Designer error: Server-side activities have been updated. You need to restart SharePoint Designer to use the updated version of activities.
+
+http://gowrisp.blogspot.com/2017/04/fix-designer-error-server-side.html
+
+https://onedrive.live.com/?authkey=%21AMznoNBqJjg3Ytw&id=131341177C9DE5AF%216556&cid=131341177C9DE5AF
+
+## [Tutorial] How to Loop Through Multiple List Items Without Code Using a SharePoint 2010 Workflow
+
+http://blog.rbaconsulting.com/tutorial-how-to-loop-through-multiple-list-items-without-code-using-a-sharepoint-2010-workflow/
