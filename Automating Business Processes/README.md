@@ -182,3 +182,11 @@ https://onedrive.live.com/?authkey=%21AMznoNBqJjg3Ytw&id=131341177C9DE5AF%216556
 ## [Tutorial] How to Loop Through Multiple List Items Without Code Using a SharePoint 2010 Workflow
 
 http://blog.rbaconsulting.com/tutorial-how-to-loop-through-multiple-list-items-without-code-using-a-sharepoint-2010-workflow/
+
+## Create a Monthly Alert in SharePoint With Retention Policy and Workflow
+
+https://www.psclistens.com/insight/blog/create-a-monthly-alert-in-sharepoint-with-retention-policy-and-workflow/
+
+## How to trigger a workflow on a timer basis: Information management policies
+
+http://www.wardpeter.com/?p=1055
