@@ -190,3 +190,7 @@ https://www.psclistens.com/insight/blog/create-a-monthly-alert-in-sharepoint-wit
 ## How to trigger a workflow on a timer basis: Information management policies
 
 http://www.wardpeter.com/?p=1055
+
+## Exporting a reusable workflow to a different Site Collection
+
+https://www.youtube.com/watch?v=n7e_LJN15e0&feature=youtu.be
