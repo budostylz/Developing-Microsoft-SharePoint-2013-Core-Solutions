@@ -194,3 +194,7 @@ http://www.wardpeter.com/?p=1055
 ## Exporting a reusable workflow to a different Site Collection
 
 https://www.youtube.com/watch?v=n7e_LJN15e0&feature=youtu.be
+
+## Five Steps to check your WFM
+
+https://blogs.msdn.microsoft.com/whereismysolution/2016/12/13/five-steps-to-check-your-wfm/
