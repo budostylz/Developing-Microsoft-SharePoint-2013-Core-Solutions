@@ -206,3 +206,7 @@ http://fangdahai.blogspot.com/2013/04/on-premise-windows-workflow-server.html
 ## Cumulative Update 4 for Workflow Manager 1.0 (KB4019220)
 
 https://www.microsoft.com/en-us/download/details.aspx?id=55643
+
+## Listing all scopes in a Workflow Manager instance using PowerShell
+
+https://lennytech.wordpress.com/2013/08/12/listing-all-scopes-in-a-workflow-manager-instance-using-powershell/
