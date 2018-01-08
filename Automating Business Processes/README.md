@@ -202,3 +202,7 @@ https://blogs.msdn.microsoft.com/whereismysolution/2016/12/13/five-steps-to-chec
 ## On-premise windows workflow server configuration with SharePoint 2013
 
 http://fangdahai.blogspot.com/2013/04/on-premise-windows-workflow-server.html
+
+## Cumulative Update 4 for Workflow Manager 1.0 (KB4019220)
+
+https://www.microsoft.com/en-us/download/details.aspx?id=55643
