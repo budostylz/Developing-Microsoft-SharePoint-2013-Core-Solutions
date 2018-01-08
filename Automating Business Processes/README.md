@@ -198,3 +198,7 @@ https://www.youtube.com/watch?v=n7e_LJN15e0&feature=youtu.be
 ## Five Steps to check your WFM
 
 https://blogs.msdn.microsoft.com/whereismysolution/2016/12/13/five-steps-to-check-your-wfm/
+
+## On-premise windows workflow server configuration with SharePoint 2013
+
+http://fangdahai.blogspot.com/2013/04/on-premise-windows-workflow-server.html
