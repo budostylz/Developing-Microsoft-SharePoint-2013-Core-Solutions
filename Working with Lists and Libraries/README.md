@@ -216,3 +216,7 @@ https://www.premierpointsolutions.com/training/help-and-how-to-articles/add-shar
 ## Document Information Panel and Document Properties in SharePoint Server 2010 (ECM)
 
 https://msdn.microsoft.com/en-us/library/office/bb447589(v=office.14).aspx
+
+## Export and import/create site content types in SharePoint using PowerShell
+
+http://get-spscripts.com/2011/02/export-and-importcreate-site-content.html
