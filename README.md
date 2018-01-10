@@ -210,3 +210,7 @@ https://absolute-sharepoint.com/2013/06/sharepoint-2013-site-template-id-list-fo
 ## Office Add-ins platform overview
 
 https://docs.microsoft.com/en-us/office/dev/add-ins/overview/office-add-ins
+
+## 'save site as template' missing SP2013
+
+https://social.technet.microsoft.com/Forums/office/en-US/0887cfe8-62a4-4eff-8d1b-9305f4a2c0ce/save-site-as-template-missing-sp2013?forum=sharepointgeneral
