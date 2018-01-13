@@ -214,3 +214,7 @@ https://docs.microsoft.com/en-us/office/dev/add-ins/overview/office-add-ins
 ## 'save site as template' missing SP2013
 
 https://social.technet.microsoft.com/Forums/office/en-US/0887cfe8-62a4-4eff-8d1b-9305f4a2c0ce/save-site-as-template-missing-sp2013?forum=sharepointgeneral
+
+## Using a site template with a new site collection in SharePoint Online
+
+http://blog.ciaops.com/2013/07/using-site-template-with-new-site.html
