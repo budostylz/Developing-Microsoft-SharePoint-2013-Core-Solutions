@@ -218,3 +218,11 @@ https://social.technet.microsoft.com/Forums/office/en-US/0887cfe8-62a4-4eff-8d1b
 ## Using a site template with a new site collection in SharePoint Online
 
 http://blog.ciaops.com/2013/07/using-site-template-with-new-site.html
+
+## Programmatically creating Sites and Site Collections from a Custom Web Template
+
+https://blog.mastykarz.nl/programmatically-creating-sites-site-collections-custom-web-template/
+
+## SPWeb.ApplyWebTemplate method (String)
+
+https://msdn.microsoft.com/en-us/library/office/ms441847.aspx
