@@ -53,3 +53,7 @@ https://blogs.msdn.microsoft.com/carloshm/2010/11/13/order-list-content-types-or
 ## Top 10 features of SharePoint Term Store
 
 https://sharepointmaven.com/top-10-features-sharepoint-term-store/
+
+## Changing the Content Type Hub Url
+
+https://spjoel.wordpress.com/2012/08/06/changing-the-content-type-hub-url/
