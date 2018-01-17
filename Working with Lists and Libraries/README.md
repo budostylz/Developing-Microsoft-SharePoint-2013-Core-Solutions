@@ -229,4 +229,8 @@ https://msdn.microsoft.com/en-us/library/office/bb447589(v=office.14).aspx
 
 https://www.youtube.com/watch?v=QJohCzFsGNo
 
+## How to use Word Quick Parts with SharePoint hosted documents
+
+https://en.share-gate.com/blog/quick-tip-combining-word-and-metadata-through-quick-parts
+
 
