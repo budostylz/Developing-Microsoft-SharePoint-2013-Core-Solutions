@@ -224,3 +224,9 @@ http://get-spscripts.com/2011/02/export-and-importcreate-site-content.html
 ## How to configure a Document Information Panel in SharePoint/Office 365
 
 https://msdn.microsoft.com/en-us/library/office/bb447589(v=office.14).aspx
+
+## SharePoint 2010 Document Properties
+
+https://www.youtube.com/watch?v=QJohCzFsGNo
+
+
