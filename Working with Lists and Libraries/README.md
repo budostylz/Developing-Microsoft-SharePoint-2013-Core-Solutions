@@ -220,3 +220,7 @@ https://msdn.microsoft.com/en-us/library/office/bb447589(v=office.14).aspx
 ## Export and import/create site content types in SharePoint using PowerShell
 
 http://get-spscripts.com/2011/02/export-and-importcreate-site-content.html
+
+## How to configure a Document Information Panel in SharePoint/Office 365
+
+https://msdn.microsoft.com/en-us/library/office/bb447589(v=office.14).aspx
