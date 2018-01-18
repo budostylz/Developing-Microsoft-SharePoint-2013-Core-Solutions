@@ -226,3 +226,7 @@ https://blog.mastykarz.nl/programmatically-creating-sites-site-collections-custo
 ## SPWeb.ApplyWebTemplate method (String)
 
 https://msdn.microsoft.com/en-us/library/office/ms441847.aspx
+
+## Export item in view form to a word document
+
+https://sharepoint.stackexchange.com/questions/129676/export-item-in-view-form-to-a-word-document
