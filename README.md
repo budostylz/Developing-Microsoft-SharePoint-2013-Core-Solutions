@@ -230,3 +230,7 @@ https://msdn.microsoft.com/en-us/library/office/ms441847.aspx
 ## Export item in view form to a word document
 
 https://sharepoint.stackexchange.com/questions/129676/export-item-in-view-form-to-a-word-document
+
+## How to do a Multi-Level Grouping in a SharePoint 2013 View Using SharePoint Designer
+
+http://www.c-sharpcorner.com/UploadFile/d2ee01/how-to-do-a-multi-level-grouping-in-a-sharepoint-2013-view-u/
