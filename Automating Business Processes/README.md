@@ -210,3 +210,7 @@ https://www.microsoft.com/en-us/download/details.aspx?id=55643
 ## Listing all scopes in a Workflow Manager instance using PowerShell
 
 https://lennytech.wordpress.com/2013/08/12/listing-all-scopes-in-a-workflow-manager-instance-using-powershell/
+
+## Update Managed Metadata Field Using SharePoint Designer 2013 Workflow
+
+http://www.c-sharpcorner.com/article/update-managed-metadata-field-using-sharepoint-designer-2013-workflow/
