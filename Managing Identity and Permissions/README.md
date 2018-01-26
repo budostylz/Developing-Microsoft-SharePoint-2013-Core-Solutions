@@ -112,3 +112,7 @@ https://technet.microsoft.com/en-us/library/cc263239.aspx
 ## SharePoint 2013/2010 Site Collection Permission Report - PowerShell Script
 
 https://gallery.technet.microsoft.com/office/SharePoint-20132010-68415a22
+
+## How to programmatically copy Web Level, List level and List Item Level Security Information for SharePoint Sites
+
+http://rajeshagadi.blogspot.com/2011/04/how-to-programmatically-copy-web-level.html
