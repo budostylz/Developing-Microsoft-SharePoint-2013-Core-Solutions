@@ -57,3 +57,7 @@ https://sharepointmaven.com/top-10-features-sharepoint-term-store/
 ## Changing the Content Type Hub Url
 
 https://spjoel.wordpress.com/2012/08/06/changing-the-content-type-hub-url/
+
+## Force publishing of Content Type changes in a Content Type Hub
+
+https://blog.lekman.com/2014/10/force-publishing-of-content-type.html
