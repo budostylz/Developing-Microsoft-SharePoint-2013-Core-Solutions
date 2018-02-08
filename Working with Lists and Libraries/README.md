@@ -233,4 +233,8 @@ https://www.youtube.com/watch?v=QJohCzFsGNo
 
 https://en.share-gate.com/blog/quick-tip-combining-word-and-metadata-through-quick-parts
 
+## Getting and setting SharePoint form field values
+
+https://spform.com/javascript-framework/getting-setting-sharepoint-form-field-values
+
 
