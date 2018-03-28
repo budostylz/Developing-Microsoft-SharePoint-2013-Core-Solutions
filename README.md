@@ -178,7 +178,7 @@ http://sunstriketechnology.blogspot.com/2009/11/programmatically-creating-views-
 ## Managing, creating and deleting SharePoint list views with PowerShell
 
 http://get-spscripts.com/2012/02/managing-creating-and-deleting.html
-
+#
 ## TaxonomyField members
 
 https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.taxonomy.taxonomyfield_members.aspx
@@ -186,6 +186,7 @@ https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.taxonomy.taxonomyf
 ## I save a subsite as a template.... but its not visible when I do a create new site
 
 https://social.technet.microsoft.com/Forums/lync/en-US/1912ec22-5af3-474a-9d33-6d70c51d243a/i-save-a-subsite-as-a-template-but-its-not-visible-when-i-do-a-create-new-site?forum=sharepointgeneralprevious
+
 
 ## Changing Web Part Properties When the Page is Unavailable
 
@@ -238,3 +239,9 @@ http://www.c-sharpcorner.com/UploadFile/d2ee01/how-to-do-a-multi-level-grouping-
 ## Power BI
 
 https://powerbi.microsoft.com/en-us/
+
+## JavaScript Charts & Maps
+
+https://www.amcharts.com/
+
+
