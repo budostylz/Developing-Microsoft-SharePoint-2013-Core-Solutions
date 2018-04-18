@@ -76,3 +76,11 @@ https://dev.office.com/sharepoint/docs/general-development/sharepoint-design-man
 ## Making seattle.master Responsive
 
 https://blog.sharepointexperience.com/2015/03/making-seattle-master-responsive/
+
+## SharePoint 2013 – Add Custom Tiles to SharePoint site Page
+
+http://www.learningsharepoint.com/2012/08/01/sharepoint-2013-add-custom-tiles-to-sharepoint-site-page/
+
+## SharePoint 2013: Promoted Links Wrap Tiles
+
+https://social.technet.microsoft.com/wiki/contents/articles/19622.sharepoint-2013-promoted-links-wrap-tiles.aspx
