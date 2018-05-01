@@ -92,6 +92,10 @@ http://sharepointchick.com/archive/2012/07/29/setting-up-your-app-domain-for-sha
 
 https://technet.microsoft.com/en-us/library/fp161236(v=office.15)
 
+## Get started creating SharePoint-hosted SharePoint Add-ins
+
+https://docs.microsoft.com/en-us/sharepoint/dev/sp-add-ins/get-started-creating-sharepoint-hosted-sharepoint-add-ins
+
 
 
 
