@@ -244,4 +244,8 @@ https://powerbi.microsoft.com/en-us/
 
 https://www.amcharts.com/
 
+## Does SharePoint Spell Check only show the spelling errors?
+
+https://sharepoint.stackexchange.com/questions/195832/does-sharepoint-spell-check-only-show-the-spelling-errors
+
 
