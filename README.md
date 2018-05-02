@@ -248,4 +248,8 @@ https://www.amcharts.com/
 
 https://sharepoint.stackexchange.com/questions/195832/does-sharepoint-spell-check-only-show-the-spelling-errors
 
+## URL Decoder/Encoder
+
+https://meyerweb.com/eric/tools/dencoder/
+
 
