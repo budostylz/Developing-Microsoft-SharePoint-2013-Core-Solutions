@@ -252,4 +252,7 @@ https://sharepoint.stackexchange.com/questions/195832/does-sharepoint-spell-chec
 
 https://meyerweb.com/eric/tools/dencoder/
 
+## View usage reports in SharePoint Server
+
+https://docs.microsoft.com/en-us/sharepoint/administration/view-usage-reports
 
