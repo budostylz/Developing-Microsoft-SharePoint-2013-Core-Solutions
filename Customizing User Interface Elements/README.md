@@ -84,3 +84,7 @@ http://www.learningsharepoint.com/2012/08/01/sharepoint-2013-add-custom-tiles-to
 ## SharePoint 2013: Promoted Links Wrap Tiles
 
 https://social.technet.microsoft.com/wiki/contents/articles/19622.sharepoint-2013-promoted-links-wrap-tiles.aspx
+
+## Easy Digital Signatures in SharePoint
+
+http://www.markrackley.net/2016/06/09/easy-digital-signatures-in-sharepoint/
