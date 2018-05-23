@@ -256,3 +256,7 @@ https://meyerweb.com/eric/tools/dencoder/
 
 https://docs.microsoft.com/en-us/sharepoint/administration/view-usage-reports
 
+## Database types and descriptions in SharePoint Server
+ 
+https://docs.microsoft.com/en-us/sharepoint/technical-reference/database-types-and-descriptions
+
