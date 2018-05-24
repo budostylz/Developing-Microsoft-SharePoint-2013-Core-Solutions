@@ -108,6 +108,10 @@ https://docs.microsoft.com/en-us/sharepoint/dev/sp-add-ins/host-webs-add-in-webs
 
 https://docs.microsoft.com/en-us/sharepoint/dev/sp-add-ins/important-aspects-of-the-sharepoint-add-in-architecture-and-development-landscap#AppPermissions
 
+## Setting up your App domain for SharePoint 2013
+
+http://sharepointchick.com/archive/2012/07/29/setting-up-your-app-domain-for-sharepoint-2013.aspx
+
 
 
 
