@@ -88,3 +88,7 @@ https://social.technet.microsoft.com/wiki/contents/articles/19622.sharepoint-201
 ## Easy Digital Signatures in SharePoint
 
 http://www.markrackley.net/2016/06/09/easy-digital-signatures-in-sharepoint/
+
+## How to make the Promoted Links app fluffy and sexy
+
+https://maartenboonen.wixsite.com/sharedsolutions/single-post/2015/09/24/How-to-make-the-Promoted-Links-app-fluffy-and-sexy
