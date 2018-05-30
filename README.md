@@ -264,3 +264,7 @@ https://docs.microsoft.com/en-us/sharepoint/technical-reference/database-types-a
 
 https://msdn.microsoft.com/en-us/library/office/jj860569.aspx
 
+## SP.js
+
+http://definitelytyped.org/docs/sharepoint--SharePoint/index.html
+
