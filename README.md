@@ -260,3 +260,7 @@ https://docs.microsoft.com/en-us/sharepoint/administration/view-usage-reports
  
 https://docs.microsoft.com/en-us/sharepoint/technical-reference/database-types-and-descriptions
 
+## REST API reference and samples
+
+https://msdn.microsoft.com/en-us/library/office/jj860569.aspx
+
