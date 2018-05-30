@@ -162,6 +162,6 @@ http://brianhann.com/easily-import-spreadsheets-into-ui-grid/
 
 http://brianhann.com/exporting-spreadsheets-from-ui-grid/
 
-## ## SP.js
+## SP.js
 
 http://definitelytyped.org/docs/sharepoint--SharePoint/index.html
