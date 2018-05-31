@@ -165,3 +165,7 @@ http://brianhann.com/exporting-spreadsheets-from-ui-grid/
 ## SP.js
 
 http://definitelytyped.org/docs/sharepoint--SharePoint/index.html
+
+## OData query cheat sheet
+
+https://help.nintex.com/en-us/insight/OData/HE_CON_ODATAQueryCheatSheet.htm
