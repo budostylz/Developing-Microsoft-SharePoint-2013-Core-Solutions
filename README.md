@@ -268,3 +268,7 @@ https://msdn.microsoft.com/en-us/library/office/jj860569.aspx
 
 http://definitelytyped.org/docs/sharepoint--SharePoint/index.html
 
+## Timer job reference for SharePoint 2013
+
+https://docs.microsoft.com/en-us/sharepoint/technical-reference/timer-job-reference-for-sharepoint-2013
+
