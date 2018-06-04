@@ -214,3 +214,9 @@ https://lennytech.wordpress.com/2013/08/12/listing-all-scopes-in-a-workflow-mana
 ## Update Managed Metadata Field Using SharePoint Designer 2013 Workflow
 
 http://www.c-sharpcorner.com/article/update-managed-metadata-field-using-sharepoint-designer-2013-workflow/
+
+## Timer job reference for SharePoint 2013
+
+https://docs.microsoft.com/en-us/sharepoint/technical-reference/timer-job-reference-for-sharepoint-2013
+
+
