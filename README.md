@@ -272,3 +272,7 @@ http://definitelytyped.org/docs/sharepoint--SharePoint/index.html
 
 https://docs.microsoft.com/en-us/sharepoint/technical-reference/timer-job-reference-for-sharepoint-2013
 
+## Automatically created managed properties in SharePoint Server
+
+https://docs.microsoft.com/en-us/SharePoint/technical-reference/automatically-created-managed-properties-in-sharepoint
+
