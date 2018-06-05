@@ -173,3 +173,7 @@ https://help.nintex.com/en-us/insight/OData/HE_CON_ODATAQueryCheatSheet.htm
 ## SharePoint 2013 CSOM call from web part fails with 401 for all users
 
 https://blogs.msdn.microsoft.com/sridhara/2014/02/06/sharepoint-2013-csom-call-from-web-part-fails-with-401-for-all-users/
+
+## Using JavaScript or JQuery and JSOM in SharePoint
+
+http://www.thesharepointguide.com/sharepoint-javascript/
