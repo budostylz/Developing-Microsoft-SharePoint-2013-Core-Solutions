@@ -177,3 +177,7 @@ https://blogs.msdn.microsoft.com/sridhara/2014/02/06/sharepoint-2013-csom-call-f
 ## Using JavaScript or JQuery and JSOM in SharePoint
 
 http://www.thesharepointguide.com/sharepoint-javascript/
+
+## Complete basic operations using SharePoint client library code
+
+https://docs.microsoft.com/en-us/sharepoint/dev/sp-add-ins/complete-basic-operations-using-sharepoint-client-library-code
