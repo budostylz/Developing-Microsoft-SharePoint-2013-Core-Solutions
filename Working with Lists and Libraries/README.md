@@ -241,4 +241,8 @@ https://spform.com/javascript-framework/getting-setting-sharepoint-form-field-va
 
 https://docs.microsoft.com/en-us/previous-versions/office/developer/sharepoint-2010/hh185005(v%3Doffice.14)
 
+## How to: Create, Update, and Delete List Items Using JavaScript
+
+https://docs.microsoft.com/en-us/previous-versions/office/developer/sharepoint-2010/hh185011(v%3doffice.14)
+
 
