@@ -237,4 +237,8 @@ https://en.share-gate.com/blog/quick-tip-combining-word-and-metadata-through-qui
 
 https://spform.com/javascript-framework/getting-setting-sharepoint-form-field-values
 
+## How to: Create, Update, and Delete Lists Using JavaScript
+
+https://docs.microsoft.com/en-us/previous-versions/office/developer/sharepoint-2010/hh185005(v%3Doffice.14)
+
 
