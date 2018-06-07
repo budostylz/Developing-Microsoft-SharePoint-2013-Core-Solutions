@@ -181,3 +181,7 @@ http://www.thesharepointguide.com/sharepoint-javascript/
 ## Complete basic operations using SharePoint client library code
 
 https://docs.microsoft.com/en-us/sharepoint/dev/sp-add-ins/complete-basic-operations-using-sharepoint-client-library-code
+
+## How to: Work with Users and Groups Using JavaScript
+
+https://docs.microsoft.com/en-us/previous-versions/office/developer/sharepoint-2010/hh185012(v%3Doffice.14)
