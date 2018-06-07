@@ -116,3 +116,7 @@ https://gallery.technet.microsoft.com/office/SharePoint-20132010-68415a22
 ## How to programmatically copy Web Level, List level and List Item Level Security Information for SharePoint Sites
 
 http://rajeshagadi.blogspot.com/2011/04/how-to-programmatically-copy-web-level.html
+
+## How to: Work with Users and Groups Using JavaScript
+
+https://docs.microsoft.com/en-us/previous-versions/office/developer/sharepoint-2010/hh185012(v%3Doffice.14)
