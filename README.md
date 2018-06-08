@@ -276,3 +276,7 @@ https://docs.microsoft.com/en-us/sharepoint/technical-reference/timer-job-refere
 
 https://docs.microsoft.com/en-us/SharePoint/technical-reference/automatically-created-managed-properties-in-sharepoint
 
+## How to set up retention and deletion policies for files and folders in SharePoint
+
+https://sharepointmaven.com/set-retention-deletion-policies-files-folders-sharepoint/
+
