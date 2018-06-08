@@ -280,3 +280,7 @@ https://docs.microsoft.com/en-us/SharePoint/technical-reference/automatically-cr
 
 https://sharepointmaven.com/set-retention-deletion-policies-files-folders-sharepoint/
 
+## Overview of the SharePoint Framework
+
+https://docs.microsoft.com/en-us/sharepoint/dev/spfx/extensions/overview-extensions
+
