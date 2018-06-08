@@ -284,3 +284,6 @@ https://sharepointmaven.com/set-retention-deletion-policies-files-folders-sharep
 
 https://docs.microsoft.com/en-us/sharepoint/dev/spfx/extensions/overview-extensions
 
+## The Future of SharePoint
+
+https://www.microsoft.com/en-us/microsoft-365/blog/2016/05/04/the-future-of-sharepoint/
