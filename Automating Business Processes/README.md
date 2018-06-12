@@ -219,4 +219,8 @@ http://www.c-sharpcorner.com/article/update-managed-metadata-field-using-sharepo
 
 https://docs.microsoft.com/en-us/sharepoint/technical-reference/timer-job-reference-for-sharepoint-2013
 
+## SharePoint - Starting Site Workflows Manually
+
+http://johnliu.net/blog/2011/10/13/sharepoint-starting-site-workflows-manually.html
+
 
