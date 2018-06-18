@@ -287,3 +287,7 @@ https://docs.microsoft.com/en-us/sharepoint/dev/spfx/extensions/overview-extensi
 ## The Future of SharePoint
 
 https://www.microsoft.com/en-us/microsoft-365/blog/2016/05/04/the-future-of-sharepoint/
+
+## Developing-Microsoft-SharePoint-2013-Core-Solutions
+
+https://threewill.com/using-the-expand-odata-query-option-in-sharepoint-2013/
