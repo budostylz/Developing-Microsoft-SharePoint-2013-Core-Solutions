@@ -185,3 +185,7 @@ https://docs.microsoft.com/en-us/sharepoint/dev/sp-add-ins/complete-basic-operat
 ## How to: Work with Users and Groups Using JavaScript
 
 https://docs.microsoft.com/en-us/previous-versions/office/developer/sharepoint-2010/hh185012(v%3Doffice.14)
+
+## List API get all items limited to 100 rows
+
+https://sharepoint.stackexchange.com/questions/74777/list-api-get-all-items-limited-to-100-rows
