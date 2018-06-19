@@ -189,3 +189,7 @@ https://docs.microsoft.com/en-us/previous-versions/office/developer/sharepoint-2
 ## List API get all items limited to 100 rows
 
 https://sharepoint.stackexchange.com/questions/74777/list-api-get-all-items-limited-to-100-rows
+
+## Complete basic operations using JavaScript library code in SharePoint
+
+https://docs.microsoft.com/en-us/sharepoint/dev/sp-add-ins/complete-basic-operations-using-javascript-library-code-in-sharepoint
