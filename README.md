@@ -291,3 +291,7 @@ https://www.microsoft.com/en-us/microsoft-365/blog/2016/05/04/the-future-of-shar
 ## Using the $expand OData Query Option in SharePoint 2013
 
 https://threewill.com/using-the-expand-odata-query-option-in-sharepoint-2013/
+
+## How to display recommendations and popular items on a SharePoint Server 2013 site
+
+https://blogs.technet.microsoft.com/tothesharepoint/2014/01/14/how-to-display-recommendations-and-popular-items-on-a-sharepoint-server-2013-site/
