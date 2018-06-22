@@ -193,3 +193,7 @@ https://sharepoint.stackexchange.com/questions/74777/list-api-get-all-items-limi
 ## Complete basic operations using JavaScript library code in SharePoint
 
 https://docs.microsoft.com/en-us/sharepoint/dev/sp-add-ins/complete-basic-operations-using-javascript-library-code-in-sharepoint
+
+## OData query cheat sheet
+
+https://help.nintex.com/en-us/insight/OData/HE_CON_ODATAQueryCheatSheet.htm
