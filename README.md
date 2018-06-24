@@ -295,3 +295,7 @@ https://threewill.com/using-the-expand-odata-query-option-in-sharepoint-2013/
 ## How to display recommendations and popular items on a SharePoint Server 2013 site
 
 https://blogs.technet.microsoft.com/tothesharepoint/2014/01/14/how-to-display-recommendations-and-popular-items-on-a-sharepoint-server-2013-site/
+
+## Building a SharePoint 2013 Search Refiner with Custom Intervals
+
+https://blog.ithinksharepoint.com/2013/09/27/building-a-sharepoint-2013-search-refiner-with-custom-intervals/
