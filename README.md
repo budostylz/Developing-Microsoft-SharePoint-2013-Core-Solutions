@@ -299,3 +299,7 @@ https://blogs.technet.microsoft.com/tothesharepoint/2014/01/14/how-to-display-re
 ## Building a SharePoint 2013 Search Refiner with Custom Intervals
 
 https://blog.ithinksharepoint.com/2013/09/27/building-a-sharepoint-2013-search-refiner-with-custom-intervals/
+
+## SharePoint CSS: Tips, Tricks, and Guides
+
+http://www.sharepointcss.com
