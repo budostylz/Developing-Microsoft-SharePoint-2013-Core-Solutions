@@ -197,3 +197,7 @@ https://docs.microsoft.com/en-us/sharepoint/dev/sp-add-ins/complete-basic-operat
 ## OData query cheat sheet
 
 https://help.nintex.com/en-us/insight/OData/HE_CON_ODATAQueryCheatSheet.htm
+
+## How To Open SharePoint Application Page In Modal Dialog (Popup) Using JavaScript
+
+https://www.c-sharpcorner.com/blogs/how-to-open-sharepoint-application-page-in-modal-dialog-popup-using-javascript
