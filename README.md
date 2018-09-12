@@ -304,6 +304,10 @@ https://blog.ithinksharepoint.com/2013/09/27/building-a-sharepoint-2013-search-r
 
 http://www.sharepointcss.com
 
+## SharePoint Search REST API overview
+
+https://docs.microsoft.com/en-us/sharepoint/dev/general-development/sharepoint-search-rest-api-overview
+
 ## Using the SharePoint 2013 Search REST API
 
 https://www.skylinetechnologies.com/Blog/Skyline-Blog/May-2014/Using-the-SharePoint-2013-Search-REST-API
