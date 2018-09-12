@@ -303,3 +303,7 @@ https://blog.ithinksharepoint.com/2013/09/27/building-a-sharepoint-2013-search-r
 ## SharePoint CSS: Tips, Tricks, and Guides
 
 http://www.sharepointcss.com
+
+## Using the SharePoint 2013 Search REST API
+
+https://www.skylinetechnologies.com/Blog/Skyline-Blog/May-2014/Using-the-SharePoint-2013-Search-REST-API
