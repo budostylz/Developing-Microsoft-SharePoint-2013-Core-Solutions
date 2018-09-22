@@ -201,3 +201,7 @@ https://help.nintex.com/en-us/insight/OData/HE_CON_ODATAQueryCheatSheet.htm
 ## How To Open SharePoint Application Page In Modal Dialog (Popup) Using JavaScript
 
 https://www.c-sharpcorner.com/blogs/how-to-open-sharepoint-application-page-in-modal-dialog-popup-using-javascript
+
+## SharePoint REST API to retrieve more than 5000 items.
+
+https://codewithrohit.wordpress.com/2017/06/01/sharepoint-rest-api/
