@@ -311,3 +311,7 @@ https://docs.microsoft.com/en-us/sharepoint/dev/general-development/sharepoint-s
 ## Using the SharePoint 2013 Search REST API
 
 https://www.skylinetechnologies.com/Blog/Skyline-Blog/May-2014/Using-the-SharePoint-2013-Search-REST-API
+
+## Use Office Web Apps with SharePoint 2013
+
+https://docs.microsoft.com/en-us/webappsserver/use-office-web-apps-with-sharepoint-2013
