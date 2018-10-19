@@ -315,3 +315,7 @@ https://www.skylinetechnologies.com/Blog/Skyline-Blog/May-2014/Using-the-SharePo
 ## Use Office Web Apps with SharePoint 2013
 
 https://docs.microsoft.com/en-us/webappsserver/use-office-web-apps-with-sharepoint-2013
+
+## How to create an organizational chart with SharePoint and Office 2013
+
+https://en.share-gate.com/blog/create-organizational-chart-sharepoint-office-2013
