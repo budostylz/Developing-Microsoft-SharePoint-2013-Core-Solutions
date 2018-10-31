@@ -205,3 +205,7 @@ https://www.c-sharpcorner.com/blogs/how-to-open-sharepoint-application-page-in-m
 ## SharePoint REST API to retrieve more than 5000 items.
 
 https://codewithrohit.wordpress.com/2017/06/01/sharepoint-rest-api/
+
+## Microsoft.SharePoint.Client namespace
+
+https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.client.aspx
