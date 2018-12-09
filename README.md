@@ -319,3 +319,7 @@ https://docs.microsoft.com/en-us/webappsserver/use-office-web-apps-with-sharepoi
 ## How to create an organizational chart with SharePoint and Office 2013
 
 https://en.share-gate.com/blog/create-organizational-chart-sharepoint-office-2013
+
+## SharePoint 2013 - Get SPListItem versions via REST
+
+https://stackoverflow.com/questions/24423657/sharepoint-2013-get-splistitem-versions-via-rest
