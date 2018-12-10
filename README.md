@@ -330,3 +330,7 @@ https://someonedomain.sharepoint.com/quad/_layouts/15/versions.aspx?List={400CEE
 
 https://social.msdn.microsoft.com/Forums/vstudio/en-US/ae2e197a-efba-41c4-a10d-a1dd34508fa2/getting-list-item-versioning-by-jsom?forum=sharepointdevelopment
 
+## Governance SharePoint Server
+
+https://docs.microsoft.com/en-us/sharepoint/governance/governance
+
