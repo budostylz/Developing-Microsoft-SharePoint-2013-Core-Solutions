@@ -334,3 +334,6 @@ https://social.msdn.microsoft.com/Forums/vstudio/en-US/ae2e197a-efba-41c4-a10d-a
 
 https://docs.microsoft.com/en-us/sharepoint/governance/governance
 
+## Modal Popup wont popup unless page is checked out?
+
+https://sharepoint.stackexchange.com/questions/68079/modal-popup-wont-popup-unless-page-is-checked-out
