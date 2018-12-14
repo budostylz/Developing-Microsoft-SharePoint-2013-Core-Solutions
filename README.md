@@ -337,3 +337,7 @@ https://docs.microsoft.com/en-us/sharepoint/governance/governance
 ## Modal Popup wont popup unless page is checked out?
 
 https://sharepoint.stackexchange.com/questions/68079/modal-popup-wont-popup-unless-page-is-checked-out
+
+## SharePoint Modal Dialog: passing values back and forth
+
+https://sptalks.wordpress.com/2013/03/12/sharepoint-modal-dialog-passing-values-back-and-forth/
