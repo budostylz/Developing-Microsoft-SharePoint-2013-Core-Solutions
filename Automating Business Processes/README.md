@@ -223,4 +223,8 @@ https://docs.microsoft.com/en-us/sharepoint/technical-reference/timer-job-refere
 
 http://johnliu.net/blog/2011/10/13/sharepoint-starting-site-workflows-manually.html
 
+## Add New Item Permission Using SharePoint Workflow And REST API
+
+https://www.c-sharpcorner.com/article/add-new-item-permission-using-sharepoint-workflow-and-rest-api/
+
 
