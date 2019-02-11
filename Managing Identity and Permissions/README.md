@@ -125,4 +125,7 @@ https://docs.microsoft.com/en-us/previous-versions/office/developer/sharepoint-2
 
 https://www.c-sharpcorner.com/UploadFile/a30324/create-sharepoint-security-group-using-jsom/
 
+## How to: Work with Roles Using JavaScript
+
+https://docs.microsoft.com/en-us/previous-versions/office/developer/sharepoint-2010/hh185014(v%3doffice.14)
 
