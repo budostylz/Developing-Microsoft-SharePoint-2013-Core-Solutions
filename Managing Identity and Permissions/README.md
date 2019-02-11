@@ -129,5 +129,8 @@ https://docs.microsoft.com/en-us/previous-versions/office/developer/sharepoint-2
 
 https://www.c-sharpcorner.com/UploadFile/a30324/create-sharepoint-security-group-using-jsom/
 
+## Use the client-side People Picker control in SharePoint-hosted SharePoint Add-ins
+
+https://docs.microsoft.com/en-us/sharepoint/dev/sp-add-ins/use-the-client-side-people-picker-control-in-sharepoint-hosted-sharepoint-add-in
 
 
