@@ -121,11 +121,13 @@ http://rajeshagadi.blogspot.com/2011/04/how-to-programmatically-copy-web-level.h
 
 https://docs.microsoft.com/en-us/previous-versions/office/developer/sharepoint-2010/hh185012(v%3Doffice.14)
 
+## How to: Work with Roles Using JavaScript
+
+https://docs.microsoft.com/en-us/previous-versions/office/developer/sharepoint-2010/hh185014(v%3doffice.14)
+
 ## Create SharePoint Security Group Using JSOM
 
 https://www.c-sharpcorner.com/UploadFile/a30324/create-sharepoint-security-group-using-jsom/
 
-## How to: Work with Roles Using JavaScript
 
-https://docs.microsoft.com/en-us/previous-versions/office/developer/sharepoint-2010/hh185014(v%3doffice.14)
 
