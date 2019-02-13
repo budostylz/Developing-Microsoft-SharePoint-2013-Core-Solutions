@@ -341,3 +341,10 @@ https://sharepoint.stackexchange.com/questions/68079/modal-popup-wont-popup-unle
 ## SharePoint Modal Dialog: passing values back and forth
 
 https://sptalks.wordpress.com/2013/03/12/sharepoint-modal-dialog-passing-values-back-and-forth/
+
+## Managing data in Access to SharePoint and vice Versa
+
+0. Configure Site Columns and Content Types
+1. Verify all fields are exact mappings between SharePoint and Access.
+2. Ensure Multi-Line of Text fields are set for 'Plain Text'
+
