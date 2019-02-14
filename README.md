@@ -348,3 +348,7 @@ https://sptalks.wordpress.com/2013/03/12/sharepoint-modal-dialog-passing-values-
 1. Verify all fields are exact mappings between SharePoint and Access.
 2. Ensure Multi-Line of Text fields are set for 'Plain Text'
 
+## SP namespace (sp.js)
+
+https://msdn.microsoft.com/en-us/library/office/jj246996.aspx
+
