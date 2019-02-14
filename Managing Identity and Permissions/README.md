@@ -133,4 +133,7 @@ https://www.c-sharpcorner.com/UploadFile/a30324/create-sharepoint-security-group
 
 https://docs.microsoft.com/en-us/sharepoint/dev/sp-add-ins/use-the-client-side-people-picker-control-in-sharepoint-hosted-sharepoint-add-in
 
+## sharepoint 2013 client people picker control in script editor
+
+https://social.technet.microsoft.com/Forums/ie/en-US/670313cb-233b-43f6-b603-c536a2ad5dae/sharepoint-2013-client-people-picker-control-in-script-editor?forum=sharepointgeneral
 
