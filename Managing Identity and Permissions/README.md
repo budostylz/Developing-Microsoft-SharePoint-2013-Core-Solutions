@@ -137,3 +137,7 @@ https://docs.microsoft.com/en-us/sharepoint/dev/sp-add-ins/use-the-client-side-p
 
 https://social.technet.microsoft.com/Forums/ie/en-US/670313cb-233b-43f6-b603-c536a2ad5dae/sharepoint-2013-client-people-picker-control-in-script-editor?forum=sharepointgeneral
 
+## How To Add Users In A SharePoint Group Using JSOM
+
+https://www.c-sharpcorner.com/blogs/how-to-add-users-sharepoint-group-using-jsom
+
