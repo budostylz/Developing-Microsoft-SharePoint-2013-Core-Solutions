@@ -268,6 +268,10 @@ https://msdn.microsoft.com/en-us/library/office/jj860569.aspx
 
 http://definitelytyped.org/docs/sharepoint--SharePoint/index.html
 
+## SP namespace (sp.js)
+
+https://msdn.microsoft.com/en-us/library/office/jj246996.aspx
+
 ## Timer job reference for SharePoint 2013
 
 https://docs.microsoft.com/en-us/sharepoint/technical-reference/timer-job-reference-for-sharepoint-2013
@@ -348,7 +352,5 @@ https://sptalks.wordpress.com/2013/03/12/sharepoint-modal-dialog-passing-values-
 1. Verify all fields are exact mappings between SharePoint and Access.
 2. Ensure Multi-Line of Text fields are set for 'Plain Text'
 
-## SP namespace (sp.js)
 
-https://msdn.microsoft.com/en-us/library/office/jj246996.aspx
 
