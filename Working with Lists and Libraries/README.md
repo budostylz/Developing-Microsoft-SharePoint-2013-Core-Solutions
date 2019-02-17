@@ -245,8 +245,8 @@ https://spform.com/javascript-framework/getting-setting-sharepoint-form-field-va
 
 https://docs.microsoft.com/en-us/previous-versions/office/developer/sharepoint-2010/hh185005(v%3Doffice.14)
 
-## How to: Create, Update, and Delete List Items Using JavaScript
+## Configure the Content Organizer to route documents
 
-https://docs.microsoft.com/en-us/previous-versions/office/developer/sharepoint-2010/hh185011(v%3doffice.14)
+https://support.office.com/en-us/article/configure-the-content-organizer-to-route-documents-b0875658-69bc-4f48-addb-e3c5f01f2d9a
 
 
