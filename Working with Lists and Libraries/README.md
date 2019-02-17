@@ -38,6 +38,10 @@ https://msdn.microsoft.com/en-us/library/microsoft.office.server.utilities.conte
 
 https://msdn.microsoft.com/library/microsoft.sharepoint.spquery
 
+## Configure the Content Organizer to route documents
+
+https://support.office.com/en-us/article/configure-the-content-organizer-to-route-documents-b0875658-69bc-4f48-addb-e3c5f01f2d9a
+
 ## SPSiteDataQuery class
 
 https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.spsitedataquery.aspx
