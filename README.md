@@ -356,3 +356,17 @@ https://sptalks.wordpress.com/2013/03/12/sharepoint-modal-dialog-passing-values-
 
 https://docs.microsoft.com/en-us/previous-versions/office/sharepoint-csom/ee536725(v=office.15)
 
+## Sync SharePoint Lists to Access(IN ACCESS)
+
+1. Link SpreadSheet
+2. Click CREATE Tab
+3. Click QUERY DESIGN
+4. SELECT Spreadsheet(Workbook)
+5. Right Click Gray Area
+6. SELECT Query Type -> Append Query
+7. SELECT Sharepoint Table Name
+8. SELECT Fields in Data Model and Drop down to Field Column
+9. SELECT View to check query view
+10. Right Click Query Tab --> Design View
+11. SELECT RUN
+
