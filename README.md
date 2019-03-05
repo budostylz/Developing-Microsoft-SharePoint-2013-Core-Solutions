@@ -342,6 +342,12 @@ https://docs.microsoft.com/en-us/sharepoint/governance/governance
 
 https://sharepoint.stackexchange.com/questions/68079/modal-popup-wont-popup-unless-page-is-checked-out
 
+<!--MS:<SharePoint:ScriptLink ID="ScriptLink2" Name="SP.js" runat="server"     OnDemand="false" LoadAfterUI="true" Localizable="false">-->
+    <!--ME:</SharePoint:ScriptLink>-->
+    <!--MS:<SharePoint:ScriptLink ID="ScriptLink3" Name="SP.UI.Dialog.js" runat="server" OnDemand="false" LoadAfterUI="true" Localizable="false">-->
+    <!--ME:</SharePoint:ScriptLink>-->
+    <!--MS:<SharePoint:ScriptLink ID="ScriptLink4" Name="SP.Ribbon.js" runat="server" OnDemand="false" LoadAfterUI="true" Localizable="false">-->
+
 ## SharePoint Modal Dialog: passing values back and forth
 
 https://sptalks.wordpress.com/2013/03/12/sharepoint-modal-dialog-passing-values-back-and-forth/
