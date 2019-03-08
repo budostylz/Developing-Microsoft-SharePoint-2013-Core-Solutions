@@ -376,3 +376,6 @@ https://docs.microsoft.com/en-us/previous-versions/office/sharepoint-csom/ee5367
 10. Right Click Query Tab --> Design View
 11. SELECT RUN
 
+## Concate Query
+
+key4: [mdep] & [ape] & [appn] & [cmd]
