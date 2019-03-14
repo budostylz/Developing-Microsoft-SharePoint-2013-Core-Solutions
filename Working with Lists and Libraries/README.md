@@ -249,4 +249,10 @@ https://docs.microsoft.com/en-us/previous-versions/office/developer/sharepoint-2
 
 https://support.office.com/en-us/article/configure-the-content-organizer-to-route-documents-b0875658-69bc-4f48-addb-e3c5f01f2d9a
 
+## Filter Using URL Parameters
+
+https://sharepoint.stackexchange.com/questions/3688/filter-a-list-view-using-url-parameters
+
+
+
 
