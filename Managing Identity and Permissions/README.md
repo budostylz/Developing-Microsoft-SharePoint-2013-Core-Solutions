@@ -141,3 +141,6 @@ https://social.technet.microsoft.com/Forums/ie/en-US/670313cb-233b-43f6-b603-c53
 
 https://www.c-sharpcorner.com/blogs/how-to-add-users-sharepoint-group-using-jsom
 
+## Column level permissions 
+
+https://social.msdn.microsoft.com/Forums/office/en-US/27f274f7-b527-45f3-ac9d-c2da8f8bfa71/column-level-permissions?forum=sharepointdevelopmentprevious
