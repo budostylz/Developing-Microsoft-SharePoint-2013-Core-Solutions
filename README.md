@@ -379,3 +379,7 @@ https://docs.microsoft.com/en-us/previous-versions/office/sharepoint-csom/ee5367
 ## Concate Query
 
 key4: [mdep] & [ape] & [appn] & [cmd]
+
+## Creating SharePoint Add-ins that use the cross-domain library
+
+https://docs.microsoft.com/en-us/sharepoint/dev/sp-add-ins/creating-sharepoint-add-ins-that-use-the-cross-domain-library
