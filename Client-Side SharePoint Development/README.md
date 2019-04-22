@@ -1,3 +1,7 @@
+## SharepointPlus 5.2
+
+https://aymkdn.github.io/SharepointPlus/
+
 ## Minimal Download Strategy overview
 
 https://dev.office.com/sharepoint/docs/general-development/minimal-download-strategy-overview
