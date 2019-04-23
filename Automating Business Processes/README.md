@@ -38,6 +38,10 @@ https://msdn.microsoft.com/en-us/library/office/bb897931.aspx
 
 https://support.office.com/en-us/article/Workflow-actions-in-SharePoint-Designer-2010-A-quick-reference-guide-5a7ad276-0ed7-49b0-b652-e56a77dd96c6
 
+## Create a Nintex Workflow
+
+https://web.fnal.gov/organization/Finance/business/testarea/NW2013_create_a_very_basic_workflow.pdf
+
 ## Step by Step Approach to Create a Visual Studio SharePoint Workflow (Sequential)
 
 http://www.codeproject.com/Tips/620173/Step-by-Step-Approach-to-Create-a-Visual-Studio-Sh
