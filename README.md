@@ -383,3 +383,9 @@ key4: [mdep] & [ape] & [appn] & [cmd]
 ## Creating SharePoint Add-ins that use the cross-domain library
 
 https://docs.microsoft.com/en-us/sharepoint/dev/sp-add-ins/creating-sharepoint-add-ins-that-use-the-cross-domain-library
+
+## Site design JSON schema
+
+https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/site-design-json-schema
+
+
