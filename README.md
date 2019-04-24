@@ -388,4 +388,6 @@ https://docs.microsoft.com/en-us/sharepoint/dev/sp-add-ins/creating-sharepoint-a
 
 https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/site-design-json-schema
 
+## SharePoint site design and site script overview
 
+https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/site-design-overview
