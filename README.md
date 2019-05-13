@@ -395,4 +395,10 @@ https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/site-d
 ## MegaProxy
 https://www.megaproxy.com/freesurf/
 
+## Customize newform save button - Save and redirect to another form
+https://sharepoint.stackexchange.com/questions/153673/customize-newform-save-button-save-and-redirect-to-another-form
+
+## How-to: Redirect to a different page after adding new list items in SharePoint
+https://www.nhaustralia.com.au/blog/How-to-Redirect-to-a-different-page-after-adding-new-list-items-in-SharePoint/
+
 
