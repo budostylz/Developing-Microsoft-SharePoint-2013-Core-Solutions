@@ -401,4 +401,10 @@ https://sharepoint.stackexchange.com/questions/153673/customize-newform-save-but
 ## How-to: Redirect to a different page after adding new list items in SharePoint
 https://www.nhaustralia.com.au/blog/How-to-Redirect-to-a-different-page-after-adding-new-list-items-in-SharePoint/
 
+ ## Get the List Item Id and Pass it through a href link
+https://social.msdn.microsoft.com/Forums/en-US/c0ec333a-c85c-470c-9cc2-a081666663ad/get-the-list-item-id-and-pass-it-through-a-href-link?forum=sharepointcustomizationprevious
+
+## dsQueryResponse schema
+https://docs.microsoft.com/en-us/sharepoint/dev/schema/dsqueryresponse-schema
+
 
