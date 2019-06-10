@@ -1,3 +1,10 @@
+## CRUD On List Items Using Web Services And jQuery In SharePoint 2013 - Part 1
+https://www.c-sharpcorner.com/UploadFile/sagarp/crud-on-list-items-using-web-services-and-jquery-in-sharepoi/
+
+## CRUD Operation On List Items Using JSOM In SharePoint 2013 - Part 2
+https://www.c-sharpcorner.com/UploadFile/sagarp/crud-operation-on-list-items-using-jsomin-sharepoint-2013/
+
+
 ## What is PostBack in ASP.NET
 
 http://www.c-sharpcorner.com/uploadfile/2f73dd/what-is-postback-in-Asp-Net/
