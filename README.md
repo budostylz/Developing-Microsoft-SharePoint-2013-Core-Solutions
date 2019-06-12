@@ -407,4 +407,6 @@ https://social.msdn.microsoft.com/Forums/en-US/c0ec333a-c85c-470c-9cc2-a08166666
 ## dsQueryResponse schema
 https://docs.microsoft.com/en-us/sharepoint/dev/schema/dsqueryresponse-schema
 
+## Nintex Software Development Kit
+https://help.nintex.com/en-US/sdks/sdk2013/
 
