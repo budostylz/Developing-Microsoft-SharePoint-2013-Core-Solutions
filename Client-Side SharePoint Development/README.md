@@ -213,3 +213,7 @@ https://codewithrohit.wordpress.com/2017/06/01/sharepoint-rest-api/
 ## Microsoft.SharePoint.Client namespace
 
 https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.client.aspx
+
+## How to Use JSLink with List View Web Part in SharePoint 2013? 
+http://www.sharepointdiary.com/2015/07/how-to-use-jslink-with-listview-webpart-in-sharepoint-2013.html#ixzz5rOTtVWBW
+
