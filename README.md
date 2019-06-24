@@ -413,4 +413,7 @@ https://help.nintex.com/en-US/sdks/sdk2013/
 ## Custom JavaScript function loaded after the UI has been loaded [onLoad] in SharePoint 2013
 https://blog.josequinto.com/2015/06/16/custom-javascript-function-loaded-after-the-ui-has-loaded-in-sharepoint-2013/#Events
 
+## Migrate jQuery and FullCalendar solution built using Script Editor web part to SharePoint Framework
+https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/guidance/migrate-jquery-fullcalendar-script-to-spfx
+
 
