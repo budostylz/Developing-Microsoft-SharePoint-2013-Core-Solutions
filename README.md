@@ -416,4 +416,7 @@ https://blog.josequinto.com/2015/06/16/custom-javascript-function-loaded-after-t
 ## Migrate jQuery and FullCalendar solution built using Script Editor web part to SharePoint Framework
 https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/guidance/migrate-jquery-fullcalendar-script-to-spfx
 
+## Self-paced Labs
+https://www.microsoft.com/handsonlabs/SelfPacedLabs
+
 
