@@ -217,3 +217,6 @@ https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.client.aspx
 ## How to Use JSLink with List View Web Part in SharePoint 2013? 
 http://www.sharepointdiary.com/2015/07/how-to-use-jslink-with-listview-webpart-in-sharepoint-2013.html#ixzz5rOTtVWBW
 
+## Create, Update or Delete List Views using JSOM in SharePoint
+https://www.c-sharpcorner.com/article/create-update-or-delete-list-views-using-jsom-in-sharepoint/
+
