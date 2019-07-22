@@ -419,4 +419,7 @@ https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/guidance/migrate-
 ## Self-paced Labs
 https://www.microsoft.com/handsonlabs/SelfPacedLabs
 
+## SP.js
+http://definitelytyped.org/docs/sharepoint--SharePoint/modules/sp.html
+
 
