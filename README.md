@@ -129,7 +129,7 @@ https://gallery.technet.microsoft.com/Import-list-content-to-f735d7fb
  
 ## Error (“Windows Cannot Access ..”) Mapping Master Page Gallery as Network drive(Apply's to Windows Server)
 
-http://www.learningsharepoint.com/2013/03/01/error-windows-cannot-access-mapping-master-page-gallery-as-network-drive/
+https://social.technet.microsoft.com/Forums/en-US/fbf0fdeb-7866-4f85-8d54-34f61d130f71/mapping-a-drive-to-sharepoint-2013?forum=sharepointgeneral
 
 ## Export any web part from a SharePoint page
 
