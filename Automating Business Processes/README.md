@@ -235,4 +235,7 @@ http://johnliu.net/blog/2011/10/13/sharepoint-starting-site-workflows-manually.h
 
 https://www.c-sharpcorner.com/article/add-new-item-permission-using-sharepoint-workflow-and-rest-api/
 
+## Workflow History URL
+[server]/[site]/Lists/Workflow%20History/AllItems.aspx
+
 
