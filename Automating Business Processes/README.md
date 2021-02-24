@@ -238,4 +238,20 @@ https://www.c-sharpcorner.com/article/add-new-item-permission-using-sharepoint-w
 ## Workflow History URL
 [server]/[site]/Lists/Workflow%20History/AllItems.aspx
 
+## How to Call a REST API from SharePoint Designer Workflow?
+
+https://www.sharepointdiary.com/2019/07/call-rest-api-from-sharepoint-designer-workflow.html
+
+# Read more: https://www.sharepointdiary.com/2019/07/call-rest-api-from-sharepoint-designer-workflow.html#ixzz6nQ9qryjI
+
+## Create List Using REST in SharePoint 2013 Workflow
+
+https://www.c-sharpcorner.com/article/how-to-create-a-list-using-http-web-service-in-sharepoint-designer-2013-workflow/
+
+## How to clear multi-value Lookup field using REST API
+
+http://sharepoint.sureshc.com/2018/01/how-to-clear-multi-value-lookup-field-rest-api.html
+
+
+
 
