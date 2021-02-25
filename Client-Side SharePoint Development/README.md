@@ -220,3 +220,6 @@ http://www.sharepointdiary.com/2015/07/how-to-use-jslink-with-listview-webpart-i
 ## Create, Update or Delete List Views using JSOM in SharePoint
 https://www.c-sharpcorner.com/article/create-update-or-delete-list-views-using-jsom-in-sharepoint/
 
+## REST EndPoints
+https://docs.microsoft.com/en-us/sharepoint/dev/sp-add-ins/complete-basic-operations-using-sharepoint-rest-endpoints
+
