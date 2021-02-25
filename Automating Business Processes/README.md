@@ -254,6 +254,10 @@ https://www.c-sharpcorner.com/article/how-to-create-a-list-using-http-web-servic
 
 http://sharepoint.sureshc.com/2018/01/how-to-clear-multi-value-lookup-field-rest-api.html
 
+## Power Automate
+
+https://docs.microsoft.com/en-us/learn/modules/introduction-power-automate/
+
 
 
 
