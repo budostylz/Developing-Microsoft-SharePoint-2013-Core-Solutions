@@ -223,3 +223,6 @@ https://www.c-sharpcorner.com/article/create-update-or-delete-list-views-using-j
 ## REST EndPoints
 https://docs.microsoft.com/en-us/sharepoint/dev/sp-add-ins/complete-basic-operations-using-sharepoint-rest-endpoints
 
+## Pass file name having space to update operation using REST API
+https://sharepoint.stackexchange.com/questions/267243/pass-file-name-having-space-to-update-operation-using-rest-api
+
