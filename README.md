@@ -435,3 +435,6 @@ https://domain/_layouts/15/appprincipals.aspx
 
 ## Generate the Client ID and Client Secret
 [Generate the Client ID and Client Secret](https://docs.informatica.com/integration-cloud/cloud-data-integration-connectors/current-version/microsoft-sharepoint-online-connector/introduction-to-microsoft-sharepoint-online-connector/administration-of-microsoft-sharepoint-online-connector/generate-the-client-id-and-client-secret.html)
+
+## Granting access using SharePoint App-Only
+[Granting access using SharePoint App-Only](https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/security-apponly-azureacs)
