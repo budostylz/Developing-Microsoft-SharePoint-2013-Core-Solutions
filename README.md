@@ -424,4 +424,8 @@ https://www.microsoft.com/handsonlabs/SelfPacedLabs
 ## SP.js
 http://definitelytyped.org/docs/sharepoint--SharePoint/modules/sp.html
 
+## SharePoint REST operations via the Microsoft Graph REST API
+[SharePoint REST operations via the Microsoft Graph REST API](https://docs.microsoft.com/en-us/sharepoint/dev/apis/sharepoint-rest-graph)
 
+## Working with SharePoint sites in Microsoft Graph
+[Working with SharePoint sites in Microsoft Graph](https://docs.microsoft.com/en-us/graph/api/resources/sharepoint?view=graph-rest-1.0)
