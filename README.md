@@ -438,3 +438,6 @@ https://domain/_layouts/15/appprincipals.aspx
 
 ## Granting access using SharePoint App-Only
 [Granting access using SharePoint App-Only](https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/security-apponly-azureacs)
+
+## Retrieve Files and Items from Sharepoint Using Microsoft Graph API
+[Retrieve Files and Items from Sharepoint Using Microsoft Graph API](https://www.c-sharpcorner.com/article/retrieve-files-items-from-sharepoint-using-microsoft-graph-api/)
