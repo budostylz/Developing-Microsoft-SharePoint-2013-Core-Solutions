@@ -429,3 +429,9 @@ http://definitelytyped.org/docs/sharepoint--SharePoint/modules/sp.html
 
 ## Working with SharePoint sites in Microsoft Graph
 [Working with SharePoint sites in Microsoft Graph](https://docs.microsoft.com/en-us/graph/api/resources/sharepoint?view=graph-rest-1.0)
+
+## APP ID ENDPOINT
+https://domain/_layouts/15/appprincipals.aspx
+
+## Generate the Client ID and Client Secret
+[Generate the Client ID and Client Secret](https://docs.informatica.com/integration-cloud/cloud-data-integration-connectors/current-version/microsoft-sharepoint-online-connector/introduction-to-microsoft-sharepoint-online-connector/administration-of-microsoft-sharepoint-online-connector/generate-the-client-id-and-client-secret.html)
