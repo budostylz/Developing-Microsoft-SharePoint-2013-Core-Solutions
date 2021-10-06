@@ -441,3 +441,6 @@ https://domain/_layouts/15/appprincipals.aspx
 
 ## Retrieve Files and Items from Sharepoint Using Microsoft Graph API
 [Retrieve Files and Items from Sharepoint Using Microsoft Graph API](https://www.c-sharpcorner.com/article/retrieve-files-items-from-sharepoint-using-microsoft-graph-api/)
+
+## How To Create A Form Using InfoPath 2013 for Sharepoint
+[How To Create A Form Using InfoPath 2013 for Sharepoint](https://www.youtube.com/watch?v=HSyrqbgLdbs)
