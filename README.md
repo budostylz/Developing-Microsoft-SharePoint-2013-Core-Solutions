@@ -444,3 +444,6 @@ https://domain/_layouts/15/appprincipals.aspx
 
 ## How To Create A Form Using InfoPath 2013 for Sharepoint
 [How To Create A Form Using InfoPath 2013 for Sharepoint](https://www.youtube.com/watch?v=HSyrqbgLdbs)
+
+## Resources
+[Why Teams Doesn’t Delete the SharePoint Folder When Removing a Channel](https://office365itpros.com/2019/04/02/deleting-teams-channel-sharepoint-folder/)
