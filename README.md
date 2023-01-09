@@ -453,3 +453,6 @@ https://domain/_layouts/15/appprincipals.aspx
 
 ## List Entity Name
 [A type named 'SP.Data.ClientsListItem' could not be resolved by the model. When a model is available, each type name must resolve to a valid type](https://sharepoint.stackexchange.com/questions/205630/a-type-named-sp-data-clientslistitem-could-not-be-resolved-by-the-model-when)
+
+## Excel To Json Converter
+[Excel To Json Converter](https://beautifytools.com/excel-to-json-converter.php)
