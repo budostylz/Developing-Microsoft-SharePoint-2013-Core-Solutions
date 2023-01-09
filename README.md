@@ -447,3 +447,9 @@ https://domain/_layouts/15/appprincipals.aspx
 
 ## Resources
 [Why Teams Doesn’t Delete the SharePoint Folder When Removing a Channel](https://office365itpros.com/2019/04/02/deleting-teams-channel-sharepoint-folder/)
+
+## CRUD Operations On A SharePoint List Using REST API
+[CRUD Operations On A SharePoint List Using REST API](https://www.c-sharpcorner.com/article/crud-operation-on-a-sharepoint-list-using-rest-api/)
+
+## List Entity Name
+[A type named 'SP.Data.ClientsListItem' could not be resolved by the model. When a model is available, each type name must resolve to a valid type](https://sharepoint.stackexchange.com/questions/205630/a-type-named-sp-data-clientslistitem-could-not-be-resolved-by-the-model-when)
