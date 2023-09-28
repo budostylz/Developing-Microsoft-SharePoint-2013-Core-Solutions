@@ -456,3 +456,6 @@ https://domain/_layouts/15/appprincipals.aspx
 
 ## Excel To Json Converter
 [Excel To Json Converter](https://beautifytools.com/excel-to-json-converter.php)
+
+## Understanding SharePoint’s “ddwrt:DataBind” syntax
+[Understanding SharePoint’s “ddwrt:DataBind” syntax](http://www.bryancook.net/2009/09/understanding-sharepoints-ddwrtdatabind.html)
