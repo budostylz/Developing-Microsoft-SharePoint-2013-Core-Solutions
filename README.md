@@ -459,3 +459,6 @@ https://domain/_layouts/15/appprincipals.aspx
 
 ## Understanding SharePoint’s “ddwrt:DataBind” syntax
 [Understanding SharePoint’s “ddwrt:DataBind” syntax](http://www.bryancook.net/2009/09/understanding-sharepoints-ddwrtdatabind.html)
+
+## Azure DevOps
+[Azure DevOps](https://budostylz.visualstudio.com/)
